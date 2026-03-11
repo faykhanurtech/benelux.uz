@@ -9,5 +9,25 @@
     "join": "Become a Member",
     "events": "Events",
     "contact": "Contact"
+  },
+  "footer": {
+    "information": "Information",
+    "agreement": "User Agreement",
+    "privacy": "Privacy Policy",
+    "faq": "Frequently Asked Questions",
+
+    "navigation": "Navigation",
+    "home": "Home",
+    "about-us": "About",
+    "events": "Events",
+    "contact": "Contact",
+
+    "about": "About the Chamber",
+    "about_chamber": "About the Chamber",
+    "news": "News",
+
+    "company": "FAYKHANUR LLC",
+    "address": "Republic of Uzbekistan, Tashkent, Yakkasaray district, Babur street 67/4",
+    "registration": "Registration number 5220787"
   }
 }

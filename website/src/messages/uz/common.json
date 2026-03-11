@@ -9,5 +9,25 @@
     "join": "A'zo bo'lish",
     "events": "Tadbirlar",
     "contact": "Aloqa"
+  },
+  "footer": {
+    "information": "Ma'lumot",
+    "agreement": "Foydalanuvchi kelishuvi",
+    "privacy": "Maxfiylik siyosati",
+    "faq": "Ko‘p beriladigan savollar",
+
+    "navigation": "Navigatsiya",
+    "home": "Bosh sahifa",
+    "about-us": "Biz haqimizda",
+    "events": "Tadbirlar",
+    "contact": "Kontaktlar",
+
+    "about": "Palata haqida",
+    "about_chamber": "Savdo palatasi haqida",
+    "news": "Yangiliklar",
+
+    "company": "FAYKHANUR MCHJ",
+    "address": "O‘zbekiston Respublikasi, Toshkent shahri, Yakkasaroy tumani, Bobur ko‘chasi 67/4",
+    "registration": "Ro‘yxatdan o‘tish raqami 5220787"
   }
 }
