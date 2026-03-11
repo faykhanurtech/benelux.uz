@@ -1,0 +1,13 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "about_chamber": "About Chamber",
+    "board": "Board",
+    "members": "Membership",
+    "members_list": "Members",
+    "join": "Become a Member",
+    "events": "Events",
+    "contact": "Contact"
+  }
+}
