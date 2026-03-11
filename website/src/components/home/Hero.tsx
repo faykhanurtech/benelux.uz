@@ -13,7 +13,7 @@ export default function Hero() {
 
     <section className="w-full">
 
-        <div className="relative w-full h-[420px] md:h-[520px] lg:h-[600px] overflow-hidden">
+        <div className="relative w-full h-[65vh] md:h-[75vh] lg:h-[85vh] overflow-hidden">
 
           {/* VIDEO */}
 
@@ -54,7 +54,7 @@ export default function Hero() {
 
               <Link
                 href={`/${locale}/about`}
-                className="inline-block mt-8 bg-white text-gray-900 px-6 py-3 rounded-md font-medium hover:bg-gray-200 transition"
+                className="inline-block mt-8 border-2 border-white text-white px-8 py-3 font-medium hover:bg-white hover:text-gray-900 transition"
               >
                 {t("button")}
               </Link>

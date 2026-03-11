@@ -32,7 +32,9 @@ export default function Header() {
           </Link>
 
 
-          {/* DESKTOP MENU */}
+          {/* DESKTOP RIGHT SIDE */}
+
+          <div className="hidden lg:flex items-center gap-8">
 
           <nav className="hidden lg:flex items-center gap-10 text-gray-800 font-medium">
 
@@ -159,6 +161,15 @@ export default function Header() {
 
           </nav>
 
+          <Link
+            href={`/${locale}/join`}
+            className="ml-6 bg-[#23256E] text-white px-6 py-3 font-medium hover:opacity-90 transition"
+          >
+            {t("join")}
+          </Link>
+
+          </div>
+
 
           {/* MOBILE BUTTON */}
 
@@ -191,7 +202,7 @@ export default function Header() {
 
         <div className="fixed inset-0 bg-white z-40 lg:hidden">
 
-          <div className="flex items-center justify-between px-6 py-3 border-b border-gray-200">
+          <div className="flex items-center justify-between px-6 py-6 border-b border-gray-200">
 
             <Link href={`/${locale}`} onClick={() => setMobileOpen(false)}>
               <Image src="/logo.svg" alt="Benelux" width={160} height={40}/>
@@ -231,6 +242,73 @@ export default function Header() {
               </Link>
 
             </nav>
+
+            {/* MOBILE LANGUAGE */}
+
+            <div className="mt-8 relative">
+
+              <button
+                onClick={() => setLangOpen(!langOpen)}
+                className="flex items-center gap-3 text-lg"
+              >
+
+                <Image
+                  src={`/flags/${locale}.svg`}
+                  alt={locale}
+                  width={22}
+                  height={14}
+                />
+
+                {locale.toUpperCase()}
+
+                <ChevronDown
+                  size={18}
+                  className={`transition-transform ${langOpen ? "rotate-180" : ""}`}
+                />
+
+              </button>
+
+
+              {langOpen && (
+
+                <div className="mt-4 flex flex-col gap-4">
+
+                  {languages.map(lang => (
+
+                    <Link
+                      key={lang}
+                      href={`/${lang}`}
+                      onClick={() => setMobileOpen(false)}
+                      className="flex items-center gap-3 text-lg"
+                    >
+
+                      <Image
+                        src={`/flags/${lang}.svg`}
+                        alt={lang}
+                        width={22}
+                        height={14}
+                      />
+
+                      {lang.toUpperCase()}
+
+                    </Link>
+
+                  ))}
+
+                </div>
+
+              )}
+
+            </div>
+
+
+            <Link
+              href={`/${locale}/join`}
+              onClick={() => setMobileOpen(false)}
+              className="mt-8 block w-full bg-[#23256E] text-white text-center py-3 font-medium"
+            >
+              {t("join")}
+            </Link>
 
           </div>
 
