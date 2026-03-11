@@ -3,5 +3,9 @@
     "title": "BENELUX Chamber of Commerce in Uzbekistan",
     "subtitle": "Connecting companies and entrepreneurs from Belgium, the Netherlands and Luxembourg with the business community of Uzbekistan.",
     "button": "Learn more"
+  },
+  "events": {
+    "title": "Upcoming events",
+    "all": "View all events"
   }
 }
