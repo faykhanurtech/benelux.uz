@@ -13,19 +13,19 @@ export default function Hero() {
 
     <section className="w-full">
 
-      <div className="max-w-7xl mx-auto px-6">
+        <div className="relative w-full h-[420px] md:h-[520px] lg:h-[600px] overflow-hidden">
 
-        <div className="relative w-full h-[420px] md:h-[520px] lg:h-[600px] overflow-hidden rounded-lg">
+          {/* VIDEO */}
 
-          {/* IMAGE */}
-
-          <Image
-            src="/hero/hero.jpeg"
-            alt="Tashkent"
-            fill
-            priority
-            className="object-cover"
-          />
+          <video
+            autoPlay
+            muted
+            loop
+            playsInline
+            className="absolute inset-0 w-full h-full object-cover"
+          >
+            <source src="/hero/hero.mp4" type="video/mp4" />
+          </video>
 
           {/* OVERLAY */}
 
@@ -36,7 +36,9 @@ export default function Hero() {
 
           <div className="absolute inset-0 flex items-center">
 
-            <div className="max-w-3xl px-8 md:px-12">
+            <div className="max-w-7xl mx-auto w-full px-6">
+
+              <div className="max-w-3xl">
 
               <h1 className="text-white font-bold text-3xl md:text-4xl lg:text-5xl leading-tight">
 
@@ -58,12 +60,12 @@ export default function Hero() {
               </Link>
 
             </div>
+          
+          </div>
 
           </div>
 
         </div>
-
-      </div>
 
     </section>
 
