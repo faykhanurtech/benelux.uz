@@ -14,6 +14,13 @@
     "text2": "We create a platform for cooperation, investment, knowledge exchange, and the development of strong and sustainable business relations between our countries.",
     "button": "Learn more"
   },
+  "members": {
+    "title": "Our Members"
+  },
+  "partners": {
+    "title": "Our Partners",
+    "description": "We collaborate with leading institutions, embassies and organizations to strengthen Benelux–Uzbekistan business relations."
+  },
   "news": {
     "title": "Latest news",
     "all": "View all news"

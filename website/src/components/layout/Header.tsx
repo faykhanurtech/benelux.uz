@@ -5,6 +5,7 @@ import Link from "next/link"
 import Image from "next/image"
 import { ChevronDown } from "lucide-react"
 import { useTranslations, useLocale } from "next-intl"
+import { usePathname, useRouter } from "next/navigation"
 
 export default function Header() {
 
@@ -15,8 +16,22 @@ export default function Header() {
 
   const t = useTranslations("nav")
   const locale = useLocale()
+  const pathname = usePathname()
+  const router = useRouter()
 
   const languages = ["en", "ru", "uz"].filter(l => l !== locale)
+
+  const switchLocale = (lang: string) => {
+    const segments = pathname.split("/")
+
+    if (segments.length > 1) {
+      segments[1] = lang
+    } else {
+      return `/${lang}`
+    }
+
+    return segments.join("/")
+  }
 
   return (
     <header className="w-full bg-white sticky top-0 z-50">
@@ -145,7 +160,8 @@ export default function Header() {
                   {languages.map(lang => (
                     <Link
                       key={lang}
-                      href={`/${lang}`}
+                      href={switchLocale(lang)}
+                      scroll={false}
                       className="flex items-center gap-2 px-3 py-2 hover:bg-gray-50 rounded w-full"
                     >
                       <Image src={`/flags/${lang}.svg`} alt={lang} width={20} height={14}/>
@@ -275,12 +291,13 @@ export default function Header() {
 
                   {languages.map(lang => (
 
-                    <Link
-                      key={lang}
-                      href={`/${lang}`}
-                      onClick={() => setMobileOpen(false)}
-                      className="flex items-center gap-3 text-lg"
-                    >
+                      <Link
+                        key={lang}
+                        href={switchLocale(lang)}
+                        scroll={false}
+                        onClick={() => setMobileOpen(false)}
+                        className="flex items-center gap-3 text-lg"
+                      >
 
                       <Image
                         src={`/flags/${lang}.svg`}

@@ -14,6 +14,13 @@
     "text2": "Biz hamkorlik, investitsiyalar, tajriba almashish va mamlakatlar o‘rtasida barqaror biznes aloqalarini rivojlantirish uchun imkoniyat yaratamiz.",
     "button": "Batafsil"
   },
+  "members": {
+    "title": "Bizning a'zolar"
+  },
+  "partners": {
+    "title": "Bizning hamkorlar",
+    "description": "Biz Benilyuks davlatlari va O‘zbekiston o‘rtasidagi biznes aloqalarini mustahkamlash maqsadida yetakchi muassasalar, elchixonalar va tashkilotlar bilan hamkorlik qilamiz."
+  },
   "news": {
     "title": "Oxirgi yangiliklar",
     "all": "Barcha yangiliklar"
