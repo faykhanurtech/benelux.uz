@@ -22,10 +22,12 @@ export default async function LocaleLayout({
 
   const common = (await import(`../../messages/${locale}/common.json`)).default;
   const home = (await import(`../../messages/${locale}/home.json`)).default;
+  const about = (await import(`../../messages/${locale}/about.json`)).default
 
   const messages = {
     ...common,
-    ...home
+    ...home,
+    ...about
   };
 
   return (

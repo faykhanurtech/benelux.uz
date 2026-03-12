@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "About the BENELUX Chamber",
+    "subtitle": "The BENELUX Chamber of Commerce in Uzbekistan connects companies from Belgium, the Netherlands and Luxembourg with the Uzbek business community."
+  },
+  "overview": {
+    "title": "Our mission",
+    "text1": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan.",
+    "text2": "We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships."
+  },
+  "what_we_do": {
+    "title": "What we do",
+    "networking_title": "Business networking",
+    "networking_text": "We organize networking events, forums and meetings connecting businesses and investors.",
+    "investment_title": "Investment promotion",
+    "investment_text": "We support companies exploring investment opportunities in Uzbekistan and the BENELUX region.",
+    "support_title": "Business support",
+    "support_text": "We help companies navigate the local business environment and build reliable partnerships."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "hero": {
+    "title": "BENELUX Savdo Palatasi haqida",
+    "subtitle": "O‘zbekistondagi BENELUX Savdo palatasi Belgiya, Niderlandiya va Lyuksemburg kompaniyalarini O‘zbekiston biznes hamjamiyati bilan bog‘laydi."
+  },
+  "overview": {
+    "title": "Bizning missiyamiz",
+    "text1": "O‘zbekistondagi BENELUX savdo palatasi BENELUX davlatlari kompaniyalari va O‘zbekiston o‘rtasida ko‘prik vazifasini bajaradi.",
+    "text2": "Biz biznes hamkorlik, investitsiya imkoniyatlari va tajriba almashuvini rivojlantirishga yordam beramiz."
+  },
+  "what_we_do": {
+    "title": "Biz nima qilamiz",
+    "networking_title": "Biznes networking",
+    "networking_text": "Biz kompaniyalar va investorlarni bog‘laydigan biznes tadbirlar va forumlar tashkil qilamiz.",
+    "investment_title": "Investitsiyalarni rivojlantirish",
+    "investment_text": "Biz kompaniyalarga O‘zbekiston va BENELUX davlatlaridagi investitsiya imkoniyatlarini o‘rganishda yordam beramiz.",
+    "support_title": "Biznes qo‘llab-quvvatlash",
+    "support_text": "Biz kompaniyalarga mahalliy biznes muhitini tushunish va ishonchli hamkorlar topishda yordam beramiz."
+  }
+}
