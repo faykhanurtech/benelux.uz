@@ -12,7 +12,7 @@ export default function Footer() {
 
   return (
 
-    <footer className="bg-black text-white pt-16 pb-10">
+    <footer className="bg-[#022038] text-white pt-16 pb-10">
 
       <div className="max-w-7xl mx-auto px-6">
 

@@ -12,7 +12,7 @@ export default function JoinForm() {
 
       <div className="max-w-7xl mx-auto px-6">
 
-        <div className="bg-[#23256E] text-white p-12 lg:p-16">
+        <div className="bg-[#022038] text-white p-12 lg:p-16">
 
           <div className="grid lg:grid-cols-2 gap-16 items-center">
 

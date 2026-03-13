@@ -179,7 +179,7 @@ export default function Header() {
 
           <Link
             href={`/${locale}/join`}
-            className="ml-6 bg-[#23256E] text-white px-6 py-3 font-medium hover:opacity-90 transition"
+            className="ml-6 bg-[#022038] text-white px-6 py-3 font-medium hover:opacity-90 transition"
           >
             {t("join")}
           </Link>

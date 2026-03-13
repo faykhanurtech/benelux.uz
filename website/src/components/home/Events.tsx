@@ -121,7 +121,7 @@ export default function Events() {
 
           <Link
             href={`/${locale}/events`}
-            className="bg-[#23256E] text-white px-8 py-3 font-medium hover:opacity-90 transition"
+            className="bg-[#022038] text-white px-8 py-3 font-medium hover:opacity-90 transition"
           >
             {t("all")}
           </Link>

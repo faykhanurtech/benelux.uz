@@ -36,7 +36,7 @@ export default function About() {
 
             <Link
               href={`/${locale}/about`}
-              className="inline-block bg-[#23256E] text-white px-8 py-3 font-medium hover:opacity-90 transition"
+              className="inline-block bg-[#022038] text-white px-8 py-3 font-medium hover:opacity-90 transition"
             >
               {t("button")}
             </Link>

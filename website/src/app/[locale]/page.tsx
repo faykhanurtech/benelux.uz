@@ -12,7 +12,7 @@ export default function HomePage() {
       <Events />
       <About />
       <Partners />
-      <Members />
+      {/* <Members /> */}
       <News />
       <JoinForm />
     </>

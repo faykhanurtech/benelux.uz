@@ -4,12 +4,12 @@ import Image from "next/image"
 import { useTranslations } from "next-intl"
 
 const partners = [
-  { name: "Embassy of Belgium", logo: "/partners/belgium.svg" },
-  { name: "Embassy of Netherlands", logo: "/partners/netherlands.svg" },
-  { name: "Embassy of Luxembourg", logo: "/partners/luxembourg.svg" },
-  { name: "Benelux Business Council", logo: "/partners/bbc.svg" },
-  { name: "EU Delegation Uzbekistan", logo: "/partners/eu.svg" },
-  { name: "Benelux Chamber", logo: "/partners/chamber.svg" }
+  { name: "Embassy of Belgium", logo: "/partners/prt1.png" },
+  { name: "Embassy of Netherlands", logo: "/partners/prt2.png" },
+  { name: "Embassy of Luxembourg", logo: "/partners/prt3.png" },
+  { name: "Benelux Business Council", logo: "/partners/prt4.png" },
+  { name: "EU Delegation Uzbekistan", logo: "/partners/prt5.png" },
+  { name: "Benelux Chamber", logo: "/partners/prt6.png" }
 ]
 
 export default function Partners() {
@@ -40,7 +40,7 @@ export default function Partners() {
 
             <div
               key={index}
-              className="flex items-center justify-center opacity-70 hover:opacity-100 transition"
+              className="flex items-center justify-center transition"
             >
 
               <Image
