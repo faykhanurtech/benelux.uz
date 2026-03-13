@@ -6,7 +6,7 @@ import { useTranslations, useLocale } from "next-intl"
 
 export default function About() {
 
-  const t = useTranslations("about")
+  const t = useTranslations("home-about")
   const locale = useLocale()
 
   return (

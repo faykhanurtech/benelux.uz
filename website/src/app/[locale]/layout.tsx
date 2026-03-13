@@ -27,7 +27,7 @@ export default async function LocaleLayout({
   const messages = {
     ...common,
     ...home,
-    about
+    ...about
   };
 
   return (
