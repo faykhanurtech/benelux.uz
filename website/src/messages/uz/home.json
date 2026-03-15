@@ -1,12 +1,12 @@
 {
-  "hero": {
+  "home-hero": {
     "title": "O‘zbekistondagi BENELUX Savdo Palatasi",
     "subtitle": "Belgiya, Niderlandiya va Lyuksemburg kompaniyalarini O‘zbekiston biznes hamjamiyati bilan bog‘laymiz.",
     "button": "Batafsil"
   },
-  "events": {
-    "title": "Kelgusi voqealar",
-    "all": "Barchasini ko'rish"
+  "home-events": {
+    "title": "Kelgusi tadbirlar",
+    "all": "Barcha tadbirlar"
   },
   "home-about": {
     "title": "BENELUX Savdo-sanoat palatasi haqida",
@@ -14,18 +14,19 @@
     "text2": "Biz hamkorlik, investitsiyalar, tajriba almashish va mamlakatlar o‘rtasida barqaror biznes aloqalarini rivojlantirish uchun imkoniyat yaratamiz.",
     "button": "Batafsil"
   },
-  "members": {
+  "home-members": {
     "title": "Bizning a'zolar"
   },
-  "partners": {
+  "home-partners": {
     "title": "Bizning hamkorlar",
-    "description": "Biz Benilyuks davlatlari va O‘zbekiston o‘rtasidagi biznes aloqalarini mustahkamlash maqsadida yetakchi muassasalar, elchixonalar va tashkilotlar bilan hamkorlik qilamiz."
+    "description": "Biz Benilyuks davlatlari va O‘zbekiston o‘rtasidagi biznes aloqalarini mustahkamlash maqsadida yetakchi muassasalar, elchixonalar va tashkilotlar bilan hamkorlik qilamiz.",
+    "all": "Barcha hamkorlar"
   },
-  "news": {
+  "home-news": {
     "title": "Oxirgi yangiliklar",
     "all": "Barcha yangiliklar"
   },
-  "join_form": {
+  "home-join_form": {
     "title": "Palataga a’zo bo‘lish haqida bilmoqchimisiz?",
     "text": "Aloqa ma’lumotlaringizni qoldiring va jamoamiz siz bilan bog‘lanib, hamkorlik va a’zolik imkoniyatlari haqida maslahat beradi.",
     "name": "Ismingiz",

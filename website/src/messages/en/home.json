@@ -1,12 +1,12 @@
 {
-  "hero": {
+  "home-hero": {
     "title": "BENELUX Chamber of Commerce in Uzbekistan",
     "subtitle": "Connecting companies and entrepreneurs from Belgium, the Netherlands and Luxembourg with the business community of Uzbekistan.",
     "button": "Learn more"
   },
-  "events": {
+  "home-events": {
     "title": "Upcoming events",
-    "all": "View all events"
+    "all": "All events"
   },
   "home-about": {
     "title": "About the BENELUX Chamber of Commerce",
@@ -14,18 +14,19 @@
     "text2": "We create a platform for cooperation, investment, knowledge exchange, and the development of strong and sustainable business relations between our countries.",
     "button": "Learn more"
   },
-  "members": {
+  "home-members": {
     "title": "Our Members"
   },
-  "partners": {
+  "home-partners": {
     "title": "Our Partners",
-    "description": "We collaborate with leading institutions, embassies and organizations to strengthen Benelux–Uzbekistan business relations."
+    "description": "We collaborate with leading institutions, embassies and organizations to strengthen Benelux–Uzbekistan business relations.",
+    "all": "All partners"
   },
-  "news": {
+  "home-news": {
     "title": "Latest news",
     "all": "View all news"
   },
-  "join_form": {
+  "home-join_form": {
     "title": "Interested in joining the chamber?",
     "text": "Leave your contact details and our team will get in touch to discuss membership opportunities and cooperation.",
     "name": "Your name",

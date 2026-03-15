@@ -14,7 +14,7 @@ const partners = [
 
 export default function Partners() {
 
-  const t = useTranslations("partners")
+  const t = useTranslations("home-partners")
 
   return (
 
@@ -22,13 +22,13 @@ export default function Partners() {
 
       <div className="max-w-7xl mx-auto px-6">
 
-        <div className="text-center mb-14">
+        <div className="mb-14">
 
           <h2 className="text-3xl md:text-4xl font-bold">
             {t("title")}
           </h2>
 
-          <p className="text-gray-600 mt-4 max-w-2xl mx-auto">
+          <p className="text-gray-600 mt-4 max-w-2xl">
             {t("description")}
           </p>
 
@@ -54,6 +54,19 @@ export default function Partners() {
             </div>
 
           ))}
+
+        </div>
+
+        {/* BUTTON */}
+
+        <div className="flex justify-center mt-14">
+
+          <a
+            href="/partners"
+            className="bg-[#022038] text-white px-8 py-3 font-medium hover:opacity-90 transition"
+          >
+            {t("all")}
+          </a>
 
         </div>
 

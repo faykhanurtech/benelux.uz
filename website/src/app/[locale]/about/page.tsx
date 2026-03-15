@@ -1,13 +1,15 @@
 import Hero from "../../../components/about/Hero"
-import Overview from "../../../components/about/Overview"
-import WhatWeDo from "../../../components/about/WhatWeDo"
+import WhoWeAre from "../../../components/about/WhoWeAre"
+import Vision from "../../../components/about/Vision"
+import Mission from "../../../components/about/Mission"
 
 export default function AboutPage() {
   return (
     <>
       <Hero />
-      <Overview />
-      <WhatWeDo />
+      <WhoWeAre />
+      <Vision />
+      <Mission />
     </>
   )
 }

@@ -5,23 +5,23 @@ import { useTranslations } from "next-intl"
 
 export default function Hero() {
 
-  const t = useTranslations("about-hero")
+  const t = useTranslations("contact-hero")
 
   return (
 
     <section className="relative w-full h-[300px] md:h-[300px] overflow-hidden">
 
-      {/* BACKGROUND IMAGE */}
+      {/* BACKGROUND */}
 
       <Image
         src="/about/hero.jpg"
-        alt="Benelux Chamber"
+        alt="Contacts"
         fill
         priority
         className="object-cover"
       />
 
-      {/* DARK OVERLAY */}
+      {/* OVERLAY */}
 
       <div className="absolute inset-0 bg-black/40"></div>
 
@@ -32,7 +32,7 @@ export default function Hero() {
 
         <div className="max-w-7xl mx-auto px-6">
 
-          <h1 className="text-white text-3xl md:text-4xl font-bold leading-tight max-w-xl">
+          <h1 className="text-white text-3xl md:text-4xl font-bold">
 
             {t("title")}
 
@@ -45,4 +45,5 @@ export default function Hero() {
     </section>
 
   )
+
 }

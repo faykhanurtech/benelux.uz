@@ -7,7 +7,7 @@ import { useTranslations, useLocale } from "next-intl"
 
 export default function Events() {
 
-  const t = useTranslations("events")
+  const t = useTranslations("home-events")
   const locale = useLocale()
 
   const events = [

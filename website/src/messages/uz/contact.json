@@ -1,0 +1,20 @@
+{
+  "contact-hero": {
+    "title": "Contacts"
+  },
+  "contact-contact": {
+    "title": "Need more information? Get in touch",
+    "description": "Contact us today for more information about cooperation and membership.",
+    "phone_title": "Phone number",
+    "email_title": "Email address",
+    "address_title": "Office location",
+    "form_title": "Send Message",
+    "form_description": "Please fill out the form below and our team will contact you shortly.",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send message"
+  }
+}

@@ -6,7 +6,7 @@ import { useTranslations, useLocale } from "next-intl"
 
 export default function Hero() {
 
-  const t = useTranslations("hero")
+  const t = useTranslations("home-hero")
   const locale = useLocale()
 
   return (

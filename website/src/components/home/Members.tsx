@@ -16,7 +16,7 @@ const members = [
 
 export default function Members() {
 
-  const t = useTranslations("members")
+  const t = useTranslations("home-members")
 
   return (
 

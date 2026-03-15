@@ -4,7 +4,7 @@ import { useTranslations } from "next-intl"
 
 export default function JoinForm() {
 
-  const t = useTranslations("join_form")
+  const t = useTranslations("home-join_form")
 
   return (
 

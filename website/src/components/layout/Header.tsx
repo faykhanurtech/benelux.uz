@@ -53,7 +53,7 @@ export default function Header() {
 
           <nav className="hidden lg:flex items-center gap-10 text-gray-800 font-medium">
 
-            <Link href={`/${locale}`} className="hover:text-blue-600">
+            <Link href={`/${locale}`} className="hover:text-[#103959]">
               {t("home")}
             </Link>
 
@@ -64,7 +64,7 @@ export default function Header() {
 
               <button
                 onClick={() => { setAboutOpen(!aboutOpen); setMembersOpen(false); setLangOpen(false) }}
-                className="flex items-center gap-1 hover:text-blue-600"
+                className="flex items-center gap-1 hover:text-[#103959]"
               >
 
                 {t("about")}
@@ -77,13 +77,23 @@ export default function Header() {
 
                 <div className="absolute top-full left-0 mt-4 bg-white border border-gray-300 rounded-lg w-56 p-3">
 
-                  <Link href={`/${locale}/about`} className="block px-3 py-2 hover:bg-gray-50 rounded">
+                  <Link
+                    href={`/${locale}/about`}
+                    onClick={() => setAboutOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
                     {t("about_chamber")}
                   </Link>
 
-                  <Link href={`/${locale}/board`} className="block px-3 py-2 hover:bg-gray-50 rounded">
-                    {t("board")}
+
+                  <Link
+                    href={`/${locale}/partners`}
+                    onClick={() => setAboutOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
+                    {t("partners")}
                   </Link>
+
 
                 </div>
 
@@ -98,7 +108,7 @@ export default function Header() {
 
               <button
                 onClick={() => { setMembersOpen(!membersOpen); setAboutOpen(false); setLangOpen(false) }}
-                className="flex items-center gap-1 hover:text-blue-600"
+                className="flex items-center gap-1 hover:text-[#103959]"
               >
 
                 {t("members")}
@@ -111,13 +121,22 @@ export default function Header() {
 
                 <div className="absolute top-full left-0 mt-4 bg-white border border-gray-300 rounded-lg w-56 p-3">
 
-                  <Link href={`/${locale}/members`} className="block px-3 py-2 hover:bg-gray-50 rounded">
+                  <Link
+                    href={`/${locale}/members`}
+                    onClick={() => setMembersOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
                     {t("members_list")}
                   </Link>
 
-                  <Link href={`/${locale}/join`} className="block px-3 py-2 hover:bg-gray-50 rounded">
+                  <Link
+                    href={`/${locale}/join`}
+                    onClick={() => setMembersOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
                     {t("join")}
                   </Link>
+
 
                 </div>
 
@@ -126,11 +145,11 @@ export default function Header() {
             </div>
 
 
-            <Link href={`/${locale}/events`} className="hover:text-blue-600">
+            <Link href={`/${locale}/events`} className="hover:text-[#103959]">
               {t("events")}
             </Link>
 
-            <Link href={`/${locale}/contact`} className="hover:text-blue-600">
+            <Link href={`/${locale}/contact`} className="hover:text-[#103959]">
               {t("contact")}
             </Link>
 
