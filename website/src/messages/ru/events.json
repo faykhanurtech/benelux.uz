@@ -1,5 +1,10 @@
 {
   "events-hero": {
     "title": "Events"
+  },
+  "events-events": {
+    "upcoming": "Upcoming events",
+    "latest": "Latest events",
+    "more": "More"
   }
 }

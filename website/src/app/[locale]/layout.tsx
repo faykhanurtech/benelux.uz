@@ -25,6 +25,7 @@ export default async function LocaleLayout({
   const about = (await import(`../../messages/${locale}/about.json`)).default;
   const partners = (await import(`../../messages/${locale}/partners.json`)).default;
   const events = (await import(`../../messages/${locale}/events.json`)).default;
+  const news = (await import(`../../messages/${locale}/news.json`)).default;
   const contact = (await import(`../../messages/${locale}/contact.json`)).default
 
   const messages = {
@@ -33,6 +34,7 @@ export default async function LocaleLayout({
     ...about,
     ...partners,
     ...events,
+    ...news,
     ...contact,
   };
 

@@ -1,0 +1,9 @@
+{
+  "news-hero": {
+    "title": "News"
+  },
+  "news-news": {
+    "title": "All news",
+    "more": "More"
+  }
+}

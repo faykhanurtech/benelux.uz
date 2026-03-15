@@ -1,7 +1,7 @@
 "use client"
 
 import Image from "next/image"
-import { useTranslations } from "next-intl"
+import { useTranslations, useLocale } from "next-intl"
 
 const partners = [
   { name: "Embassy of Belgium", logo: "/partners/prt1.png" },
@@ -15,6 +15,7 @@ const partners = [
 export default function Partners() {
 
   const t = useTranslations("home-partners")
+  const locale = useLocale()
 
   return (
 
@@ -62,7 +63,7 @@ export default function Partners() {
         <div className="flex justify-center mt-14">
 
           <a
-            href="/partners"
+            href={`/${locale}/partners`}
             className="bg-[#022038] text-white px-8 py-3 font-medium hover:opacity-90 transition"
           >
             {t("all")}
