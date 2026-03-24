@@ -1,14 +1,30 @@
 {
   "nav": {
     "home": "Главная",
+
     "about": "О нас",
-    "about_chamber": "О палате",
-    "partners": "Наши Парнеры",
+    "mission_vision": "Миссия и видение",
+    "ambassadors": "Слово от послов",
+    "institutional_engagement": "Сотрудничество",
+    "governance": "Управление",
+    "legal_status_policies": "Юридическая информация",
+
     "members": "Членство",
-    "members_list": "Участники",
-    "join": "Стать членом",
+    "become_a_member": "Стать участником",
+    "partnership": "Партнерство",
+    "members_directory": "Участники",
+
     "events": "События",
-    "contact": "Контакты"
+    "upcoming_events": "Предстоящие",
+    "Latest_news_past_events": "Новости",
+
+    "insights": "Инсайты",
+    "countries": "Страны",
+    "publications": "Публикации",
+    "press_releases": "Пресс-релизы",
+
+    "contact": "Контакты",
+    "join": "Вступить"
   },
   "footer": {
     "information": "Информация",

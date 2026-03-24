@@ -12,6 +12,8 @@ export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false)
   const [aboutOpen, setAboutOpen] = useState(false)
   const [membersOpen, setMembersOpen] = useState(false)
+  const [eventsOpen, setEventsOpen] = useState(false)
+  const [insightsOpen, setInsightsOpen] = useState(false)
   const [langOpen, setLangOpen] = useState(false)
 
   const t = useTranslations("nav")
@@ -51,7 +53,7 @@ export default function Header() {
 
           <div className="hidden lg:flex items-center gap-8">
 
-          <nav className="hidden lg:flex items-center gap-10 text-gray-800 font-medium">
+          <nav className="hidden lg:flex items-center gap-7 text-gray-800 font-medium">
 
             <Link href={`/${locale}`} className="hover:text-[#103959]">
               {t("home")}
@@ -63,7 +65,7 @@ export default function Header() {
             <div className="relative">
 
               <button
-                onClick={() => { setAboutOpen(!aboutOpen); setMembersOpen(false); setLangOpen(false) }}
+                onClick={() => { setAboutOpen(!aboutOpen); setInsightsOpen(false); setMembersOpen(false); setEventsOpen(false); setLangOpen(false) }}
                 className="flex items-center gap-1 hover:text-[#103959]"
               >
 
@@ -78,20 +80,45 @@ export default function Header() {
                 <div className="absolute top-full left-0 mt-4 bg-white border border-gray-300 rounded-lg w-56 p-3">
 
                   <Link
-                    href={`/${locale}/about`}
+                    href={`/${locale}/about/mission_vision`}
                     onClick={() => setAboutOpen(false)}
                     className="block px-3 py-2 hover:bg-gray-50 rounded"
                   >
-                    {t("about_chamber")}
+                    {t("mission_vision")}
+                  </Link>
+
+                  <Link
+                    href={`/${locale}/about/ambassadors`}
+                    onClick={() => setAboutOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
+                    {t("ambassadors")}
+                  </Link>
+                  
+                  <Link
+                    href={`/${locale}/about/institutional_engagement`}
+                    onClick={() => setAboutOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
+                    {t("institutional_engagement")}
                   </Link>
 
 
                   <Link
-                    href={`/${locale}/partners`}
+                    href={`/${locale}/about/governance`}
                     onClick={() => setAboutOpen(false)}
                     className="block px-3 py-2 hover:bg-gray-50 rounded"
                   >
-                    {t("partners")}
+                    {t("governance")}
+                  </Link>
+
+
+                  <Link
+                    href={`/${locale}/about/legal_status_policies`}
+                    onClick={() => setAboutOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
+                    {t("legal_status_policies")}
                   </Link>
 
 
@@ -107,7 +134,7 @@ export default function Header() {
             <div className="relative">
 
               <button
-                onClick={() => { setMembersOpen(!membersOpen); setAboutOpen(false); setLangOpen(false) }}
+                onClick={() => { setMembersOpen(!membersOpen); setInsightsOpen(false); setEventsOpen(false); setAboutOpen(false); setLangOpen(false) }}
                 className="flex items-center gap-1 hover:text-[#103959]"
               >
 
@@ -122,19 +149,27 @@ export default function Header() {
                 <div className="absolute top-full left-0 mt-4 bg-white border border-gray-300 rounded-lg w-56 p-3">
 
                   <Link
-                    href={`/${locale}/members`}
+                    href={`/${locale}/member/become_a_member`}
                     onClick={() => setMembersOpen(false)}
                     className="block px-3 py-2 hover:bg-gray-50 rounded"
                   >
-                    {t("members_list")}
+                    {t("become_a_member")}
                   </Link>
 
                   <Link
-                    href={`/${locale}/join`}
+                    href={`/${locale}/member/partnership`}
                     onClick={() => setMembersOpen(false)}
                     className="block px-3 py-2 hover:bg-gray-50 rounded"
                   >
-                    {t("join")}
+                    {t("partnership")}
+                  </Link>
+
+                  <Link
+                    href={`/${locale}/member/members_directory`}
+                    onClick={() => setMembersOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
+                    {t("members_directory")}
                   </Link>
 
 
@@ -145,9 +180,93 @@ export default function Header() {
             </div>
 
 
-            <Link href={`/${locale}/events`} className="hover:text-[#103959]">
-              {t("events")}
-            </Link>
+            {/* Events */}
+
+            <div className="relative">
+
+              <button
+                onClick={() => { setEventsOpen(!eventsOpen); setInsightsOpen(false); setMembersOpen(false); setAboutOpen(false); setLangOpen(false) }}
+                className="flex items-center gap-1 hover:text-[#103959]"
+              >
+
+                {t("events")}
+
+                <ChevronDown size={16} className={`transition-transform ${eventsOpen ? "rotate-180" : ""}`} />
+
+              </button>
+
+              {eventsOpen && (
+
+                <div className="absolute top-full left-0 mt-4 bg-white border border-gray-300 rounded-lg w-56 p-3">
+
+                  <Link
+                    href={`/${locale}/events/upcoming_events`}
+                    onClick={() => setEventsOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
+                    {t("upcoming_events")}
+                  </Link>
+
+                  <Link
+                    href={`/${locale}/events/news`}
+                    onClick={() => setEventsOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
+                    {t("Latest_news_past_events")}
+                  </Link>
+                </div>
+
+              )}
+
+            </div>
+
+            {/* INSIGHTS */}
+
+            <div className="relative">
+
+              <button
+                onClick={() => { setInsightsOpen(!insightsOpen); setEventsOpen(false); setMembersOpen(false); setAboutOpen(false); setLangOpen(false) }}
+                className="flex items-center gap-1 hover:text-[#103959]"
+              >
+
+                {t("insights")}
+
+                <ChevronDown size={16} className={`transition-transform ${insightsOpen ? "rotate-180" : ""}`} />
+
+              </button>
+
+              {insightsOpen && (
+
+                <div className="absolute top-full left-0 mt-4 bg-white border border-gray-300 rounded-lg w-56 p-3">
+
+                  <Link
+                    href={`/${locale}/insights/countries`}
+                    onClick={() => setInsightsOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
+                    {t("countries")}
+                  </Link>
+
+                  <Link
+                    href={`/${locale}/insights/publications`}
+                    onClick={() => setInsightsOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
+                    {t("publications")}
+                  </Link>
+
+                  <Link
+                    href={`/${locale}/insights/press_releases`}
+                    onClick={() => setInsightsOpen(false)}
+                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                  >
+                    {t("press_releases")}
+                  </Link>
+                </div>
+
+              )}
+
+            </div>
 
             <Link href={`/${locale}/contact`} className="hover:text-[#103959]">
               {t("contact")}

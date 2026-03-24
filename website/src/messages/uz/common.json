@@ -1,14 +1,30 @@
 {
   "nav": {
     "home": "Bosh sahifa",
-    "about": "Biz haqimizda",
-    "about_chamber": "Palata haqida",
-    "partners": "Bizning Hamkorlar",
-    "members": "A'zolik",
-    "members_list": "Ishtirokchilar",
-    "join": "A'zo bo'lish",
+
+    "about": "Palata haqida",
+    "mission_vision": "Missiya va qarashlar",
+    "ambassadors": "Elchilar so‘zi",
+    "institutional_engagement": "Institutsional hamkorlik",
+    "governance": "Boshqaruv",
+    "legal_status_policies": "Huquqiy maqom va siyosatlar",
+
+    "members": "A’zolik",
+    "become_a_member": "A’zo bo‘lish",
+    "partnership": "Hamkorlik",
+    "members_directory": "A’zolar ro‘yxati",
+
     "events": "Tadbirlar",
-    "contact": "Aloqa"
+    "upcoming_events": "Yaqin tadbirlar",
+    "Latest_news_past_events": "So‘nggi yangiliklar va o‘tgan tadbirlar",
+
+    "insights": "Tahlil va ma’lumotlar",
+    "countries": "Mamlakatlar profili",
+    "publications": "Nashrlar",
+    "press_releases": "Press-relizlar",
+
+    "contact": "Kontaktlar",
+    "join": "A’zo bo‘lish"
   },
   "footer": {
     "information": "Ma'lumot",

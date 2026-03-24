@@ -1,14 +1,30 @@
 {
   "nav": {
     "home": "Home",
+
     "about": "About",
-    "about_chamber": "About Chamber",
-    "partners": "Our Partners",
+    "mission_vision": "Mission & Vision",
+    "ambassadors": "A Word from Ambassadors",
+    "institutional_engagement": "Institutional Engagement",
+    "governance": "Governance",
+    "legal_status_policies": "Legal Status & Policies",
+
     "members": "Membership",
-    "members_list": "Members",
-    "join": "Become a Member",
+    "become_a_member": "Become a Member",
+    "partnership": "Partnership",
+    "members_directory": "Members Directory",
+
     "events": "Events",
-    "contact": "Contact"
+    "upcoming_events": "Upcoming Events",
+    "Latest_news_past_events": "Latest News & Past Events",
+
+    "insights": "Resources & Insights",
+    "countries": "Country Profile",
+    "publications": "Publications",
+    "press_releases": "Press Releases",
+
+    "contact": "Contacts",
+    "join": "Join"
   },
   "footer": {
     "information": "Information",
