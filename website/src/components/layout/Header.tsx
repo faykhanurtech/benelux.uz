@@ -1,6 +1,6 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useEffect, useRef } from "react"
 import Link from "next/link"
 import Image from "next/image"
 import { ChevronDown } from "lucide-react"
@@ -8,13 +8,40 @@ import { useTranslations, useLocale } from "next-intl"
 import { usePathname, useRouter } from "next/navigation"
 
 export default function Header() {
-
+  
+  const headerRef = useRef<HTMLDivElement>(null)
   const [mobileOpen, setMobileOpen] = useState(false)
   const [aboutOpen, setAboutOpen] = useState(false)
   const [membersOpen, setMembersOpen] = useState(false)
   const [eventsOpen, setEventsOpen] = useState(false)
   const [insightsOpen, setInsightsOpen] = useState(false)
   const [langOpen, setLangOpen] = useState(false)
+
+  const closeAll = () => {
+    setAboutOpen(false)
+    setMembersOpen(false)
+    setEventsOpen(false)
+    setInsightsOpen(false)
+    setLangOpen(false)
+  }
+
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (headerRef.current && !headerRef.current.contains(event.target as Node)) {
+        setAboutOpen(false)
+        setMembersOpen(false)
+        setEventsOpen(false)
+        setInsightsOpen(false)
+        setLangOpen(false)
+      }
+    }
+
+    document.addEventListener("mousedown", handleClickOutside)
+
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside)
+    }
+  }, [])
 
   const t = useTranslations("nav")
   const locale = useLocale()
@@ -36,7 +63,7 @@ export default function Header() {
   }
 
   return (
-    <header className="w-full bg-white sticky top-0 z-50">
+    <header ref={headerRef} className="w-full bg-white sticky top-0 z-50">
 
       <div className="max-w-7xl mx-auto px-6">
 
@@ -62,10 +89,14 @@ export default function Header() {
 
             {/* ABOUT */}
 
-            <div className="relative">
+            <div 
+              className="relative"
+              onMouseEnter={() => window.innerWidth >= 1024 && (closeAll(), setAboutOpen(true))}
+              onMouseLeave={() => window.innerWidth >= 1024 && setTimeout(() => setAboutOpen(false), 100)}
+            >
 
               <button
-                onClick={() => { setAboutOpen(!aboutOpen); setInsightsOpen(false); setMembersOpen(false); setEventsOpen(false); setLangOpen(false) }}
+                onClick={() => window.innerWidth < 1024 && (closeAll(), setAboutOpen(!aboutOpen))}
                 className="flex items-center gap-1 hover:text-[#103959]"
               >
 
@@ -77,51 +108,52 @@ export default function Header() {
 
               {aboutOpen && (
 
-                <div className="absolute top-full left-0 mt-4 bg-white border border-gray-300 rounded-lg w-56 p-3">
+                <div className="absolute top-full left-0 pt-2">
+                  <div className="bg-white border border-gray-300 w-68 p-3 divide-y divide-gray-200">
 
-                  <Link
-                    href={`/${locale}/about/mission_vision`}
-                    onClick={() => setAboutOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
-                  >
-                    {t("mission_vision")}
-                  </Link>
+                    <Link
+                      href={`/${locale}/about/mission_vision`}
+                      onClick={() => setAboutOpen(false)}
+                      className="block px-3 py-3 hover:bg-gray-50"
+                    >
+                      {t("mission_vision")}
+                    </Link>
 
-                  <Link
-                    href={`/${locale}/about/ambassadors`}
-                    onClick={() => setAboutOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
-                  >
-                    {t("ambassadors")}
-                  </Link>
-                  
-                  <Link
-                    href={`/${locale}/about/institutional_engagement`}
-                    onClick={() => setAboutOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
-                  >
-                    {t("institutional_engagement")}
-                  </Link>
-
-
-                  <Link
-                    href={`/${locale}/about/governance`}
-                    onClick={() => setAboutOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
-                  >
-                    {t("governance")}
-                  </Link>
+                    <Link
+                      href={`/${locale}/about/ambassadors`}
+                      onClick={() => setAboutOpen(false)}
+                      className="block px-3 py-3 hover:bg-gray-50"
+                    >
+                      {t("ambassadors")}
+                    </Link>
+                    
+                    <Link
+                      href={`/${locale}/about/institutional_engagement`}
+                      onClick={() => setAboutOpen(false)}
+                      className="block px-3 py-3 hover:bg-gray-50"
+                    >
+                      {t("institutional_engagement")}
+                    </Link>
 
 
-                  <Link
-                    href={`/${locale}/about/legal_status_policies`}
-                    onClick={() => setAboutOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
-                  >
-                    {t("legal_status_policies")}
-                  </Link>
+                    <Link
+                      href={`/${locale}/about/governance`}
+                      onClick={() => setAboutOpen(false)}
+                      className="block px-3 py-3 hover:bg-gray-50"
+                    >
+                      {t("governance")}
+                    </Link>
 
 
+                    <Link
+                      href={`/${locale}/about/legal_status_policies`}
+                      onClick={() => setAboutOpen(false)}
+                      className="block px-3 py-3 hover:bg-gray-50"
+                    >
+                      {t("legal_status_policies")}
+                    </Link>
+
+                  </div>
                 </div>
 
               )}
@@ -131,10 +163,14 @@ export default function Header() {
 
             {/* MEMBERS */}
 
-            <div className="relative">
+            <div 
+              className="relative"
+              onMouseEnter={() => window.innerWidth >= 1024 && (closeAll(), setMembersOpen(true))}
+              onMouseLeave={() => window.innerWidth >= 1024 && setTimeout(() => setMembersOpen(false), 100)}
+            >
 
               <button
-                onClick={() => { setMembersOpen(!membersOpen); setInsightsOpen(false); setEventsOpen(false); setAboutOpen(false); setLangOpen(false) }}
+                onClick={() => window.innerWidth < 1024 && (closeAll(), setMembersOpen(!membersOpen))}
                 className="flex items-center gap-1 hover:text-[#103959]"
               >
 
@@ -146,12 +182,13 @@ export default function Header() {
 
               {membersOpen && (
 
-                <div className="absolute top-full left-0 mt-4 bg-white border border-gray-300 rounded-lg w-56 p-3">
+                <div className="absolute top-full left-0 pt-2">
+                  <div className="bg-white border border-gray-300 w-62 p-3 divide-y divide-gray-200">
 
                   <Link
                     href={`/${locale}/member/become_a_member`}
                     onClick={() => setMembersOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                    className="block px-3 py-3 hover:bg-gray-50"
                   >
                     {t("become_a_member")}
                   </Link>
@@ -159,7 +196,7 @@ export default function Header() {
                   <Link
                     href={`/${locale}/member/partnership`}
                     onClick={() => setMembersOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                    className="block px-3 py-3 hover:bg-gray-50"
                   >
                     {t("partnership")}
                   </Link>
@@ -167,12 +204,12 @@ export default function Header() {
                   <Link
                     href={`/${locale}/member/members_directory`}
                     onClick={() => setMembersOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
+                    className="block px-3 py-3 hover:bg-gray-50"
                   >
                     {t("members_directory")}
                   </Link>
 
-
+                  </div>
                 </div>
 
               )}
@@ -182,10 +219,14 @@ export default function Header() {
 
             {/* Events */}
 
-            <div className="relative">
+            <div 
+              className="relative"
+              onMouseEnter={() => window.innerWidth >= 1024 && (closeAll(), setEventsOpen(true))}
+              onMouseLeave={() => window.innerWidth >= 1024 && setTimeout(() => setEventsOpen(false), 100)}
+            >
 
               <button
-                onClick={() => { setEventsOpen(!eventsOpen); setInsightsOpen(false); setMembersOpen(false); setAboutOpen(false); setLangOpen(false) }}
+                onClick={() => window.innerWidth < 1024 && (closeAll(), setEventsOpen(!eventsOpen))}
                 className="flex items-center gap-1 hover:text-[#103959]"
               >
 
@@ -197,23 +238,25 @@ export default function Header() {
 
               {eventsOpen && (
 
-                <div className="absolute top-full left-0 mt-4 bg-white border border-gray-300 rounded-lg w-56 p-3">
+                <div className="absolute top-full left-0 pt-2">
+                  <div className="bg-white border border-gray-300 w-62 p-3 divide-y divide-gray-200">
 
-                  <Link
-                    href={`/${locale}/events/upcoming_events`}
-                    onClick={() => setEventsOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
-                  >
-                    {t("upcoming_events")}
-                  </Link>
+                    <Link
+                      href={`/${locale}/events/upcoming_events`}
+                      onClick={() => setEventsOpen(false)}
+                      className="block px-3 py-3 hover:bg-gray-50"
+                    >
+                      {t("upcoming_events")}
+                    </Link>
 
-                  <Link
-                    href={`/${locale}/events/news`}
-                    onClick={() => setEventsOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
-                  >
-                    {t("Latest_news_past_events")}
-                  </Link>
+                    <Link
+                      href={`/${locale}/events/news`}
+                      onClick={() => setEventsOpen(false)}
+                      className="block px-3 py-3 hover:bg-gray-50"
+                    >
+                      {t("Latest_news_past_events")}
+                    </Link>
+                  </div>
                 </div>
 
               )}
@@ -222,10 +265,14 @@ export default function Header() {
 
             {/* INSIGHTS */}
 
-            <div className="relative">
+            <div 
+              className="relative"
+              onMouseEnter={() => window.innerWidth >= 1024 && (closeAll(), setInsightsOpen(true))}
+              onMouseLeave={() => window.innerWidth >= 1024 && setTimeout(() => setInsightsOpen(false), 100)}
+            >
 
               <button
-                onClick={() => { setInsightsOpen(!insightsOpen); setEventsOpen(false); setMembersOpen(false); setAboutOpen(false); setLangOpen(false) }}
+                onClick={() => window.innerWidth < 1024 && (closeAll(), setInsightsOpen(!insightsOpen))}
                 className="flex items-center gap-1 hover:text-[#103959]"
               >
 
@@ -237,31 +284,33 @@ export default function Header() {
 
               {insightsOpen && (
 
-                <div className="absolute top-full left-0 mt-4 bg-white border border-gray-300 rounded-lg w-56 p-3">
+                <div className="absolute top-full left-0 pt-2">
+                  <div className="bg-white border border-gray-300 w-62 p-3 divide-y divide-gray-200">
 
-                  <Link
-                    href={`/${locale}/insights/countries`}
-                    onClick={() => setInsightsOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
-                  >
-                    {t("countries")}
-                  </Link>
+                    <Link
+                      href={`/${locale}/insights/countries`}
+                      onClick={() => setInsightsOpen(false)}
+                      className="block px-3 py-3 hover:bg-gray-50"
+                    >
+                      {t("countries")}
+                    </Link>
 
-                  <Link
-                    href={`/${locale}/insights/publications`}
-                    onClick={() => setInsightsOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
-                  >
-                    {t("publications")}
-                  </Link>
+                    <Link
+                      href={`/${locale}/insights/publications`}
+                      onClick={() => setInsightsOpen(false)}
+                      className="block px-3 py-3 hover:bg-gray-50"
+                    >
+                      {t("publications")}
+                    </Link>
 
-                  <Link
-                    href={`/${locale}/insights/press_releases`}
-                    onClick={() => setInsightsOpen(false)}
-                    className="block px-3 py-2 hover:bg-gray-50 rounded"
-                  >
-                    {t("press_releases")}
-                  </Link>
+                    <Link
+                      href={`/${locale}/insights/press_releases`}
+                      onClick={() => setInsightsOpen(false)}
+                      className="block px-3 py-3 hover:bg-gray-50"
+                    >
+                      {t("press_releases")}
+                    </Link>
+                  </div>
                 </div>
 
               )}
@@ -275,10 +324,14 @@ export default function Header() {
 
             {/* LANGUAGE */}
 
-            <div className="relative">
+            <div 
+              className="relative"
+              onMouseEnter={() => window.innerWidth >= 1024 && (closeAll(), setLangOpen(true))}
+              onMouseLeave={() => window.innerWidth >= 1024 && setTimeout(() => setLangOpen(false), 100)}
+            >
 
               <button
-                onClick={() => { setLangOpen(!langOpen); setAboutOpen(false); setMembersOpen(false) }}
+                onClick={() => window.innerWidth < 1024 && (closeAll(), setLangOpen(!langOpen))}
                 className="flex items-center gap-2"
               >
 
@@ -293,20 +346,22 @@ export default function Header() {
 
               {langOpen && (
 
-                <div className="absolute top-full right-0 mt-4 bg-white border border-gray-300 rounded-lg w-32 p-2">
+                <div className="absolute top-full right-0 pt-2">
+                  <div className="bg-white border border-gray-300 min-w-[120px] divide-y divide-gray-200">
 
-                  {languages.map(lang => (
-                    <Link
-                      key={lang}
-                      href={switchLocale(lang)}
-                      scroll={false}
-                      className="flex items-center gap-2 px-3 py-2 hover:bg-gray-50 rounded w-full"
-                    >
-                      <Image src={`/flags/${lang}.svg`} alt={lang} width={20} height={14}/>
-                      {lang.toUpperCase()}
-                    </Link>
-                  ))}
+                    {languages.map(lang => (
+                      <Link
+                        key={lang}
+                        href={switchLocale(lang)}
+                        scroll={false}
+                        className="flex items-center gap-2 px-3 py-2 hover:bg-gray-50 w-full"
+                      >
+                        <Image src={`/flags/${lang}.svg`} alt={lang} width={20} height={14}/>
+                        {lang.toUpperCase()}
+                      </Link>
+                    ))}
 
+                  </div>
                 </div>
 
               )}
