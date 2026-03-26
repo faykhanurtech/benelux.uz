@@ -48,6 +48,10 @@ export default function Header() {
   const pathname = usePathname()
   const router = useRouter()
 
+  const isActive = (path: string) => {
+    return pathname === path || pathname.startsWith(path + "/")
+  }
+
   const languages = ["en", "ru", "uz"].filter(l => l !== locale)
 
   const switchLocale = (lang: string) => {
@@ -82,7 +86,12 @@ export default function Header() {
 
           <nav className="hidden lg:flex items-center gap-7 text-gray-800 font-medium">
 
-            <Link href={`/${locale}`} className="hover:text-[#103959]">
+            <Link
+              href={`/${locale}`}
+              className={`hover:text-[#103959] pb-1 ${
+                pathname === `/${locale}` ? "border-b-2 border-[#103959]" : ""
+              }`}
+            >
               {t("home")}
             </Link>
 
@@ -97,7 +106,9 @@ export default function Header() {
 
               <button
                 onClick={() => window.innerWidth < 1024 && (closeAll(), setAboutOpen(!aboutOpen))}
-                className="flex items-center gap-1 hover:text-[#103959]"
+                className={`flex items-center gap-1 pb-1 hover:text-[#103959] ${
+                  isActive(`/${locale}/about`) ? "border-b-2 border-[#103959]" : ""
+                }`}
               >
 
                 {t("about")}
@@ -171,7 +182,9 @@ export default function Header() {
 
               <button
                 onClick={() => window.innerWidth < 1024 && (closeAll(), setMembersOpen(!membersOpen))}
-                className="flex items-center gap-1 hover:text-[#103959]"
+                className={`flex items-center gap-1 pb-1 hover:text-[#103959] ${
+                  isActive(`/${locale}/members`) ? "border-b-2 border-[#103959]" : ""
+                }`}
               >
 
                 {t("members")}
@@ -227,7 +240,9 @@ export default function Header() {
 
               <button
                 onClick={() => window.innerWidth < 1024 && (closeAll(), setEventsOpen(!eventsOpen))}
-                className="flex items-center gap-1 hover:text-[#103959]"
+                className={`flex items-center gap-1 pb-1 hover:text-[#103959] ${
+                  isActive(`/${locale}/events`) ? "border-b-2 border-[#103959]" : ""
+                }`}
               >
 
                 {t("events")}
@@ -273,7 +288,9 @@ export default function Header() {
 
               <button
                 onClick={() => window.innerWidth < 1024 && (closeAll(), setInsightsOpen(!insightsOpen))}
-                className="flex items-center gap-1 hover:text-[#103959]"
+                className={`flex items-center gap-1 pb-1 hover:text-[#103959] ${
+                  isActive(`/${locale}/insights`) ? "border-b-2 border-[#103959]" : ""
+                }`}
               >
 
                 {t("insights")}
@@ -317,7 +334,12 @@ export default function Header() {
 
             </div>
 
-            <Link href={`/${locale}/contact`} className="hover:text-[#103959]">
+            <Link
+              href={`/${locale}/contact`}
+              className={`hover:text-[#103959] pb-1 ${
+                isActive(`/${locale}/contact`) ? "border-b-2 border-[#103959]" : ""
+              }`}
+            >
               {t("contact")}
             </Link>
 

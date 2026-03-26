@@ -5,7 +5,7 @@ import { useTranslations } from "next-intl"
 
 export default function Hero() {
 
-  const t = useTranslations("about-hero")
+  const t = useTranslations("partners-hero")
 
   return (
 
@@ -15,7 +15,7 @@ export default function Hero() {
 
       <Image
         src="/about/hero.jpg"
-        alt="Benelux Chamber"
+        alt="Partners"
         fill
         priority
         className="object-cover"
@@ -45,4 +45,5 @@ export default function Hero() {
     </section>
 
   )
+
 }
