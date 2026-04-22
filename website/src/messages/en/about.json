@@ -1,6 +1,6 @@
 {
   "about-hero": {
-    "title": "О торговой палате BENELUX"
+    "title": "Welcome to the Benelux Chamber of Commerce in Uzbekistan"
   },
   "about-who": {
     "title": "Who we are?",
@@ -8,15 +8,217 @@
     "text2": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships."
   },
   "about-vision": {
-    "title": "Our Vision",
-    "text1": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships.",
-    "text2": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships.",
-    "text3": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships."
+    "title": "Welcome to the Benelux Chamber of Commerce in Uzbekistan",
+    "text1": "The Benelux Chamber of Commerce in Uzbekistan is a leading and recognized business association connecting companies and professionals from Belgium, the Netherlands, and Luxembourg with Uzbekistan's rapidly growing economy.",
+    "text2": "We provide a strong platform for our members to share and showcase their knowledge, expertise, and values through a wide range of business and networking activities.",
+    "text3": "We are driven by our mission to inform, connect, and inspire companies and professionals with an interest in Benelux–Uzbekistan cooperation. Our members benefit from an active and engaged community, offering opportunities to build partnerships, exchange knowledge, and access valuable market insights.",
+    "text4": "Through events, strategic introductions, publications, and tailored support, we help our members succeed and grow in Uzbekistan.",
+    "chairmanIntro": "A personal word from our Chairman of Board of Trustees, President of Benelux Chamber of Commerce,",
+    "chairmanName": "Mr Denis Van den Weghe",
+    "directorIntro": "A personal word from our Executive Director, Mr Bekhzod Botirjonov"
   },
   "about-mission": {
-  "title": "Our Mission",
-  "text1": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships. The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships.",
-  "text2": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships."
-}
-
+    "title": "What does the Benelux Chamber stand for?",
+    "text1": "The Benelux Chamber of Commerce in Uzbekistan informs, connects, and inspires businesses and professionals engaged in or exploring opportunities between the Benelux region and Uzbekistan.",
+    "text2": "Our members gain access to a dynamic and trusted network of corporates and professionals, enabling them to exchange knowledge, explore opportunities, and build meaningful partnerships.",
+    "text3": "We deliver value through high-quality events, relevant insights, and practical support designed to help our members succeed in a fast-evolving market.",
+    "connectedTitle": "BE CONNECTED",
+    "connectedText1": "We believe in the power of community.",
+    "connectedText2": "As a member, you gain access to a strong network of like-minded professionals, international companies, and local partners. The Chamber organizes numerous networking events throughout the year, creating opportunities to build relationships and expand your presence in Uzbekistan.",
+    "connectedText3": "From high-level business forums and cross-chamber events to informal networking receptions, we ensure continuous engagement within our community.",
+    "informedTitle": "BE INFORMED",
+    "informedText1": "We provide our members with access to relevant and timely information on market developments, policy updates, and industry trends in Uzbekistan and the wider Central Asian region.",
+    "informedText2": "Through expert speakers, roundtables, and targeted briefings, we equip our members with insights needed to navigate the local business environment.",
+    "informedText3": "We also support our members by facilitating introductions to key stakeholders, partners, and institutions, helping them address challenges and unlock new opportunities.",
+    "inspiredTitle": "BE INSPIRED",
+    "inspiredText1": "The Chamber curates an inspiring calendar of activities, including panel discussions, company visits, sector-focused events, and business dialogues.",
+    "inspiredText2": "We aim to empower our members by sharing best practices, showcasing innovation, and connecting them with forward-thinking leaders from both the Benelux region and Uzbekistan.",
+    "inspiredText3": "Together, we foster an environment where collaboration drives growth and innovation."
+  },
+  "about-history": {
+    "title": "Our History",
+    "text1": "The Benelux Chamber of Commerce in Uzbekistan was established in November 2024 during European Economic Days in Uzbekistan to strengthen economic ties between Uzbekistan and the Benelux countries — Belgium, the Netherlands, and Luxembourg and was officially registered with the Ministry of Justice of the Republic of Uzbekistan on March, 2025.",
+    "text2": "The Chamber in Uzbekistan operates as a branch of the Benelux Chamber of Commerce Association established in Kazakhstan (www.benelux.kz). The parent association was founded at the initiative of the Embassies of the Kingdoms of Belgium and the Netherlands, as well as the Grand Duchy of Luxembourg, and functions since 2021.",
+    "text3": "As a trusted platform, the Chamber supports bilateral trade, investment, and knowledge exchange by bringing together businesses, institutions, and professionals.",
+    "text4": "Operating as a non-profit organization, the Chamber is dedicated to creating value for its members and facilitating long-term partnerships between the Benelux region and Uzbekistan."
+  },
+  "ambassadors": {
+    "uzbekistan": {
+      "sidebarTitle": "Ambassador of Uzbekistan",
+      "heading": "A WORD FROM AMBASSADOR – UZBEKISTAN",
+      "name": "H.E. Gayrat Fazilov",
+      "position": "Ambassador of the Republic of Uzbekistan to the Benelux countries",
+      "greeting": "Dear readers,",
+      "texts": [
+        "Uzbekistan and the Benelux countries are a natural match.",
+        "In recent years, we have witnessed a steady strengthening of economic ties between Uzbekistan and the Benelux region — Belgium, the Netherlands, and Luxembourg. An increasing number of companies are exploring opportunities in each other's markets, building partnerships, and contributing to sustainable economic growth.",
+        "What makes this cooperation so promising?",
+        "Uzbekistan today offers a dynamic and reform-driven business environment, with strong government support for foreign investment, economic liberalization, and regional connectivity across Central Asia. At the same time, the Benelux countries bring world-class expertise in innovation, logistics, agriculture, finance, and sustainable development.",
+        "In my experience, the key ingredients behind successful cooperation between Uzbek and Benelux businesses are: openness, entrepreneurial spirit, innovation, and a shared commitment to long-term partnership.",
+        "At the Embassy, we work closely with companies from the Benelux region that are looking to enter or expand in Uzbekistan. We support them in understanding the local market, building relationships with key stakeholders, and navigating the evolving regulatory environment.",
+        "In this regard, the Benelux Chamber of Commerce in Uzbekistan plays an important and complementary role. It provides a trusted platform where businesses can connect, exchange knowledge, and turn ideas into concrete projects. Together, the Embassy and the Chamber contribute to strengthening the bridge between the Benelux region and Central Asia.",
+        "As Ambassador, I highly value this collaboration and the growing interest of Benelux companies in Uzbekistan.",
+        "I wish you all successful partnerships and prosperous business."
+      ]
+    },
+    "belgium": {
+      "sidebarTitle": "Ambassador of Belgium",
+      "heading": "A WORD FROM AMBASSADOR – BELGIUM",
+      "name": "H.E. Erik DE MAEYER",
+      "position": "Ambassador Extraordinary and Plenipotentiary of the Kingdom of Belgium to the Republic of Uzbekistan",
+      "greeting": "Dear readers,",
+      "texts": ["Text will be soon"]
+    },
+    "netherlands": {
+      "sidebarTitle": "Ambassador of Netherlands",
+      "heading": "A WORD FROM AMBASSADOR – NETHERLANDS",
+      "name": "H.E. Nico Schermers",
+      "position": "Ambassador of the Kingdom of the Netherlands to the Republic of Kazakhstan, the Kyrgyz Republic, the Republic of Tajikistan, Turkmenistan, and the Republic of Uzbekistan",
+      "greeting": "Dear readers,",
+      "texts": ["Text will be soon"]
+    },
+    "luxembourg": {
+      "sidebarTitle": "Ambassador of Luxembourg",
+      "heading": "A WORD FROM AMBASSADOR – LUXEMBOURG",
+      "name": "H.E. Thomas (Tom) Reisen",
+      "position": "Ambassador of the Grand Duchy of Luxembourg to the Republic of Uzbekistan",
+      "greeting": "Dear readers,",
+      "texts": ["Text will be soon"]
+    }
+  },
+  "institutional": {
+    "embassies": {
+      "sidebarTitle": "Embassies",
+      "items": [
+        {
+          "name": "EMBASSY OF THE KINGDOM OF BELGIUM TO UZBEKISTAN",
+          "website": "https://diplomatie.belgium.be/en",
+          "location": "Based in Astana city, Kazakhstan"
+        },
+        {
+          "name": "EMBASSY OF THE KINGDOM OF THE NETHERLANDS TO UZBEKISTAN",
+          "website": "https://www.netherlandsandyou.nl/web/uzbekistan",
+          "location": "Based in Astana city, Kazakhstan"
+        },
+        {
+          "name": "EMBASSY OF THE GRAND DUCHY OF LUXEMBOURG TO UZBEKISTAN",
+          "website": "https://moscou.mae.lu/en.html",
+          "location": "Based in Moscow city, Russia"
+        },
+        {
+          "name": "EMBASSY OF THE REPUBLIC OF UZBEKISTAN TO BENELUX COUNTRIES",
+          "website": "https://belgium.mfa.uz",
+          "location": "Based in Brussels city, Belgium"
+        }
+      ]
+    },
+    "partners": {
+      "sidebarTitle": "Institutional partners",
+      "items": [
+        {
+          "name": "BENELUX CHAMBER OF COMMERCE IN KAZAKHSTAN",
+          "website": "https://www.benelux.kz",
+          "location": "Based in Kazakhstan"
+        },
+        {
+          "name": "EUROUZ – EUROPE-UZBEKISTAN ASSOCIATION FOR ECONOMIC COOPERATION",
+          "website": "https://www.eurouz.com",
+          "location": "Based in Uzbekistan"
+        },
+        {
+          "name": "Federation of Belgian Chambers of Commerce",
+          "website": "https://belgianchambers.be/en/",
+          "location": "Based in Belgium"
+        },
+        {
+          "name": "Chamber of Commerce Luxembourg",
+          "website": "https://www.cc.lu",
+          "location": "Based in Luxembourg"
+        },
+        {
+          "name": "The Netherlands Chamber of Commerce (Kamer van Koophandel)",
+          "website": "https://www.kvk.nl/en/about-kvk/everything-for-businesses/",
+          "location": "Based in the Netherlands"
+        },
+        {
+          "name": "Flanders Investment & Trade",
+          "website": "https://corporate.flandersinvestmentandtrade.com/en",
+          "location": "Based in Brussels, Belgium"
+        },
+        {
+          "name": "Wallonia Export-Investment Agency",
+          "website": "https://www.wallonia.be/en/wallonia-export-investment-agency",
+          "location": "Based in Belgium"
+        }
+      ]
+    }
+  },
+  "governance": {
+    "board": {
+      "sidebarTitle": "Board of Trustees",
+      "items": [
+        {
+          "name": "Denis Van Den Weghe",
+          "roles": [
+            "Chairman of Board of Trustees",
+            "The President of Benelux Chamber of Commerce in Kazakhstan",
+            "Honorary Consul of the Kingdom of Belgium in Almaty"
+          ]
+        },
+        {
+          "name": "Oybek Shaykhov",
+          "roles": [
+            "Member of Board of Trustees",
+            "Board member — The Europe–Uzbekistan Association for Economic Cooperation (EUROUZ)"
+          ]
+        },
+        {
+          "name": "Asal Shodieva",
+          "roles": [
+            "Member of Board of Trustees"
+          ]
+        }
+      ]
+    },
+    "observers": {
+      "sidebarTitle": "Observers",
+      "items": [
+        {
+          "name": "H.E. Nico Schermers",
+          "roles": [
+            "Ambassador of the Kingdom of the Netherlands to the Republic of Kazakhstan, the Kyrgyz Republic, the Republic of Tajikistan, Turkmenistan, and the Republic of Uzbekistan"
+          ]
+        },
+        {
+          "name": "H.E. Erik DE MAEYER",
+          "roles": [
+            "Ambassador Extraordinary and Plenipotentiary of the Kingdom of Belgium to the Republic of Uzbekistan"
+          ]
+        },
+        {
+          "name": "H.E. Gayrat Fazilov",
+          "roles": [
+            "Ambassador of the Republic of Uzbekistan to the Benelux countries"
+          ]
+        },
+        {
+          "name": "H.E. Thomas (Tom) Reisen",
+          "roles": [
+            "Ambassador of the Grand Duchy of Luxembourg to the Republic of Uzbekistan"
+          ]
+        }
+      ]
+    },
+    "management": {
+      "sidebarTitle": "Executive Management",
+      "items": [
+        {
+          "name": "Mr. Bekhzod Botirjonov",
+          "roles": [
+            "Director / Chief Representative"
+          ]
+        }
+      ]
+    }
+  }
 }

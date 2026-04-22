@@ -5,6 +5,15 @@ import Header from '../../components/layout/Header';
 import Footer from '../../components/layout/Footer';
 import ScrollToTop from "../../components/ui/ScrollToTop"
 import '../globals.css';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  icons: {
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
+    apple: '/favicon.svg',
+  },
+};
 
 export default async function LocaleLayout({
   children,

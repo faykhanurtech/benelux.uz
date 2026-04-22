@@ -29,13 +29,44 @@ export default function Mission() {
 
           <div>
 
-            <p className="text-gray-700 leading-relaxed mb-6">
+            <p className="text-gray-700 leading-relaxed mb-4">
               {t("text1")}
             </p>
 
-            <p className="text-gray-700 leading-relaxed">
+            <p className="text-gray-700 leading-relaxed mb-4">
               {t("text2")}
             </p>
+
+            <p className="text-gray-700 leading-relaxed mb-10">
+              {t("text3")}
+            </p>
+
+            {/* BE CONNECTED */}
+
+            <div className="mb-8">
+              <h3 className="font-bold text-lg mb-3">{t("connectedTitle")}</h3>
+              <p className="text-gray-700 leading-relaxed mb-3">{t("connectedText1")}</p>
+              <p className="text-gray-700 leading-relaxed mb-3">{t("connectedText2")}</p>
+              <p className="text-gray-700 leading-relaxed">{t("connectedText3")}</p>
+            </div>
+
+            {/* BE INFORMED */}
+
+            <div className="mb-8">
+              <h3 className="font-bold text-lg mb-3">{t("informedTitle")}</h3>
+              <p className="text-gray-700 leading-relaxed mb-3">{t("informedText1")}</p>
+              <p className="text-gray-700 leading-relaxed mb-3">{t("informedText2")}</p>
+              <p className="text-gray-700 leading-relaxed">{t("informedText3")}</p>
+            </div>
+
+            {/* BE INSPIRED */}
+
+            <div>
+              <h3 className="font-bold text-lg mb-3">{t("inspiredTitle")}</h3>
+              <p className="text-gray-700 leading-relaxed mb-3">{t("inspiredText1")}</p>
+              <p className="text-gray-700 leading-relaxed mb-3">{t("inspiredText2")}</p>
+              <p className="text-gray-700 leading-relaxed">{t("inspiredText3")}</p>
+            </div>
 
           </div>
 

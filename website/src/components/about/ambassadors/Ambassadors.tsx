@@ -1,120 +1,79 @@
 "use client"
 
-import { useEffect, useState } from "react"
 import Image from "next/image"
+import { useTranslations } from "next-intl"
 
-const ambassadors = [
-  {
-    id: "uzbekistan",
-    title: "Ambassador of Uzbekistan",
-    name: "Name Surname",
-    image: "/defoult.jpg",
-    text: "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships"
-  },
-  {
-    id: "belgium",
-    title: "Ambassador of Belgium",
-    name: "Name Surname",
-    image: "/defoult.jpg",
-    text: "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships"
-  },
-  {
-    id: "netherlands",
-    title: "Ambassador of Netherlands",
-    name: "Name Surname",
-    image: "/defoult.jpg",
-    text: "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships"
-  },
-  {
-    id: "luxembourg",
-    title: "Ambassador of Luxembourg",
-    name: "Name Surname",
-    image: "/defoult.jpg",
-    text: "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships"
-  }
-]
+const ambassadorIds = ["uzbekistan", "belgium", "netherlands", "luxembourg"]
+
+const ambassadorImages: Record<string, string> = {
+  uzbekistan: "/ambassadors/uzbekistan.jpg",
+  belgium: "/ambassadors/btlgimg.jpg",
+  netherlands: "/ambassadors/netherlands.jpg",
+  luxembourg: "/ambassadors/luxembourg.jpg",
+}
 
 export default function Ambassadors() {
-  const [active, setActive] = useState("uzbekistan")
-
-  useEffect(() => {
-    const handleScroll = () => {
-      ambassadors.forEach((item) => {
-        const el = document.getElementById(item.id)
-        if (!el) return
-
-        const rect = el.getBoundingClientRect()
-
-        if (rect.top <= 150 && rect.bottom >= 150) {
-          setActive(item.id)
-        }
-      })
-    }
-
-    window.addEventListener("scroll", handleScroll)
-    return () => window.removeEventListener("scroll", handleScroll)
-  }, [])
+  const t = useTranslations("ambassadors")
 
   return (
-    <section className="py-20">
+    <>
+      {ambassadorIds.map((id, index) => {
+        const texts = t.raw(`${id}.texts`) as string[]
 
-      <div className="max-w-7xl mx-auto px-6">
+        return (
+          <section
+            key={id}
+            className={index === 0 ? "py-20" : "pb-20"}
+          >
+            <div className="max-w-7xl mx-auto px-6">
 
-        <div className="grid grid-cols-1 lg:grid-cols-[30%_70%] gap-12">
+              <div className="grid grid-cols-1 lg:grid-cols-[30%_70%] gap-12">
 
-          {/* LEFT SIDEBAR (как About) */}
-          <div className="lg:sticky lg:top-28 h-fit space-y-6">
+                {/* LEFT — sticky, one per section, same pattern as mission/vision */}
+                <div className="lg:sticky lg:top-28 h-fit">
+                  <h2 className="text-2xl md:text-3xl font-bold">
+                    {t(`${id}.sidebarTitle`)}
+                  </h2>
+                </div>
 
-            {ambassadors.map((item) => (
-              <a
-                key={item.id}
-                href={`#${item.id}`}
-                className={`block text-2xl transition ${
-                  active === item.id
-                    ? "text-black font-bold"
-                    : "text-gray-400"
-                }`}
-              >
-                {item.title}
-              </a>
-            ))}
+                {/* RIGHT — content */}
+                <div>
 
-          </div>
+                  <p className="text-xs font-semibold tracking-widest text-gray-500 uppercase mb-6">
+                    {t(`${id}.heading`)}
+                  </p>
 
+                  <Image
+                    src={ambassadorImages[id]}
+                    alt={t(`${id}.name`)}
+                    width={900}
+                    height={500}
+                    className="w-full h-auto mb-6"
+                  />
 
-          {/* RIGHT CONTENT */}
-          <div className="space-y-24">
+                  <div className="mb-6">
+                    <p className="font-bold text-lg">{t(`${id}.name`)}</p>
+                    <p className="font-semibold text-gray-600">{t(`${id}.position`)}</p>
+                  </div>
 
-            {ambassadors.map((item) => (
-              <div key={item.id} id={item.id} className="scroll-mt-32">
+                  <p className="text-gray-700 leading-relaxed mb-4">
+                    {t(`${id}.greeting`)}
+                  </p>
 
-                {/* IMAGE FULL WIDTH */}
-                <Image
-                  src={item.image}
-                  alt={item.name}
-                  width={900}
-                  height={500}
-                  className="w-full h-auto mb-6"
-                />
+                  {texts.map((paragraph, i) => (
+                    <p key={i} className="text-gray-700 leading-relaxed mb-4">
+                      {paragraph}
+                    </p>
+                  ))}
 
-                <p className="font-semibold mb-4">
-                  {item.name}
-                </p>
-
-                {/* TEXT */}
-                <p className="text-gray-700 leading-relaxed">
-                  {item.text}
-                </p>
+                </div>
 
               </div>
-            ))}
 
-          </div>
-
-        </div>
-
-      </div>
-
-    </section>
+            </div>
+          </section>
+        )
+      })}
+    </>
   )
 }

@@ -2,9 +2,9 @@
 
 import { useTranslations } from "next-intl"
 
-export default function Vision() {
+export default function History() {
 
-  const t = useTranslations("about-vision")
+  const t = useTranslations("about-history")
 
   return (
 
@@ -29,30 +29,21 @@ export default function Vision() {
 
           <div>
 
-            <p className="text-gray-700 leading-relaxed mb-4">
+            <p className="text-gray-700 leading-relaxed mb-6">
               {t("text1")}
             </p>
 
-            <p className="text-gray-700 leading-relaxed mb-4">
+            <p className="text-gray-700 leading-relaxed mb-6">
               {t("text2")}
             </p>
 
-            <p className="text-gray-700 leading-relaxed mb-4">
+            <p className="text-gray-700 leading-relaxed mb-6">
               {t("text3")}
             </p>
 
-            <p className="text-gray-700 leading-relaxed mb-8">
+            <p className="text-gray-700 leading-relaxed">
               {t("text4")}
             </p>
-
-            <div className="mb-4">
-              <p className="text-gray-700">{t("chairmanIntro")}</p>
-              <p className="text-gray-700 font-medium">{t("chairmanName")}</p>
-            </div>
-
-            <div>
-              <p className="text-gray-700">{t("directorIntro")}</p>
-            </div>
 
           </div>
 

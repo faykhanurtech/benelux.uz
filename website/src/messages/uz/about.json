@@ -1,22 +1,224 @@
 {
   "about-hero": {
-    "title": "О торговой палате BENELUX"
+    "title": "Benelux Savdo Palatasi Uzbekistondagi vakilxonasiga xush kelibsiz"
   },
   "about-who": {
-    "title": "Who we are?",
-    "text1": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships.",
-    "text2": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships."
+    "title": "Biz kimiz?",
+    "text1": "O'zbekistondagi Benelux Savdo Palatasi Benelux mintaqasidagi kompaniyalar va O'zbekiston o'rtasida ko'prik vazifasini bajaradi. Biz uzoq muddatli iqtisodiy hamkorliklarni mustahkamlash uchun biznes hamkorligini, investitsiya imkoniyatlarini va bilim almashishni rivojlantiramiz.",
+    "text2": "O'zbekistondagi Benelux Savdo Palatasi Benelux mintaqasidagi kompaniyalar va O'zbekiston o'rtasida ko'prik vazifasini bajaradi. Biz uzoq muddatli iqtisodiy hamkorliklarni mustahkamlash uchun biznes hamkorligini, investitsiya imkoniyatlarini va bilim almashishni rivojlantiramiz."
   },
   "about-vision": {
-    "title": "Our Vision",
-    "text1": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships.",
-    "text2": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships.",
-    "text3": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships."
+    "title": "Benelux Savdo Palatasi Uzbekistondagi vakilxonasiga xush kelibsiz",
+    "text1": "O'zbekistondagi Benelux Savdo Palatasi — Belgiya, Niderlandiya va Lyuksemburgdan kelgan kompaniyalar va mutaxassislarni O'zbekistonning jadal rivojlanayotgan iqtisodiyoti bilan bog'laydigan yetakchi va tan olingan biznes uyushmasidir.",
+    "text2": "Biz a'zolarimizga keng ko'lamli biznes va tarmoq tadbirlari orqali o'z bilim, tajriba va qadriyatlarini ulashish hamda namoyish etish uchun mustahkam platforma taqdim etamiz.",
+    "text3": "Biz Benelux–O'zbekiston hamkorligiga qiziquvchi kompaniyalar va mutaxassislarni xabardor qilish, bog'lash va ilhomlantirishga yo'naltirilgan missiyamizdan kelib chiqib harakat qilamiz. A'zolarimiz faol va mas'uliyatli hamjamiyatdan foydalanib, sheriklik qurish, bilim almashish va qimmatli bozor ma'lumotlariga kirish imkoniyatlaridan bahramand bo'ladi.",
+    "text4": "Tadbirlar, strategik tanishuvlar, nashrlar va moslashtirilgan qo'llab-quvvatlash orqali biz a'zolarimizga O'zbekistonda muvaffaqiyatli faoliyat yuritish va o'sishga yordam beramiz.",
+    "chairmanIntro": "Benelux Savdo Palatasi Kuzatuv kengashi raisi, Prezidentning shaxsiy so'zi,",
+    "chairmanName": "Janob Denis Van den Weghe",
+    "directorIntro": "Ijroiya direktori janob Bekhzod Botirjonovning shaxsiy so'zi"
   },
   "about-mission": {
-  "title": "Our Mission",
-  "text1": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships. The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships.",
-  "text2": "The BENELUX Chamber of Commerce in Uzbekistan serves as a bridge between companies from the BENELUX region and Uzbekistan. We promote business cooperation, investment opportunities and knowledge exchange to strengthen long-term economic partnerships."
-}
-
+    "title": "Benelux Savdo Palatasi nimani himoya qiladi?",
+    "text1": "O'zbekistondagi Benelux Savdo Palatasi Benelux mintaqasi va O'zbekiston o'rtasidagi imkoniyatlarni o'rganayotgan yoki shu sohadagi faoliyat bilan shug'ullanayotgan biznes va mutaxassislarni xabardor qiladi, bog'laydi va ilhomlantiryadi.",
+    "text2": "A'zolarimiz korporatsiyalar va mutaxassislarning dinamik va ishonchli tarmog'iga kirish imkoniga ega bo'lib, bilim almashish, imkoniyatlarni o'rganish va mazmunli sherikliklar qurishga muvaffaq bo'ladi.",
+    "text3": "Biz a'zolarimizga tez rivojlanayotgan bozorda muvaffaqiyatga erishishga yordam beradigan yuqori sifatli tadbirlar, dolzarb tahlillar va amaliy qo'llab-quvvatlash orqali qiymat yaratamiz.",
+    "connectedTitle": "BOG'LANING",
+    "connectedText1": "Biz hamjamiyatning kuchiga ishonamiz.",
+    "connectedText2": "A'zo sifatida siz hamfikr mutaxassislar, xalqaro kompaniyalar va mahalliy sheriklar keng tarmog'iga kirish imkoniga egasiz. Palata yil davomida ko'plab tarmoq tadbirlarini tashkil etib, O'zbekistonda munosabatlar o'rnatish va mavjudligingizni kengaytirish uchun imkoniyatlar yaratadi.",
+    "connectedText3": "Yuqori darajali biznes forumlar va palatalararo tadbirlardan tortib norasmiy tarmoq qabullarigacha — biz hamjamiyatimiz ichida uzluksiz muloqotni ta'minlaymiz.",
+    "informedTitle": "XABARDOR BO'LING",
+    "informedText1": "Biz a'zolarimizga O'zbekiston va kengroq Markaziy Osiyo mintaqasidagi bozor rivojlanishi, siyosat yangiliklari va tarmoq tendentsiyalari to'g'risida dolzarb va o'z vaqtida ma'lumot taqdim etamiz.",
+    "informedText2": "Mutaxassis ma'ruzachilar, davra suhbatlari va maqsadli brifinglar orqali biz a'zolarimizni mahalliy biznes muhitida mo'ljal olish uchun zarur bilimlar bilan ta'minlaymiz.",
+    "informedText3": "Biz shuningdek a'zolarimizni asosiy manfaatdor tomonlar, sheriklar va muassasalar bilan tanishishga ko'maklashib, ularning muammolarini hal etish va yangi imkoniyatlarni ochishda qo'llab-quvvatlaymiz.",
+    "inspiredTitle": "ILHOMLANIB TURING",
+    "inspiredText1": "Palata panel muhokamalar, kompaniyalarga tashrif buyurish, tarmoqqa yo'naltirilgan tadbirlar va biznes dialoglarni o'z ichiga olgan ilhomli tadbirlar taqvimini shakllantiradi.",
+    "inspiredText2": "Biz a'zolarimizni eng yaxshi amaliyotlarni ulashish, innovatsiyalarni namoyish etish va ularni Benelux mintaqasi va O'zbekistondan ilg'or fikrlovchi rahbarlar bilan bog'lash orqali kuchaytirmoqdamiz.",
+    "inspiredText3": "Birgalikda biz hamkorlik o'sish va innovatsiyalarni haydaydigan muhit yaratamiz."
+  },
+  "about-history": {
+    "title": "Bizning tariximiz",
+    "text1": "O'zbekistondagi Benelux Savdo Palatasi 2024-yil noyabr oyida O'zbekistonda o'tkazilgan Yevropa iqtisodiy kunlarida O'zbekiston va Benelux davlatlari — Belgiya, Niderlandiya va Lyuksemburg o'rtasidagi iqtisodiy aloqalarni mustahkamlash maqsadida tashkil etilgan va 2025-yil martda O'zbekiston Respublikasi Adliya vazirligi tomonidan rasman ro'yxatdan o'tkazilgan.",
+    "text2": "O'zbekistondagi Palata Qozog'istonda tashkil etilgan Benelux Savdo Palatasi Assotsiatsiyasining (www.benelux.kz) filiali sifatida faoliyat yuritadi. Bosh assotsiatsiya Belgiya Qirolligi va Niderlandiya Qirolligi elchixonalari, shuningdek Lyuksemburg Buyuk Gersogligining tashabbusi bilan tashkil etilgan va 2021-yildan beri faoliyat ko'rsatmoqda.",
+    "text3": "Ishonchli platforma sifatida Palata bizneslar, muassasalar va mutaxassislarni birlashtirish orqali ikki tomonlama savdo, investitsiya va bilim almashishni qo'llab-quvvatlaydi.",
+    "text4": "Notijorat tashkilot sifatida Palata a'zolari uchun qiymat yaratish va Benelux mintaqasi bilan O'zbekiston o'rtasida uzoq muddatli sheriklikni rivojlantirishga bag'ishlangan."
+  },
+  "ambassadors": {
+    "uzbekistan": {
+      "sidebarTitle": "O'zbekiston Elchisi",
+      "heading": "ELCHINING SO'ZI – O'ZBEKISTON",
+      "name": "J.E. Gayrat Fazilov",
+      "position": "O'zbekiston Respublikasining Benelux mamlakatlaridagi Elchisi",
+      "greeting": "Hurmatli o'quvchilar,",
+      "texts": [
+        "O'zbekiston va Benelux davlatlari bir-biriga tabiiy mos keladi.",
+        "So'nggi yillarda biz O'zbekiston va Benelux mintaqasi — Belgiya, Niderlandiya va Lyuksemburg o'rtasidagi iqtisodiy aloqalarning barqaror mustahkamlanishiga guvoh bo'ldik. Tobora ko'proq kompaniyalar bir-birining bozorlarida imkoniyatlarni o'rganmoqda, sherikliklar quryapti va barqaror iqtisodiy o'sishga hissa qo'shyapti.",
+        "Bu hamkorlikni nima bunday istiqbolli qiladi?",
+        "Bugun O'zbekiston dinamik va islohotlarga yo'naltirilgan biznes muhitini taklif etmoqda: chet el investitsiyalariga kuchli davlat ko'magi, iqtisodiy liberallashtirish va Markaziy Osiyo bo'ylab mintaqaviy ulanish. Shu bilan birga, Benelux davlatlari innovatsiya, logistika, qishloq xo'jaligi, moliya va barqaror rivojlanish sohasida jahon darajasidagi tajribani olib keladi.",
+        "Mening tajribamga ko'ra, o'zbek va beneluxlik bizneslar o'rtasidagi muvaffaqiyatli hamkorlikning asosiy omillari: ochiqlik, tadbirkorlik ruhi, innovatsiya va uzoq muddatli hamkorlikka umumiy sodiqlik.",
+        "Elchixonada biz O'zbekiston bozoriga kirmoqchi yoki u yerda faoliyatini kengaytirmoqchi bo'lgan Benelux mintaqasidagi kompaniyalar bilan yaqin hamkorlik qilamiz. Biz ularga mahalliy bozorni tushunishda, asosiy manfaatdor tomonlar bilan munosabat o'rnatishda va o'zgaruvchan tartibga solish muhitida yo'l topishda yordam beramiz.",
+        "Shu munosabat bilan, O'zbekistondagi Benelux Savdo Palatasi muhim va to'ldiruvchi rol o'ynaydi. U kompaniyalar aloqa o'rnatishi, bilim almashishi va g'oyalarni aniq loyihalarga aylantirishi mumkin bo'lgan ishonchli platforma taqdim etadi. Birgalikda Elchixona va Palata Benelux mintaqasi bilan Markaziy Osiyo o'rtasidagi ko'prikni mustahkamlashga hissa qo'shadi.",
+        "Elchi sifatida men bu hamkorlikni va O'zbekistonga Benelux kompaniyalarining o'sib borayotgan qiziqishini juda qadrlayman.",
+        "Sizlarga muvaffaqiyatli sherikliklar va farovon biznes tilayman."
+      ]
+    },
+    "belgium": {
+      "sidebarTitle": "Belgiya Elchisi",
+      "heading": "ELCHINING SO'ZI – BELGIYA",
+      "name": "J.E. Erik DE MAEYER",
+      "position": "O'zbekiston Respublikasidagi Belgiya Qirolligining Favqulodda va Muxtoriyatli Elchisi",
+      "greeting": "Hurmatli o'quvchilar,",
+      "texts": ["Matn tez orada"]
+    },
+    "netherlands": {
+      "sidebarTitle": "Niderlandiya Elchisi",
+      "heading": "ELCHINING SO'ZI – NIDERLANDIYA",
+      "name": "J.E. Nico Schermers",
+      "position": "Qozog'iston Respublikasi, Qirg'iz Respublikasi, Tojikiston Respublikasi, Turkmaniston va O'zbekiston Respublikasidagi Niderlandiya Qirolligining Elchisi",
+      "greeting": "Hurmatli o'quvchilar,",
+      "texts": ["Matn tez orada"]
+    },
+    "luxembourg": {
+      "sidebarTitle": "Lyuksemburg Elchisi",
+      "heading": "ELCHINING SO'ZI – LYUKSEMBURG",
+      "name": "J.E. Thomas (Tom) Reisen",
+      "position": "O'zbekiston Respublikasidagi Lyuksemburg Buyuk Gersogligining Elchisi",
+      "greeting": "Hurmatli o'quvchilar,",
+      "texts": ["Matn tez orada"]
+    }
+  },
+  "institutional": {
+    "embassies": {
+      "sidebarTitle": "Elchixonalar",
+      "items": [
+        {
+          "name": "BELGIYA QIROLLIGI ELCHIXONASI O'ZBEKISTONDA",
+          "website": "https://diplomatie.belgium.be/en",
+          "location": "Ostona shahri, Qozog'iston"
+        },
+        {
+          "name": "NIDERLANDIYA QIROLLIGI ELCHIXONASI O'ZBEKISTONDA",
+          "website": "https://www.netherlandsandyou.nl/web/uzbekistan",
+          "location": "Ostona shahri, Qozog'iston"
+        },
+        {
+          "name": "LYUKSEMBURG BUYUK GERSOGLIGI ELCHIXONASI O'ZBEKISTONDA",
+          "website": "https://moscou.mae.lu/en.html",
+          "location": "Moskva shahri, Rossiya"
+        },
+        {
+          "name": "O'ZBEKISTON RESPUBLIKASI ELCHIXONASI BENELUX MAMLAKATLARIDA",
+          "website": "https://belgium.mfa.uz",
+          "location": "Bryussel shahri, Belgiya"
+        }
+      ]
+    },
+    "partners": {
+      "sidebarTitle": "Institutsional hamkorlar",
+      "items": [
+        {
+          "name": "QOZOG'ISTONDAGI BENELUX SAVDO PALATASI",
+          "website": "https://www.benelux.kz",
+          "location": "Qozog'iston"
+        },
+        {
+          "name": "EUROUZ – YEVROPA-O'ZBEKISTON IQTISODIY HAMKORLIK ASSOTSIATSIYASI",
+          "website": "https://www.eurouz.com",
+          "location": "O'zbekiston"
+        },
+        {
+          "name": "Belgiya savdo palatalari federatsiyasi",
+          "website": "https://belgianchambers.be/en/",
+          "location": "Belgiya"
+        },
+        {
+          "name": "Lyuksemburg savdo palatasi",
+          "website": "https://www.cc.lu",
+          "location": "Lyuksemburg"
+        },
+        {
+          "name": "Niderlandiya savdo palatasi (Kamer van Koophandel)",
+          "website": "https://www.kvk.nl/en/about-kvk/everything-for-businesses/",
+          "location": "Niderlandiya"
+        },
+        {
+          "name": "Flandriya investitsiya va savdo agentligi",
+          "website": "https://corporate.flandersinvestmentandtrade.com/en",
+          "location": "Bryussel, Belgiya"
+        },
+        {
+          "name": "Valloniya eksport-investitsiya agentligi",
+          "website": "https://www.wallonia.be/en/wallonia-export-investment-agency",
+          "location": "Belgiya"
+        }
+      ]
+    }
+  },
+  "governance": {
+    "board": {
+      "sidebarTitle": "Kuzatuv kengashi",
+      "items": [
+        {
+          "name": "Denis Van Den Weghe",
+          "roles": [
+            "Kuzatuv kengashi raisi",
+            "Qozog'istondagi Benelux Savdo Palatasi Prezidenti",
+            "Belgiya Qirolligining Almatydagi faxriy konsuli"
+          ]
+        },
+        {
+          "name": "Oybek Shaykhov",
+          "roles": [
+            "Kuzatuv kengashi a'zosi",
+            "Yevropa–O'zbekiston iqtisodiy hamkorlik assotsiatsiyasi (EUROUZ) kengash a'zosi"
+          ]
+        },
+        {
+          "name": "Asal Shodieva",
+          "roles": [
+            "Kuzatuv kengashi a'zosi"
+          ]
+        }
+      ]
+    },
+    "observers": {
+      "sidebarTitle": "Kuzatuvchilar",
+      "items": [
+        {
+          "name": "J.E. Nico Schermers",
+          "roles": [
+            "Niderlandiya Qirolligining Qozog'iston Respublikasi, Qirg'iz Respublikasi, Tojikiston Respublikasi, Turkmaniston va O'zbekiston Respublikasidagi Elchisi"
+          ]
+        },
+        {
+          "name": "J.E. Erik DE MAEYER",
+          "roles": [
+            "Belgiya Qirolligining O'zbekiston Respublikasidagi Favqulodda va Muxtoriyatli Elchisi"
+          ]
+        },
+        {
+          "name": "J.E. Gayrat Fazilov",
+          "roles": [
+            "O'zbekiston Respublikasining Benelux mamlakatlaridagi Elchisi"
+          ]
+        },
+        {
+          "name": "J.E. Thomas (Tom) Reisen",
+          "roles": [
+            "Lyuksemburg Buyuk Gersogligining O'zbekiston Respublikasidagi Elchisi"
+          ]
+        }
+      ]
+    },
+    "management": {
+      "sidebarTitle": "Ijroiya boshqaruvi",
+      "items": [
+        {
+          "name": "Janob Bekhzod Botirjonov",
+          "roles": [
+            "Direktor / Bosh vakilxona"
+          ]
+        }
+      ]
+    }
+  }
 }
