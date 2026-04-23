@@ -4,32 +4,24 @@ import { Download } from "lucide-react"
 
 const documents = [
   {
-    title: "Code of Conduct (pdf)",
-    file: "/docs/code-of-conduct.pdf"
+    title: "Certificate of State Registration of a Non-Governmental Non-Commercial Organization",
+    file: "/docs/certificate-uzbekistan.pdf"
   },
   {
-    title: "Anti-Bribery Policy (pdf)",
-    file: "/docs/anti-bribery.pdf"
+    title: "Regulations on the Branch of the Association of Legal Entities \"Benelux Chamber of Commerce\" in Uzbekistan",
+    file: "/docs/regulations-branch-uzbekistan.pdf"
   },
   {
-    title: "Sexual Harassment Policy (pdf)",
-    file: "/docs/harassment.pdf"
+    title: "Protocol No. 3 of the Vote of the Extraordinary General Meeting of Members of the Association of Legal Entities \"Benelux Chamber of Commerce\"",
+    file: "/docs/protocol-no3-general-meeting.pdf"
   },
   {
-    title: "Conflict of Interest Policy (pdf)",
-    file: "/docs/conflict.pdf"
+    title: "Certificate of State Registration of a Non-Governmental Non-Commercial Organization in Kazakhstan",
+    file: "/docs/certificate-kazakhstan.pdf"
   },
   {
-    title: "Gifts & Entertainment Policy (pdf)",
-    file: "/docs/gifts.pdf"
-  },
-  {
-    title: "General Committee Rules (pdf)",
-    file: "/docs/committee-rules.pdf"
-  },
-  {
-    title: "Committee Access Rules (pdf)",
-    file: "/docs/access-rules.pdf"
+    title: "Statutory document of Benelux Chamber of Commerce in Kazakhstan",
+    file: "/docs/statutory-document-kazakhstan.pdf"
   }
 ]
 

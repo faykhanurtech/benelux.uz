@@ -2,6 +2,7 @@
 
 import Image from "next/image"
 import { useTranslations } from "next-intl"
+import { useState } from "react"
 
 const ambassadorIds = ["uzbekistan", "belgium", "netherlands", "luxembourg"]
 
@@ -14,66 +15,64 @@ const ambassadorImages: Record<string, string> = {
 
 export default function Ambassadors() {
   const t = useTranslations("ambassadors")
+  const [activeId, setActiveId] = useState("uzbekistan")
+
+  const texts = t.raw(`${activeId}.texts`) as string[]
 
   return (
-    <>
-      {ambassadorIds.map((id, index) => {
-        const texts = t.raw(`${id}.texts`) as string[]
+    <section className="py-24">
+      <div className="max-w-7xl mx-auto px-6">
 
-        return (
-          <section
-            key={id}
-            className={index === 0 ? "py-20" : "pb-20"}
-          >
-            <div className="max-w-7xl mx-auto px-6">
+        {/* TABS */}
+        <div className="flex gap-8 mb-14 flex-wrap">
+          {ambassadorIds.map((id) => (
+            <button
+              key={id}
+              onClick={() => setActiveId(id)}
+              className={`text-2xl md:text-3xl font-bold pb-3 transition-colors ${
+                activeId === id
+                  ? "text-[#022038] border-b-4 border-[#022038]"
+                  : "text-gray-300"
+              }`}
+            >
+              {t(`${id}.sidebarTitle`)}
+            </button>
+          ))}
+        </div>
 
-              <div className="grid grid-cols-1 lg:grid-cols-[30%_70%] gap-12">
+        {/* CONTENT */}
+        <div className="max-w-3xl mx-auto">
 
-                {/* LEFT — sticky, one per section, same pattern as mission/vision */}
-                <div className="lg:sticky lg:top-28 h-fit">
-                  <h2 className="text-2xl md:text-3xl font-bold">
-                    {t(`${id}.sidebarTitle`)}
-                  </h2>
-                </div>
+          <p className="text-xs font-semibold tracking-widest text-gray-500 uppercase mb-6">
+            {t(`${activeId}.heading`)}
+          </p>
 
-                {/* RIGHT — content */}
-                <div>
+          <Image
+            src={ambassadorImages[activeId]}
+            alt={t(`${activeId}.name`)}
+            width={900}
+            height={500}
+            className="w-full h-auto mb-6"
+          />
 
-                  <p className="text-xs font-semibold tracking-widest text-gray-500 uppercase mb-6">
-                    {t(`${id}.heading`)}
-                  </p>
+          <div className="mb-6">
+            <p className="font-bold text-lg">{t(`${activeId}.name`)}</p>
+            <p className="font-semibold text-gray-600">{t(`${activeId}.position`)}</p>
+          </div>
 
-                  <Image
-                    src={ambassadorImages[id]}
-                    alt={t(`${id}.name`)}
-                    width={900}
-                    height={500}
-                    className="w-full h-auto mb-6"
-                  />
+          <p className="text-gray-700 leading-relaxed mb-4">
+            {t(`${activeId}.greeting`)}
+          </p>
 
-                  <div className="mb-6">
-                    <p className="font-bold text-lg">{t(`${id}.name`)}</p>
-                    <p className="font-semibold text-gray-600">{t(`${id}.position`)}</p>
-                  </div>
+          {texts.map((paragraph, i) => (
+            <p key={i} className="text-gray-700 leading-relaxed mb-4">
+              {paragraph}
+            </p>
+          ))}
 
-                  <p className="text-gray-700 leading-relaxed mb-4">
-                    {t(`${id}.greeting`)}
-                  </p>
+        </div>
 
-                  {texts.map((paragraph, i) => (
-                    <p key={i} className="text-gray-700 leading-relaxed mb-4">
-                      {paragraph}
-                    </p>
-                  ))}
-
-                </div>
-
-              </div>
-
-            </div>
-          </section>
-        )
-      })}
-    </>
+      </div>
+    </section>
   )
 }

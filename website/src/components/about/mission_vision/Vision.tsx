@@ -1,10 +1,12 @@
 "use client"
 
-import { useTranslations } from "next-intl"
+import Link from "next/link"
+import { useTranslations, useLocale } from "next-intl"
 
 export default function Vision() {
 
   const t = useTranslations("about-vision")
+  const locale = useLocale()
 
   return (
 
@@ -46,12 +48,21 @@ export default function Vision() {
             </p>
 
             <div className="mb-4">
-              <p className="text-gray-700">{t("chairmanIntro")}</p>
-              <p className="text-gray-700 font-medium">{t("chairmanName")}</p>
+              <Link
+                href={`/${locale}/about/word/chairman`}
+                className="text-gray-700 hover:text-[#022038] transition-colors underline underline-offset-4 decoration-gray-400 hover:decoration-[#022038]"
+              >
+                {t("chairmanIntro")} <span className="font-bold">{t("chairmanName")}</span>
+              </Link>
             </div>
 
             <div>
-              <p className="text-gray-700">{t("directorIntro")}</p>
+              <Link
+                href={`/${locale}/about/word/director`}
+                className="text-gray-700 hover:text-[#022038] transition-colors underline underline-offset-4 decoration-gray-400 hover:decoration-[#022038]"
+              >
+                {t("directorIntro")} <span className="font-bold">{t("directorName")}</span>
+              </Link>
             </div>
 
           </div>

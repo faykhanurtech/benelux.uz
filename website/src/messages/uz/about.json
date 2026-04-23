@@ -15,7 +15,8 @@
     "text4": "Tadbirlar, strategik tanishuvlar, nashrlar va moslashtirilgan qo'llab-quvvatlash orqali biz a'zolarimizga O'zbekistonda muvaffaqiyatli faoliyat yuritish va o'sishga yordam beramiz.",
     "chairmanIntro": "Benelux Savdo Palatasi Kuzatuv kengashi raisi, Prezidentning shaxsiy so'zi,",
     "chairmanName": "Janob Denis Van den Weghe",
-    "directorIntro": "Ijroiya direktori janob Bekhzod Botirjonovning shaxsiy so'zi"
+    "directorIntro": "Ijroiya direktorining shaxsiy so'zi,",
+    "directorName": "Janob Bekhzod Botirjonov"
   },
   "about-mission": {
     "title": "Benelux Savdo Palatasi nimani himoya qiladi?",
@@ -218,6 +219,40 @@
             "Direktor / Bosh vakilxona"
           ]
         }
+      ]
+    }
+  },
+  "personal-words": {
+    "chairman": {
+      "pageTitle": "Kuzatuv kengashi raisi va Prezidentning shaxsiy so'zi",
+      "name": "Denis Van den Weghe",
+      "position": "Kuzatuv kengashi raisi va Prezident",
+      "organisation": "O'zbekistondagi Benelux Savdo Palatasi",
+      "photo": "/governance/denis-van-den-weghe.jpg",
+      "texts": [
+        "O'zbekistondagi Benelux Savdo Palatasi sahifasiga xush kelibsiz.",
+        "Markaziy Osiyoning qalbida joylashgan O'zbekiston xalqaro hamkorlik uchun ulkan salohiyatga ega bo'lgan dinamik va jadal rivojlanayotgan bozorni ifodalaydi. Shu bilan birga, Benelux mintaqasi — Belgiya, Niderlandiya va Lyuksemburg — o'z innovatsiyalari, rivojlangan biznes ekotizimlari va xalqaro ko'lami bilan jahon miqyosida tan olingan.",
+        "O'zbekistondagi Benelux Savdo Palatasi iqtisodiy kengayishning yetakchi katalizatoriga aylanishni o'z oldiga maqsad qilib qo'ygan — Benelux mintaqasidagi kompaniyalarga Markaziy Osiyoga kirish va o'sishda qo'llab-quvvatlash, shuningdek o'zbek va mintaqaviy korxonalarga sheriklik qurishga, qo'shma korxonalar tashkil etishga va Benelux bozorlarida imkoniyatlardan foydalanishga yordam berish.",
+        "Biz Benelux mintaqasi va Markaziy Osiyo o'rtasida ishonchli ko'prik vazifasini o'tashga intilamiz, hamkorlik, investitsiya va umumiy o'sish uchun real imkoniyatlar yaratamiz.",
+        "Bizning missiyamiz — xabardor qilish, bog'lash va ilhomlantirish. Biz a'zolarimiz yuqori sifatli tarmoqlarga, qimmatli tahlillarga va mazmunli biznes imkoniyatlariga kirish imkoni bo'ladigan kuchli platforma yaratishga bag'ishlandik. Eng muhimi, biz a'zolarimizga haqiqiy qiymat va eng yuqori darajadagi qo'llab-quvvatlash ko'rsatishga intilamiz.",
+        "Men sizni bizning hamjamiyatimizga qo'shilishga va Yevropa va Markaziy Osiyoni bog'laydigan o'sib borayotgan tarmoqning bir qismiga aylanishga samimiy taklif etaman."
+      ]
+    },
+    "director": {
+      "pageTitle": "Ijroiya direktorining shaxsiy so'zi",
+      "name": "Bekhzod Botirjonov",
+      "position": "Ijroiya direktori",
+      "organisation": "O'zbekistondagi Benelux Savdo Palatasi",
+      "photo": "/governance/bekhzod-botirjonov.jpg",
+      "texts": [
+        "O'zbekistondagi Benelux Savdo Palatasi sahifasiga xush kelibsiz!",
+        "O'zbekistondagi xalqaro biznes hamjamiyati bilan ishlashni boshlaganimda, Benelux mintaqasidagi kompaniyalarni — Belgiya, Niderlandiya va Lyuksemburg — O'zbekiston va Markaziy Osiyodagi imkoniyatlar bilan bog'laydigan tizimli platforma uchun kuchli ehtiyoj borligini angladim. Palata aynan shu maqsadga xizmat qilish uchun yaratilgan.",
+        "O'shandan beri u mazmunli aloqalar o'rnatishga, bozorni tushunishga va mintaqadagi mavjudligini kengaytirishga intilayotgan mutaxassislar va kompaniyalar uchun tabiiy uchrashuv joyiga aylandi.",
+        "Palata oddiy tarmoq o'rnatishdan ancha ko'proq narsani taklif etadi. Bu O'zbekistonning rivojlanayotgan biznes muhiti haqida bilim olish, ishonchli hamkorlar bilan bog'lanish va nafaqat mahalliy, balki butun Markaziy Osiyo bo'ylab imkoniyatlarni o'rganish uchun amaliy platforma.",
+        "Men barcha a'zolarni Palata faoliyatida faol ishtirok etishga undayman — tadbirlarda qatnashish, tajriba ulashish yoki hamjamiyat ichida tarmoqni kengaytirish bo'lsin.",
+        "Bizning jamoamiz a'zolar va hamkorlar bilan a'zolikdan maksimal foyda olishingizni ta'minlash uchun yaqindan hamkorlik qiladi.",
+        "Savollar yoki fikr-mulohazalaringiz bo'lsa, eshitishdan mamnun bo'laman.",
+        "Siz bilan yuzma-yuz uchrashishni sabrsizlik bilan kutaman."
       ]
     }
   }

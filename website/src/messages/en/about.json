@@ -15,7 +15,8 @@
     "text4": "Through events, strategic introductions, publications, and tailored support, we help our members succeed and grow in Uzbekistan.",
     "chairmanIntro": "A personal word from our Chairman of Board of Trustees, President of Benelux Chamber of Commerce,",
     "chairmanName": "Mr Denis Van den Weghe",
-    "directorIntro": "A personal word from our Executive Director, Mr Bekhzod Botirjonov"
+    "directorIntro": "A personal word from our Executive Director,",
+    "directorName": "Mr Bekhzod Botirjonov"
   },
   "about-mission": {
     "title": "What does the Benelux Chamber stand for?",
@@ -218,6 +219,40 @@
             "Director / Chief Representative"
           ]
         }
+      ]
+    }
+  },
+  "personal-words": {
+    "chairman": {
+      "pageTitle": "A personal word from our Chairman of the Board of Trustees & President",
+      "name": "Denis Van den Weghe",
+      "position": "Chairman of the Board of Trustees & President",
+      "organisation": "Benelux Chamber of Commerce in Uzbekistan",
+      "photo": "/governance/denis-van-den-weghe.jpg",
+      "texts": [
+        "It is my pleasure to welcome you to the Benelux Chamber of Commerce in Uzbekistan.",
+        "Uzbekistan, at the heart of Central Asia, represents a dynamic and fast-growing market with immense potential for international cooperation. At the same time, the Benelux region — Belgium, the Netherlands, and Luxembourg — is recognized globally for its innovation, strong business ecosystems, and international outlook.",
+        "The Benelux Chamber of Commerce in Uzbekistan is committed to becoming a leading catalyst for economic expansion — supporting companies from the Benelux region in entering and growing in Central Asia, while also enabling Uzbek and regional businesses to build partnerships, establish joint ventures, and access opportunities in the Benelux markets.",
+        "We aim to serve as a reliable bridge between the Benelux region and Central Asia, creating tangible opportunities for collaboration, investment, and shared growth.",
+        "Our mission is to inform, connect, and inspire. We are dedicated to building a strong platform where our members can access high-quality networks, valuable insights, and meaningful business opportunities. Above all, we strive to deliver real value and the highest level of support to our members.",
+        "I warmly invite you to join our community and be part of a growing network that connects Europe and Central Asia."
+      ]
+    },
+    "director": {
+      "pageTitle": "A personal word from our Executive Director",
+      "name": "Bekhzod Botirjonov",
+      "position": "Executive Director",
+      "organisation": "Benelux Chamber of Commerce in Uzbekistan",
+      "photo": "/governance/bekhzod-botirjonov.jpg",
+      "texts": [
+        "Welcome to the Benelux Chamber of Commerce in Uzbekistan!",
+        "When I started engaging with the international business community in Uzbekistan, it became clear that there was a strong need for a structured platform connecting companies from the Benelux region — Belgium, the Netherlands, and Luxembourg — with opportunities in Uzbekistan and across Central Asia. The Chamber was created to serve exactly this purpose.",
+        "Since then, it has become a natural meeting point for professionals and companies looking to build meaningful connections, understand the market, and grow their presence in the region.",
+        "The Chamber offers far more than networking. It is a practical platform to gain insights into Uzbekistan's evolving business environment, connect with trusted partners, and explore opportunities not only locally but across Central Asia.",
+        "I encourage all members to actively engage in Chamber activities — whether by attending events, sharing expertise, or expanding their network within our community.",
+        "Our team works closely with members and partners to ensure you gain maximum value from your membership.",
+        "If you have any questions or feedback, I would be glad to hear from you.",
+        "I look forward to meeting you in person."
       ]
     }
   }
