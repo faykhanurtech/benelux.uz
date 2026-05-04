@@ -1,6 +1,6 @@
 "use client"
 
-import Image from "next/image"
+import SkeletonImage from "../ui/SkeletonImage"
 import { Calendar } from "lucide-react"
 import { useTranslations } from "next-intl"
 import { useState } from "react"
@@ -103,7 +103,7 @@ export default function Events() {
 
               <div className="relative h-56 overflow-hidden">
 
-                <Image
+                <SkeletonImage
                   src={event.image}
                   alt={event.title}
                   fill

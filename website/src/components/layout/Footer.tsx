@@ -30,7 +30,7 @@ export default function Footer() {
             />
 
             <p className="text-white mt-4 mb-2 text-sm leading-relaxed font-light">
-              +998 99 000 00 00
+              +998 77 781 18 00
             </p>
 
             <p className="text-white mb-4 font-light text-sm">

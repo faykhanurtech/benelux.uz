@@ -24,15 +24,15 @@ export default function Ambassadors() {
       <div className="max-w-7xl mx-auto px-6">
 
         {/* TABS */}
-        <div className="flex gap-8 mb-14 flex-wrap">
+        <div className="flex gap-8 mb-14 flex-wrap border-b border-gray-200">
           {ambassadorIds.map((id) => (
             <button
               key={id}
               onClick={() => setActiveId(id)}
-              className={`text-2xl md:text-3xl font-bold pb-3 transition-colors ${
+              className={`text-lg md:text-xl font-bold pb-4 transition-colors whitespace-nowrap ${
                 activeId === id
-                  ? "text-[#022038] border-b-4 border-[#022038]"
-                  : "text-gray-300"
+                  ? "text-[#022038] border-b-4 border-[#022038] -mb-px"
+                  : "text-gray-400 hover:text-gray-600"
               }`}
             >
               {t(`${id}.sidebarTitle`)}

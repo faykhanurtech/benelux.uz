@@ -1,6 +1,6 @@
 "use client"
 
-import Image from "next/image"
+import SkeletonImage from "../ui/SkeletonImage"
 import Link from "next/link"
 import { useTranslations, useLocale } from "next-intl"
 
@@ -48,7 +48,7 @@ export default function About() {
 
           <div className="relative h-[420px]">
 
-            <Image
+            <SkeletonImage
               src="/about/about.jpg"
               alt="Benelux Chamber"
               fill

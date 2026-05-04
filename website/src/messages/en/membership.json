@@ -1,0 +1,247 @@
+{
+  "membership": {
+    "tabs": {
+      "overview": "Membership Overview",
+      "corporate": "Corporate",
+      "nonCorporate": "Non-Corporate & Individual"
+    },
+
+    "overview": {
+      "intro": "Are you ready to connect with the growing Benelux–Uzbekistan business community? At the Benelux Chamber of Commerce in Uzbekistan, our membership opens access to a dynamic platform designed to foster international partnerships, investment opportunities, and sustainable business growth. Whether you are a company expanding into Central Asia or a professional seeking to strengthen your network, the Chamber provides a high-level ecosystem where business and diplomacy intersect.",
+      "benefitsTitle": "Our members benefit from:",
+      "benefits": [
+        {
+          "title": "Strategic networking",
+          "desc": "Connect with a curated network of international and local companies, investors, and institutions from Uzbekistan, Belgium, the Netherlands, and Luxembourg."
+        },
+        {
+          "title": "Access to insights & opportunities",
+          "desc": "Stay informed through high-level forums, business briefings, and sector-focused events covering key developments in Uzbekistan and the wider region."
+        },
+        {
+          "title": "International reach",
+          "desc": "Strengthen your presence across the Benelux and Central Asian markets, with access to cross-border initiatives and collaboration with partner chambers and institutions."
+        },
+        {
+          "title": "Active engagement",
+          "desc": "Participate in working groups, committees, and initiatives aligned with your sector and strategic interests."
+        },
+        {
+          "title": "Thought leadership opportunities",
+          "desc": "Position your organization as a key voice by contributing as a speaker or partner in Chamber events and flagship forums."
+        },
+        {
+          "title": "Visibility & representation",
+          "desc": "Be featured in the Chamber's member directory and communication channels, enhancing your visibility among decision-makers and stakeholders."
+        },
+        {
+          "title": "Stay connected",
+          "desc": "Receive regular updates, invitations, and curated insights through our official communications."
+        },
+        {
+          "title": "Member privileges",
+          "desc": "Benefit from exclusive member-to-member offers and tailored partnership opportunities. If you're looking to build meaningful connections and contribute to the strengthening of Benelux–Uzbekistan economic ties, the Chamber offers a platform built on trust, access, and impact."
+        }
+      ],
+      "tableColumns": ["No.", "Benefits", "Corporate members", "Non-Corporate & Individual members", "Premium & Sponsors"],
+      "tableRows": [
+        { "no": "1", "benefit": "One vote per member at the Chamber Annual General Assembly", "corporate": "YES", "nonCorporate": "YES", "premium": "YES" },
+        { "no": "2", "benefit": "Facilitation in identifying and negotiating with Uzbek or Benelux counterparts", "corporate": "YES", "nonCorporate": "YES", "premium": "YES" },
+        { "no": "3", "benefit": "Participation in all Chamber events and exclusive member-only events", "corporate": "up to 1 person", "nonCorporate": "up to 1 person", "premium": "up to 3 people" },
+        { "no": "4", "benefit": "Speaking opportunities at events and organization of one annual themed event", "corporate": "up on availability", "nonCorporate": "—", "premium": "YES" },
+        { "no": "5", "benefit": "On-demand coordination of business visits and meetings with officials", "corporate": "up to 1 visit per year", "nonCorporate": "up to 1 visit per year", "premium": "up to 3 visits per year" },
+        { "no": "6", "benefit": "Support in setting up B2B, B2C meetings", "corporate": "YES", "nonCorporate": "YES", "premium": "YES" },
+        { "no": "7", "benefit": "Gain PR exposure through Chamber networks in Uzbekistan and Benelux countries", "corporate": "YES", "nonCorporate": "YES", "premium": "YES" },
+        { "no": "8", "benefit": "One-on-one consultations with the Chamber's team for market-specific insights", "corporate": "3 hours per quarter", "nonCorporate": "2 hours per quarter", "premium": "8 hours per quarter" },
+        { "no": "9", "benefit": "Featured on Benelux Chamber's website and in publications", "corporate": "YES", "nonCorporate": "YES", "premium": "YES" },
+        { "no": "10", "benefit": "Highlighted on the homepage as a sponsor", "corporate": "—", "nonCorporate": "—", "premium": "YES" },
+        { "no": "11", "benefit": "Access to members, partners, and diplomatic missions via introductions", "corporate": "YES", "nonCorporate": "YES", "premium": "YES" },
+        { "no": "12", "benefit": "Join or lead sectoral committees for dialogue with Uzbek or Benelux institutions", "corporate": "YES", "nonCorporate": "YES", "premium": "YES" },
+        { "no": "13", "benefit": "Co-host or promote your events with support from Chamber contact network", "corporate": "—", "nonCorporate": "—", "premium": "YES" },
+        { "no": "14", "benefit": "Access to special offers and discounts from Chamber partners", "corporate": "YES", "nonCorporate": "YES", "premium": "YES" }
+      ]
+    },
+
+    "corporate": {
+      "title": "Corporate Membership & Fees",
+      "note": "Membership fees are annual and support the independent operation of the Chamber.",
+      "cards": [
+        {
+          "region": "BeNeLux & Foreign Companies",
+          "category": "International membership",
+          "subtitle": "Foreign companies without legal presence in Uzbekistan",
+          "features": [
+            "Market entry support and business introductions",
+            "Access to Chamber activities and networks",
+            "Structured engagement without local incorporation"
+          ],
+          "feeLabel": "Annual fee:",
+          "fee": "400 EUR"
+        },
+        {
+          "region": "Uzbekistan-based Companies",
+          "category": "Category 1",
+          "subtitle": "Large companies, Over 50 employees",
+          "features": [
+            "For established companies and corporate groups",
+            "Priority engagement and institutional access",
+            "Active role in Chamber initiatives and dialogue"
+          ],
+          "feeLabel": "Annual fee:",
+          "fee": "22.000.000 UZS"
+        },
+        {
+          "region": "Uzbekistan-based Companies",
+          "category": "Category 2",
+          "subtitle": "Medium companies, 15–50 employees",
+          "features": [
+            "For growing companies with active business",
+            "Regular participation in B2B and B2G activities",
+            "Enhanced visibility within the Chamber network"
+          ],
+          "feeLabel": "Annual fee:",
+          "fee": "15.000.000 UZS"
+        },
+        {
+          "region": "Uzbekistan-based Companies",
+          "category": "Category 3",
+          "subtitle": "Small companies, Up to 15 employees",
+          "features": [
+            "For starting businesses or local regional branches",
+            "Access to Chamber events, networking",
+            "Participation in Benelux–Uzbek business community"
+          ],
+          "feeLabel": "Annual fee:",
+          "fee": "8.000.000 UZS"
+        }
+      ]
+    },
+
+    "nonCorporate": {
+      "title": "Non-Corporate & Individual Membership",
+      "note": "Membership fees are annual and support the independent operation of the Chamber.",
+      "cards": [
+        {
+          "title": "Business associations, Chambers of commerce, Non-profit organizations, Public Academic Institutions & Think Tanks",
+          "features": [
+            "Participation in policy dialogue and expert discussions",
+            "Project-based cooperation and knowledge exchange",
+            "Non-commercial engagement with Chamber community",
+            "Introductory support and expert-level introductions",
+            "Selected access to Chamber activities and networks"
+          ],
+          "feeIntl": "For international:",
+          "feeIntlAmount": "200 EUR",
+          "feeLocal": "For Uzbekistan-based:",
+          "feeLocalAmount": "3.000.000 UZS"
+        },
+        {
+          "title": "Individual Members",
+          "subtitle": "Honorable consuls, Independent professionals, Experts in trade, investment, legal, finance and compliance, Researchers, analysts and policy experts.",
+          "features": [
+            "Participation in selected Chamber events and activities",
+            "Networking within the Benelux–Uzbek business ecosystem",
+            "Project-based cooperation and knowledge exchange",
+            "Expert-level engagement in policy and sector discussions"
+          ],
+          "feeIntl": "For international:",
+          "feeIntlAmount": "200 EUR",
+          "feeLocal": "For Uzbekistan-based:",
+          "feeLocalAmount": "3.000.000 UZS"
+        }
+      ]
+    }
+  },
+
+  "partnership": {
+    "title": "Partners & Sponsors status",
+    "cards": [
+      {
+        "tier": "SILVER PARTNER",
+        "subtitle": "Visibility & active presence",
+        "features": [
+          "Logo visibility at Chamber events & website",
+          "Participation in business missions and forums",
+          "Speaker opportunities at selected events",
+          "Access to business & network",
+          "Co-branding in selected activities"
+        ],
+        "feeLabel": "Annual contribution:",
+        "fee": "2500 EUR / 35 mln UZS"
+      },
+      {
+        "tier": "GOLD PARTNER",
+        "subtitle": "Strategic visibility & engagement",
+        "features": [
+          "Priority positioning at Chamber events",
+          "Speaking roles & panel participation",
+          "Targeted B2B/B2G introductions upon request",
+          "Co-organization of sector events",
+          "Direct engagement with visiting delegations",
+          "Featured promotion across Chamber platforms"
+        ],
+        "feeLabel": "Annual contribution:",
+        "fee": "5000 EUR / 70 mln UZS"
+      },
+      {
+        "tier": "PLATINUM PARTNER",
+        "subtitle": "Strategic institutional partner status & priority engagement",
+        "features": [
+          "Positioning as key partner",
+          "Direct access to high-level delegations & officials",
+          "Private roundtables with government & investors",
+          "Tailored business missions & market entry support",
+          "Prominent brand visibility across activities"
+        ],
+        "feeLabel": "Annual contribution:",
+        "fee": "7000 EUR / 110 mln UZS+"
+      }
+    ]
+  },
+
+  "membersDirectory": {
+    "title": "Members Directory",
+    "introLabel": "Company introduction:",
+    "websiteLabel": "Website",
+    "members": [
+      {
+        "name": "Ahlers Logistics",
+        "logo": "/members/ahlers.png",
+        "paragraphs": [
+          "Founded in 1909, Ahlers Logistics, a family-owned company headquartered in Antwerp, has driven growth in Europe and Asia for over a century. We offer services in supply chain design, warehousing, forwarding, project cargo, trade facilitation, and after-sales support. Specializing in sectors such as Industry & Energy and Consumer, our expert team delivers tailored, sustainable solutions.",
+          "In Uzbekistan, our experts have been delivering reliable, high-quality logistics solutions for over 30 years — seamlessly blending local knowledge with European standards to support regional and international trade.",
+          "You can rely on our comprehensive range of worldwide services, including:"
+        ],
+        "services": [
+          "End-to-end sustainable supply chain solutions, covering international and multi-modal transport",
+          "Customs clearance, including excise customs and dual-use certification",
+          "Project logistics: industrial projects, door-to-door delivery of heavy machinery, break-bulk shipments, and out-of-gauge cargo",
+          "Trade facilitation and after-sales support",
+          "Data analytics for route optimization and CO2 reporting",
+          "Dedicated chartering desk"
+        ],
+        "website": "https://www.ahlers.com"
+      },
+      {
+        "name": "Bruxelles Korner",
+        "logo": "/members/bruxelles-korner.png",
+        "paragraphs": [
+          "Bruxelles Korner is an independent media platform founded in Brussels, Belgium. Specializing in political, economic, and geopolitical analysis, the platform focuses on Belgium, the European Union, and Central Asia, serving as a bridge between Brussels and the capitals of Central Asia. With more than 10,000 articles published and over 1,000 videos produced — including interviews, diplomatic missions, economic forums, and political analyses — the platform has become one of the most active voices in the European capital.",
+          "Supported by a multidisciplinary and international editorial team of around 30 academics, researchers, and experts, Bruxelles Korner delivers in-depth coverage of Belgian politics, taxation, international relations, and European affairs.",
+          "We are pleased to welcome Bruxelles Korner (A.E.P.I) to the Chamber and look forward to strengthening dialogue and cooperation between the Benelux region and Central Asia."
+        ],
+        "services": [],
+        "website": "https://www.bruxelleskorner.com"
+      },
+      {
+        "name": "Tax Man Brussels",
+        "logo": "/members/taxman.png",
+        "paragraphs": [
+          "Tax Man Brussels is a multidisciplinary firm based in Brussels, Belgium, offering integrated tax, legal, management, real estate, and construction advisory services. The company provides strategic guidance combined with hands-on operational support to individuals, entrepreneurs, expatriates, and companies. Its expertise covers Belgian and international taxation, company incorporation and legal representation, estate and wealth planning, business structuring and restructuring, as well as real estate investment advisory and renovation supervision."
+        ],
+        "services": [],
+        "website": "https://www.taxmanbrussels.com"
+      }
+    ]
+  }
+}

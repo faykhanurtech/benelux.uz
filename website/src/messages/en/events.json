@@ -6,5 +6,128 @@
     "upcoming": "Upcoming events",
     "latest": "Latest events",
     "more": "More"
+  },
+  "upcoming-hero": {
+    "title": "Upcoming Events"
+  },
+  "past-events": {
+    "items": [
+      {
+        "title": "II Netherlands–Kazakhstan Business Meeting",
+        "description": "A bilateral business meeting bringing together Dutch and Kazakhstani companies to explore trade opportunities and strengthen economic cooperation.",
+        "date": "April 2026 (TBC)",
+        "city": "The Netherlands",
+        "type": "BENCHAM KZ",
+        "image": "/events/event1.jpg"
+      },
+      {
+        "title": "Benelux Trade Talks (Conference) UZB",
+        "description": "A dedicated conference for Benelux and Uzbekistani businesses to engage in focused trade dialogue, explore partnerships, and expand bilateral commercial ties.",
+        "date": "April 2026 (TBC)",
+        "city": "Tashkent",
+        "type": "BENCHAM UZ",
+        "image": "/events/event2.jpg"
+      },
+      {
+        "title": "BeNeLux Spring Networking Reception",
+        "description": "An exclusive networking reception for members of the Benelux Chamber of Commerce in Uzbekistan to connect with peers, diplomats, and business partners.",
+        "date": "April 2026 (TBC)",
+        "city": "Tashkent",
+        "type": "BENCHAM UZ",
+        "image": "/events/event3.jpg"
+      },
+      {
+        "title": "Uzbekistan Government & Business Mission Visit to The Netherlands (World Horti Centre)",
+        "description": "A high-level government and business delegation visit to the Netherlands, focusing on the horticulture sector and exploring investment opportunities at the World Horti Centre.",
+        "date": "11–15 April 2026",
+        "city": "Tashkent",
+        "type": "EMBASSY / BENCHAM UZ",
+        "image": "/events/event1.jpg"
+      },
+      {
+        "title": "59th Annual Meeting of the Asian Development Bank",
+        "description": "The annual gathering of the Asian Development Bank, bringing together finance ministers, central bank governors, and development leaders from across Asia and the Pacific.",
+        "date": "3–6 May 2026",
+        "city": "Samarkand",
+        "type": "PUBLIC EVENT",
+        "image": "/events/event2.jpg"
+      },
+      {
+        "title": "28th International Oil & Gas Exhibition and Conference – OGU 2026",
+        "description": "One of Central Asia's leading oil and gas exhibitions, showcasing the latest technologies and connecting industry players from across the region and beyond.",
+        "date": "12–14 May 2026",
+        "city": "Tashkent",
+        "type": "PUBLIC EVENT (EXPO)",
+        "image": "/events/event3.jpg"
+      },
+      {
+        "title": "19th International Exhibition on Energy, Energy Saving, Nuclear Energy, Alternative Energy Sources — Power Uzbekistan 2026",
+        "description": "A comprehensive international exhibition covering energy efficiency, nuclear energy, and alternative energy sources, highlighting Uzbekistan's energy transformation agenda.",
+        "date": "12–14 May 2026",
+        "city": "Tashkent",
+        "type": "PUBLIC EVENT (EXPO)",
+        "image": "/events/event1.jpg"
+      },
+      {
+        "title": "Uzbekistan Energy Week — UEW 2026",
+        "description": "A flagship energy forum bringing together government officials, international experts, and industry leaders to discuss Uzbekistan's energy policy and investment landscape.",
+        "date": "12–14 May 2026",
+        "city": "Tashkent",
+        "type": "PUBLIC EVENT (EXPO)",
+        "image": "/events/event2.jpg"
+      }
+    ]
+  },
+  "upcoming-events": {
+    "items": [
+      {
+        "title": "26th International Exhibition of Textile and Garment Industry — TextileExpo Uzbekistan Spring 2026",
+        "description": "An international exhibition showcasing the latest innovations in textile and garment manufacturing, bringing together industry leaders from across Central Asia and Europe.",
+        "date": "13–15 May 2026",
+        "city": "Tashkent",
+        "type": "PUBLIC EVENT (EXPO)",
+        "image": "/events/event1.jpg"
+      },
+      {
+        "title": "EIT Raw Material Summit 2026",
+        "description": "A high-level summit focused on raw material sustainability, supply chain resilience, and innovation across European and global markets.",
+        "date": "19–21 May 2026",
+        "city": "Brussels",
+        "type": "PUBLIC EVENT",
+        "image": "/events/event2.jpg"
+      },
+      {
+        "title": "Dutch King's Day Reception (Koningsdag)",
+        "description": "The annual reception hosted by the Dutch Embassy and Benelux Chamber in Uzbekistan to celebrate King's Day and strengthen bilateral ties.",
+        "date": "May 2026 (TBC)",
+        "city": "Tashkent",
+        "type": "EMBASSY / BENCHAM UZ",
+        "image": "/events/event3.jpg"
+      },
+      {
+        "title": "Breakfast Briefing in Tashkent (NL/BE/LU)",
+        "description": "An intimate business briefing for the Netherlands, Belgium, and Luxembourg community in Tashkent — covering market updates, trade opportunities, and Chamber activities.",
+        "date": "May 2026 (TBC)",
+        "city": "Tashkent",
+        "type": "BENCHAM UZ",
+        "image": "/events/event1.jpg"
+      },
+      {
+        "title": "The Eighth Global Environment Facility Assembly and Associated Meetings",
+        "description": "A major international assembly gathering global leaders and representatives to address environmental sustainability, climate action, and biodiversity challenges.",
+        "date": "30 May – 6 June 2026",
+        "city": "Samarkand",
+        "type": "PUBLIC EVENT",
+        "image": "/events/event2.jpg"
+      },
+      {
+        "title": "GITEX Central Asia & Caucasus 2026",
+        "description": "A leading technology and innovation exhibition connecting Central Asia and the Caucasus with global tech leaders, startups, and investors.",
+        "date": "2–3 June 2026",
+        "city": "Astana",
+        "type": "PUBLIC EVENT",
+        "image": "/events/event3.jpg"
+      }
+    ]
   }
 }

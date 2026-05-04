@@ -260,7 +260,7 @@ export default function Header() {
                     </Link>
 
                     <Link
-                      href={`/${locale}/events/news`}
+                      href={`/${locale}/events/latest_news_past_events`}
                       onClick={() => setEventsOpen(false)}
                       className="block px-3 py-3 hover:bg-gray-50"
                     >
@@ -300,7 +300,7 @@ export default function Header() {
                   <div className="bg-white border border-gray-300 w-62 p-3 divide-y divide-gray-200">
 
                     <Link
-                      href={`/${locale}/insights/countries`}
+                      href={`/${locale}/insights/country-profile`}
                       onClick={() => setInsightsOpen(false)}
                       className="block px-3 py-3 hover:bg-gray-50"
                     >
@@ -531,7 +531,7 @@ export default function Header() {
                     <Link href={`/${locale}/events/upcoming_events`} onClick={() => setMobileOpen(false)} className="block px-4 py-3 hover:bg-gray-100">
                       {t("upcoming_events")}
                     </Link>
-                    <Link href={`/${locale}/events/news`} onClick={() => setMobileOpen(false)} className="block px-4 py-3 hover:bg-gray-100">
+                    <Link href={`/${locale}/events/latest_news_past_events`} onClick={() => setMobileOpen(false)} className="block px-4 py-3 hover:bg-gray-100">
                       {t("Latest_news_past_events")}
                     </Link>
                   </div>
@@ -551,7 +551,7 @@ export default function Header() {
 
                 {insightsOpen && (
                   <div className="bg-gray-50 border border-gray-200 mb-2 divide-y divide-gray-200">
-                    <Link href={`/${locale}/insights/countries`} onClick={() => setMobileOpen(false)} className="block px-4 py-3 hover:bg-gray-100">
+                    <Link href={`/${locale}/insights/country-profile`} onClick={() => setMobileOpen(false)} className="block px-4 py-3 hover:bg-gray-100">
                       {t("countries")}
                     </Link>
                     <Link href={`/${locale}/insights/publications`} onClick={() => setMobileOpen(false)} className="block px-4 py-3 hover:bg-gray-100">

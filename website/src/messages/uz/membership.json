@@ -1,0 +1,247 @@
+{
+  "membership": {
+    "tabs": {
+      "overview": "A'zolik haqida",
+      "corporate": "Korporativ",
+      "nonCorporate": "Nokorporativ va individual"
+    },
+
+    "overview": {
+      "intro": "Benelux–O'zbekiston biznes hamjamiyatiga qo'shilishga tayyormisiz? O'zbekistondagi Benelux Savdo palatasida a'zolik xalqaro hamkorlik, investitsiya imkoniyatlari va barqaror biznes o'sishini rag'batlantirishga mo'ljallangan dinamik platformaga kirish imkonini beradi. Markaziy Osiyoga kengayayotgan kompaniya yoki tarmoqni mustahkamlashga intilayotgan mutaxassis bo'lishingizdan qat'i nazar, Palata biznes va diplomatiya kesishgan yuqori darajali muhit yaratadi.",
+      "benefitsTitle": "A'zolarimiz quyidagilardan foydalanadi:",
+      "benefits": [
+        {
+          "title": "Strategik tarmoq",
+          "desc": "O'zbekiston, Belgiya, Niderlandiya va Lyuksemburgdan xalqaro va mahalliy kompaniyalar, investorlar va institutlarning tanlangan tarmog'iga qo'shiling."
+        },
+        {
+          "title": "Ma'lumot va imkoniyatlarga kirish",
+          "desc": "O'zbekiston va mintaqadagi muhim voqealarni qamrab oluvchi yuqori darajali forumlar, biznes brifinglar va tarmoqqa yo'naltirilgan tadbirlar orqali xabardor bo'ling."
+        },
+        {
+          "title": "Xalqaro miqyos",
+          "desc": "Hamkor palatalar va institutlar bilan chegara oshiradigan tashabbuslarga kirish imkoniyati bilan Benelux va Markaziy Osiyo bozorlarida mavjudligingizni mustahkamlang."
+        },
+        {
+          "title": "Faol ishtirok",
+          "desc": "Sektoringiz va strategik manfaatlaringizga mos ish guruhlari, qo'mitalar va tashabbuslarda ishtirok eting."
+        },
+        {
+          "title": "Fikr yetakchiligi imkoniyatlari",
+          "desc": "Palata tadbirlari va flagman forumlarda ma'ruzachi yoki hamkor sifatida ishtiroking orqali tashkilotingizni asosiy ovoz sifatida pozitsiyalang."
+        },
+        {
+          "title": "Ko'rinish va vakillik",
+          "desc": "Qaror qabul qiluvchilar va manfaatdor tomonlar orasida ko'rinishingizni oshirish uchun Palata a'zolari katalogida va aloqa kanallarida taqdim etiling."
+        },
+        {
+          "title": "Bog'liq qoling",
+          "desc": "Rasmiy aloqa vositalari orqali muntazam yangiliklar, taklifnomalar va tanlangan ma'lumotlarni oling."
+        },
+        {
+          "title": "A'zo imtiyozlari",
+          "desc": "Eksklyuziv a'zo-a'zo takliflaridan va moslashtirilgan hamkorlik imkoniyatlaridan foydalaning. Agar Benelux–O'zbekiston iqtisodiy aloqalarini mustahkamlashga hissa qo'shishni istasangiz, Palata ishonch, kirish va ta'sirga qurilgan platformani taklif etadi."
+        }
+      ],
+      "tableColumns": ["№", "Imtiyozlar", "Korporativ a'zolar", "Nokorporativ va individual a'zolar", "Premium va homiylar"],
+      "tableRows": [
+        { "no": "1", "benefit": "Palataning yillik umumiy yig'ilishida har bir a'zo uchun bir ovoz", "corporate": "HA", "nonCorporate": "HA", "premium": "HA" },
+        { "no": "2", "benefit": "O'zbek yoki Benelux sheriklari bilan muzokaralar olib borishda yordam", "corporate": "HA", "nonCorporate": "HA", "premium": "HA" },
+        { "no": "3", "benefit": "Barcha Palata tadbirlarida va eksklyuziv a'zolar uchun tadbirlarda ishtirok etish", "corporate": "1 kishigacha", "nonCorporate": "1 kishigacha", "premium": "3 kishigacha" },
+        { "no": "4", "benefit": "Tadbirlarda ma'ruzachi bo'lish va bir yillik tematik tadbir tashkil etish imkoniyatlari", "corporate": "mavjudlikka qarab", "nonCorporate": "—", "premium": "HA" },
+        { "no": "5", "benefit": "Rasmiy shaxslar bilan biznes tashrif va uchrashuvlarni talab bo'yicha muvofiqlashtirish", "corporate": "yiliga 1 tashrifgacha", "nonCorporate": "yiliga 1 tashrifgacha", "premium": "yiliga 3 tashrifgacha" },
+        { "no": "6", "benefit": "B2B, B2C uchrashuvlarini tashkil etishda yordam", "corporate": "HA", "nonCorporate": "HA", "premium": "HA" },
+        { "no": "7", "benefit": "O'zbekiston va Benelux mamlakatlaridagi Palata tarmoqlari orqali PR-ko'rinish", "corporate": "HA", "nonCorporate": "HA", "premium": "HA" },
+        { "no": "8", "benefit": "Bozor masalalari bo'yicha Palata jamoasi bilan individual maslahatlar", "corporate": "chorakda 3 soat", "nonCorporate": "chorakda 2 soat", "premium": "chorakda 8 soat" },
+        { "no": "9", "benefit": "Benelux Palatasining veb-sayti va nashrlarida taqdim etilish", "corporate": "HA", "nonCorporate": "HA", "premium": "HA" },
+        { "no": "10", "benefit": "Homiy sifatida bosh sahifada ajratib ko'rsatilish", "corporate": "—", "nonCorporate": "—", "premium": "HA" },
+        { "no": "11", "benefit": "Tavsiyalar orqali a'zolar, hamkorlar va diplomatik missiyalarga kirish", "corporate": "HA", "nonCorporate": "HA", "premium": "HA" },
+        { "no": "12", "benefit": "O'zbek va Benelux institutlari bilan muloqot uchun tarmoq qo'mitalariga qo'shilish yoki ularga rahbarlik qilish", "corporate": "HA", "nonCorporate": "HA", "premium": "HA" },
+        { "no": "13", "benefit": "Palata aloqa tarmog'i yordami bilan tadbirlarni birgalikda o'tkazish yoki targ'ib qilish", "corporate": "—", "nonCorporate": "—", "premium": "HA" },
+        { "no": "14", "benefit": "Palata hamkorlarining maxsus takliflari va chegirmalariga kirish", "corporate": "HA", "nonCorporate": "HA", "premium": "HA" }
+      ]
+    },
+
+    "corporate": {
+      "title": "Korporativ a'zolik va to'lovlar",
+      "note": "A'zolik to'lovlari yillik bo'lib, Palataning mustaqil faoliyatini ta'minlaydi.",
+      "cards": [
+        {
+          "region": "Benelux va xorijiy kompaniyalar",
+          "category": "Xalqaro a'zolik",
+          "subtitle": "O'zbekistonda yuridik mavjudligi bo'lmagan xorijiy kompaniyalar",
+          "features": [
+            "Bozorga kirish yordami va biznes tanishuvlar",
+            "Palata faoliyatlari va tarmoqlariga kirish",
+            "Mahalliy ro'yxatdan o'tmasdan tuzilgan ishtirok"
+          ],
+          "feeLabel": "Yillik to'lov:",
+          "fee": "400 EUR"
+        },
+        {
+          "region": "O'zbekistonda ro'yxatdan o'tgan kompaniyalar",
+          "category": "1-toifa",
+          "subtitle": "Yirik kompaniyalar, 50 dan ortiq xodim",
+          "features": [
+            "Mustahkamlangan kompaniyalar va korporativ guruhlar uchun",
+            "Ustuvor ishtirok va institutsional kirish",
+            "Palata tashabbuslari va muloqotida faol rol"
+          ],
+          "feeLabel": "Yillik to'lov:",
+          "fee": "22.000.000 UZS"
+        },
+        {
+          "region": "O'zbekistonda ro'yxatdan o'tgan kompaniyalar",
+          "category": "2-toifa",
+          "subtitle": "O'rta kompaniyalar, 15–50 xodim",
+          "features": [
+            "Faol biznesga ega o'sib borayotgan kompaniyalar uchun",
+            "B2B va B2G faoliyatlarida muntazam ishtirok",
+            "Palata tarmog'ida ko'rinishni oshirish"
+          ],
+          "feeLabel": "Yillik to'lov:",
+          "fee": "15.000.000 UZS"
+        },
+        {
+          "region": "O'zbekistonda ro'yxatdan o'tgan kompaniyalar",
+          "category": "3-toifa",
+          "subtitle": "Kichik kompaniyalar, 15 kishigacha",
+          "features": [
+            "Yangi boshlanayotgan bizneslar yoki mintaqaviy filiallar uchun",
+            "Palata tadbirlari va tarmoqqa kirish",
+            "Benelux–O'zbekiston biznes hamjamiyatida ishtirok"
+          ],
+          "feeLabel": "Yillik to'lov:",
+          "fee": "8.000.000 UZS"
+        }
+      ]
+    },
+
+    "nonCorporate": {
+      "title": "Nokorporativ va individual a'zolik",
+      "note": "A'zolik to'lovlari yillik bo'lib, Palataning mustaqil faoliyatini ta'minlaydi.",
+      "cards": [
+        {
+          "title": "Biznes uyushmalari, savdo palatalari, notijorat tashkilotlar, davlat akademik muassasalari va o'ylash markazlari",
+          "features": [
+            "Siyosiy muloqot va ekspert muhokamalarida ishtirok etish",
+            "Loyihalarga asoslangan hamkorlik va bilim almashish",
+            "Palata hamjamiyati bilan notijorat ishtirok",
+            "Kirish yordami va ekspert darajasidagi tanishuvlar",
+            "Palata faoliyatlari va tarmoqlariga tanlangan kirish"
+          ],
+          "feeIntl": "Xalqaro uchun:",
+          "feeIntlAmount": "200 EUR",
+          "feeLocal": "O'zbekistonda ro'yxatdan o'tganlar uchun:",
+          "feeLocalAmount": "3.000.000 UZS"
+        },
+        {
+          "title": "Individual a'zolar",
+          "subtitle": "Faxriy konsullar, mustaqil mutaxassislar, savdo, investitsiya, huquq, moliya va muvofiqlik sohasidagi ekspertlar, tadqiqotchilar, tahlilchilar va siyosat ekspertlari.",
+          "features": [
+            "Tanlangan Palata tadbirlari va faoliyatlarida ishtirok etish",
+            "Benelux–O'zbekiston biznes ekotizimida tarmoq qurish",
+            "Loyihalarga asoslangan hamkorlik va bilim almashish",
+            "Siyosiy va tarmoq muhokamalarida ekspert darajasida ishtirok"
+          ],
+          "feeIntl": "Xalqaro uchun:",
+          "feeIntlAmount": "200 EUR",
+          "feeLocal": "O'zbekistonda ro'yxatdan o'tganlar uchun:",
+          "feeLocalAmount": "3.000.000 UZS"
+        }
+      ]
+    }
+  },
+
+  "partnership": {
+    "title": "Hamkorlar va homiylar maqomi",
+    "cards": [
+      {
+        "tier": "KUMUSH HAMKOR",
+        "subtitle": "Ko'rinish va faol ishtirok",
+        "features": [
+          "Palata tadbirlari va saytida logotip ko'rinishi",
+          "Biznes missiyalari va forumlarda ishtirok",
+          "Tanlangan tadbirlarda ma'ruzachi imkoniyatlari",
+          "Biznes va tarmoqqa kirish",
+          "Tanlangan faoliyatlarda hamkorlik brendingi"
+        ],
+        "feeLabel": "Yillik hissa:",
+        "fee": "2500 EUR / 35 mln UZS"
+      },
+      {
+        "tier": "OLTIN HAMKOR",
+        "subtitle": "Strategik ko'rinish va ishtirok",
+        "features": [
+          "Palata tadbirlarida ustuvor pozitsiyalash",
+          "Spiker rollari va panel ishtirokchiligi",
+          "So'rov bo'yicha maqsadli B2B/B2G tanishuvlar",
+          "Tarmoq tadbirlarini birgalikda tashkil etish",
+          "Tashrif buyuruvchi delegatsiyalar bilan bevosita muloqot",
+          "Palata platformalarida targ'ib qilish"
+        ],
+        "feeLabel": "Yillik hissa:",
+        "fee": "5000 EUR / 70 mln UZS"
+      },
+      {
+        "tier": "PLATINA HAMKOR",
+        "subtitle": "Strategik institutsional hamkor maqomi va ustuvor ishtirok",
+        "features": [
+          "Asosiy hamkor sifatida pozitsiyalash",
+          "Yuqori darajali delegatsiyalar va rasmiylar bilan bevosita kirish",
+          "Hukumat va investorlar bilan yopiq davra suhbatlari",
+          "Moslashtirilgan biznes missiyalari va bozorga kirish yordami",
+          "Faoliyatlar bo'ylab ko'zga ko'ringan brend ko'rinishi"
+        ],
+        "feeLabel": "Yillik hissa:",
+        "fee": "7000 EUR / 110 mln UZS+"
+      }
+    ]
+  },
+
+  "membersDirectory": {
+    "title": "A'zolar katalogi",
+    "introLabel": "Kompaniya haqida:",
+    "websiteLabel": "Veb-sayt",
+    "members": [
+      {
+        "name": "Ahlers Logistics",
+        "logo": "/members/ahlers.png",
+        "paragraphs": [
+          "1909 yilda tashkil etilgan Ahlers Logistics — Antverpen shahrida joylashgan oilaviy kompaniya bo'lib, bir asrdan ortiq vaqt davomida Yevropa va Osiyoda o'sishni ta'minlab kelmoqda. Biz ta'minot zanjirini loyihalash, ombor xizmatlari, ekspeditorlik, loyiha yuk tashish, savdoni osonlashtirish va sotishdan keyingi xizmat ko'rsatish sohasida xizmatlar taklif etamiz. Sanoat va energetika hamda iste'mol tovarlari kabi sohalarda ixtisoslashgan mutaxassis jamoamiz moslashtirilgan va barqaror yechimlarni taqdim etadi.",
+          "O'zbekistonda bizning mutaxassislarimiz 30 yildan ortiq vaqt davomida mahalliy bilimlarni Yevropa standartlari bilan mushtaraklashtirib, mintaqaviy va xalqaro savdoni qo'llab-quvvatlash uchun ishonchli, yuqori sifatli logistika yechimlarini taqdim etib kelmoqda.",
+          "Siz dunyo miqyosidagi keng xizmatlar doiramizga tayanishingiz mumkin, jumladan:"
+        ],
+        "services": [
+          "Xalqaro va multimodal transportni qamrab oluvchi to'liq barqaror ta'minot zanjiri yechimlari",
+          "Ikki maqsadli sertifikatlash va aksiz bojxona rasmiylashtirishni o'z ichiga olgan bojxona rasmiylashtirish",
+          "Loyiha logistikasi: sanoat loyihalari, og'ir texnika, katta hajmli va o'ta og'ir yuklarni eshikdan eshikka yetkazib berish",
+          "Savdoni osonlashtirish va sotishdan keyingi qo'llab-quvvatlash",
+          "Marshrutlarni optimallashtirish va CO2 hisobotlari uchun ma'lumotlar tahlili",
+          "Ixtisoslashtirilgan frakhtlash bo'limi"
+        ],
+        "website": "https://www.ahlers.com"
+      },
+      {
+        "name": "Bruxelles Korner",
+        "logo": "/members/bruxelles-korner.png",
+        "paragraphs": [
+          "Bruxelles Korner — Belgiyaning Bryussel shahrida tashkil etilgan mustaqil media platforma. Siyosiy, iqtisodiy va geosiyosiy tahlilga ixtisoslashgan platforma Belgiya, Yevropa Ittifoqi va Markaziy Osiyoga e'tibor qaratib, Bryussel va Markaziy Osiyo poytaxtlari o'rtasida ko'prik vazifasini o'taydi. 10 000 dan ortiq maqola va 1 000 dan ortiq video — jumladan intervyular, diplomatik missiyalar, iqtisodiy forumlar va siyosiy tahlillar — nashr etilgan platforma Yevropa poytaxtining eng faol ovozlaridan biriga aylandi.",
+          "Taxminan 30 nafar akademik, tadqiqotchi va ekspertdan iborat ko'p intizomli va xalqaro tahririyat jamoasiga tayanib, Bruxelles Korner Belgiya siyosati, soliq solinishi, xalqaro munosabatlar va Yevropa masalalarini chuqur yoritib beradi.",
+          "Biz Bruxelles Korner (A.E.P.I) ni Palataga xush kelibsiz deb qabul qilamiz va Benelux mintaqasi bilan Markaziy Osiyo o'rtasida muloqot va hamkorlikni mustahkamlashni sabrsizlik bilan kutyapmiz."
+        ],
+        "services": [],
+        "website": "https://www.bruxelleskorner.com"
+      },
+      {
+        "name": "Tax Man Brussels",
+        "logo": "/members/taxman.png",
+        "paragraphs": [
+          "Tax Man Brussels — Belgiyaning Bryussel shahrida joylashgan ko'p sohalì firma bo'lib, soliq, huquq, boshqaruv, ko'chmas mulk va qurilish bo'yicha integratsiyalashgan maslahat xizmatlarini ko'rsatadi. Kompaniya jismoniy shaxslar, tadbirkorlar, ekspat shaxslar va kompaniyalarga strategik yo'naltirishni amaliy operatsion qo'llab-quvvatlash bilan birga taqdim etadi. Uning ekspertizasi belgiyalik va xalqaro soliq solish, kompaniyalarni ro'yxatdan o'tkazish va yuridik vakillik, meros va boylikni rejalashtirish, biznesni qayta tuzish, shuningdek ko'chmas mulkka investitsiya bo'yicha maslahat va ta'mirlash ishlariga nazorat qilishni o'z ichiga oladi."
+        ],
+        "services": [],
+        "website": "https://www.taxmanbrussels.com"
+      }
+    ]
+  }
+}

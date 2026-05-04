@@ -36,7 +36,7 @@ export default function Contact() {
               </h3>
 
               <p className="text-gray-700">
-                +998 99 996-16-96
+                {t("phone_value")}
               </p>
 
             </div>
@@ -66,8 +66,7 @@ export default function Contact() {
               </h3>
 
               <p className="text-gray-700 max-w-md">
-                Республика Узбекистан, 100047, город Ташкент, Мирабадский район,
-                проспект Амира Темура, дом 4.
+                {t("address_value")}
               </p>
 
             </div>

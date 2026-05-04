@@ -1,10 +1,133 @@
 {
   "events-hero": {
-    "title": "Events"
+    "title": "Tadbirlar"
   },
   "events-events": {
-    "upcoming": "Upcoming events",
-    "latest": "Latest events",
-    "more": "More"
+    "upcoming": "Kelayotgan tadbirlar",
+    "latest": "So'nggi tadbirlar",
+    "more": "Ko'proq"
+  },
+  "upcoming-hero": {
+    "title": "Kelayotgan tadbirlar"
+  },
+  "past-events": {
+    "items": [
+      {
+        "title": "II Niderlandiya–Qozog'iston Biznes Uchrashuvi",
+        "description": "Savdo imkoniyatlarini o'rganish va iqtisodiy hamkorlikni mustahkamlash uchun niderlandiyalik va qozog'istonlik kompaniyalarni birlashtiruvchi ikki tomonlama biznes uchrashuvi.",
+        "date": "Aprel 2026 (aniqlanadi)",
+        "city": "Niderlandiya",
+        "type": "BENCHAM KZ",
+        "image": "/events/event1.jpg"
+      },
+      {
+        "title": "Benelux Savdo Muzokaralari (Konferensiya) UZB",
+        "description": "Benelux va O'zbekiston kompaniyalari uchun savdo muloqoti, hamkorlikni o'rganish va ikki tomonlama tijorat aloqalarini kengaytirishga qaratilgan maxsus konferensiya.",
+        "date": "Aprel 2026 (aniqlanadi)",
+        "city": "Toshkent",
+        "type": "BENCHAM UZ",
+        "image": "/events/event2.jpg"
+      },
+      {
+        "title": "BeNeLux Bahor Tarmoq Qabuli",
+        "description": "O'zbekistondagi Benelux Savdo palatasi a'zolari uchun hamkasblar, diplomatlar va biznes sheriklari bilan muloqot qilish imkonini beruvchi eksklyuziv tarmoq qabuli.",
+        "date": "Aprel 2026 (aniqlanadi)",
+        "city": "Toshkent",
+        "type": "BENCHAM UZ",
+        "image": "/events/event3.jpg"
+      },
+      {
+        "title": "O'zbekiston Hukumati va Biznes Missiyasining Niderlandiyaga Tashrifi (World Horti Centre)",
+        "description": "Bog'dorchilik sektori va World Horti Centredagi investitsiya imkoniyatlariga e'tibor qaratgan holda Niderlandiyaga yuborilgan yuqori darajali hukumat va biznes delegatsiyasi tashrifi.",
+        "date": "11–15 aprel 2026",
+        "city": "Toshkent",
+        "type": "ELCHIXONA / BENCHAM UZ",
+        "image": "/events/event1.jpg"
+      },
+      {
+        "title": "Osiyo Taraqqiyot Bankining 59-Yillik Yig'ilishi",
+        "description": "Osiyo va Tinch okeani mintaqasidan moliya vazirlari, markaziy bank rahbarlari va taraqqiyot yetakchilarini birlashtiruvchi ATBning yillik forumi.",
+        "date": "3–6 may 2026",
+        "city": "Samarqand",
+        "type": "OMMAVIY TADBIR",
+        "image": "/events/event2.jpg"
+      },
+      {
+        "title": "Neft va Gaz bo'yicha 28-chi Xalqaro Ko'rgazma va Konferensiya – OGU 2026",
+        "description": "Markaziy Osiyoning yetakchi neft-gaz ko'rgazmalaridan biri bo'lib, so'nggi texnologiyalarni namoyish etadi va mintaqa va undan tashqaridagi soha ishtirokchilarini birlashtiradi.",
+        "date": "12–14 may 2026",
+        "city": "Toshkent",
+        "type": "OMMAVIY TADBIR (EXPO)",
+        "image": "/events/event3.jpg"
+      },
+      {
+        "title": "Energetika, Energiya Tejash, Yadro Energiyasi va Muqobil Energiya Manbalari bo'yicha 19-chi Xalqaro Ko'rgazma — Power Uzbekistan 2026",
+        "description": "O'zbekistonning energetika transformatsiyasi doirasida energiya samaradorligi, yadro va muqobil energiyani qamrab oluvchi keng qamrovli xalqaro ko'rgazma.",
+        "date": "12–14 may 2026",
+        "city": "Toshkent",
+        "type": "OMMAVIY TADBIR (EXPO)",
+        "image": "/events/event1.jpg"
+      },
+      {
+        "title": "O'zbekiston Energetika Haftasi — UEW 2026",
+        "description": "O'zbekistonning energetika siyosati va investitsiya landshaftini muhokama qilish uchun davlat amaldorlari, xalqaro ekspertlar va soha yetakchilarini to'playdigan flagman energetika forumi.",
+        "date": "12–14 may 2026",
+        "city": "Toshkent",
+        "type": "OMMAVIY TADBIR (EXPO)",
+        "image": "/events/event2.jpg"
+      }
+    ]
+  },
+  "upcoming-events": {
+    "items": [
+      {
+        "title": "To'qimachilik va kiyim sanoatining 26-chi Xalqaro ko'rgazmasi — TextileExpo Uzbekistan Spring 2026",
+        "description": "Markaziy Osiyo va Yevropadan sanoat yetakchilarini birlashtiruvchi, to'qimachilik va kiyim ishlab chiqarishdagi so'nggi innovatsiyalarni namoyish etuvchi xalqaro ko'rgazma.",
+        "date": "13–15 may 2026",
+        "city": "Toshkent",
+        "type": "OMMAVIY TADBIR (EXPO)",
+        "image": "/events/event1.jpg"
+      },
+      {
+        "title": "EIT Xom ashyo sammiti 2026",
+        "description": "Yevropa va global bozorlarda xom ashyo ta'minot zanjirlari barqarorligi va innovatsiyalariga bag'ishlangan yuqori darajali sammit.",
+        "date": "19–21 may 2026",
+        "city": "Bryussel",
+        "type": "OMMAVIY TADBIR",
+        "image": "/events/event2.jpg"
+      },
+      {
+        "title": "Niderlandiya Qiroli kuni qabuli (Koningsdag)",
+        "description": "Qirol kuni munosabati bilan Niderlandiya Elchixonasi va Benelux Savdo palatasi tomonidan uyushtiriluvchi ikki tomonlama aloqalarni mustahkamlashga qaratilgan yillik qabul.",
+        "date": "May 2026 (aniqlanadi)",
+        "city": "Toshkent",
+        "type": "ELCHIXONA / BENCHAM UZ",
+        "image": "/events/event3.jpg"
+      },
+      {
+        "title": "Toshkentda nonushta-brifing (NL/BE/LU)",
+        "description": "Toshkentdagi niderlandiyalik, belgiyalik va lyuksemburglik biznes hamjamiyati uchun bozor yangiliklari, savdo imkoniyatlari va Palata faoliyati haqida maxsus brifing.",
+        "date": "May 2026 (aniqlanadi)",
+        "city": "Toshkent",
+        "type": "BENCHAM UZ",
+        "image": "/events/event1.jpg"
+      },
+      {
+        "title": "Global Atrof-muhit Ob'ekti Assambleyasining Sakkizinchi Yig'ilishi va Bog'liq Uchrashuvlar",
+        "description": "Ekologik barqarorlik, iqlim o'zgarishlari va biologik xilma-xillik muammolarini muhokama qilish uchun dunyo yetakchilarini to'playdigan yirik xalqaro assambley.",
+        "date": "30 may – 6 iyun 2026",
+        "city": "Samarqand",
+        "type": "OMMAVIY TADBIR",
+        "image": "/events/event2.jpg"
+      },
+      {
+        "title": "GITEX Markaziy Osiyo va Kavkaz 2026",
+        "description": "Markaziy Osiyo va Kavkazni dunyo texnologiya yetakchilari, startaplar va investorlar bilan bog'laydigan yetakchi texnologiya va innovatsiyalar ko'rgazmasi.",
+        "date": "2–3 iyun 2026",
+        "city": "Ostona",
+        "type": "OMMAVIY TADBIR",
+        "image": "/events/event3.jpg"
+      }
+    ]
   }
 }

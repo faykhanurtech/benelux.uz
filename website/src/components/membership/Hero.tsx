@@ -1,5 +1,5 @@
 import AboutHero from "../about/AboutHero"
 
-export default function EventsHero({ navKey }: { navKey: string }) {
+export default function MembershipHero({ navKey }: { navKey: string }) {
   return <AboutHero navKey={navKey} />
 }

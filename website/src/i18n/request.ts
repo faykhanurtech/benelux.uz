@@ -1,25 +1,27 @@
 import {getRequestConfig} from 'next-intl/server';
 import {locales, defaultLocale} from '../i18n';
 
-const messageFiles = ['common', 'about', 'home', 'partners', 'events', 'contact', 'news'];
-
 export default getRequestConfig(async ({locale}) => {
 
-  const currentLocale = locale && locales.includes(locale as any)
-    ? locale
-    : defaultLocale;
+  const l = locale && locales.includes(locale as any) ? locale : defaultLocale;
 
-  let messages = {};
-  for (const file of messageFiles) {
-    try {
-      const mod = (await import(`../messages/${currentLocale}/${file}.json`)).default;
-      messages = { ...messages, ...mod };
-    } catch {}
-  }
+  const files = await Promise.all([
+    import(`../messages/${l}/common.json`),
+    import(`../messages/${l}/about.json`),
+    import(`../messages/${l}/home.json`),
+    import(`../messages/${l}/partners.json`),
+    import(`../messages/${l}/events.json`),
+    import(`../messages/${l}/contact.json`),
+    import(`../messages/${l}/news.json`),
+    import(`../messages/${l}/membership.json`),
+    import(`../messages/${l}/insights.json`),
+  ]);
 
-  return {
-    locale: currentLocale,
-    messages
-  };
+  const messages = files.reduce(
+    (acc, f) => ({ ...acc, ...f.default }),
+    {} as Record<string, unknown>
+  );
+
+  return { locale: l, messages };
 
 });

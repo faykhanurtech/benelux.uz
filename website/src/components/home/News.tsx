@@ -1,6 +1,6 @@
 "use client"
 
-import Image from "next/image"
+import SkeletonImage from "../ui/SkeletonImage"
 import Link from "next/link"
 import { useTranslations, useLocale } from "next-intl"
 
@@ -52,7 +52,7 @@ export default function News() {
 
               <div className="relative h-56 overflow-hidden">
 
-                <Image
+                <SkeletonImage
                   src={item.image}
                   alt={item.title}
                   fill

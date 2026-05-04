@@ -35,7 +35,9 @@ export default async function LocaleLayout({
   const partners = (await import(`../../messages/${locale}/partners.json`)).default;
   const events = (await import(`../../messages/${locale}/events.json`)).default;
   const news = (await import(`../../messages/${locale}/news.json`)).default;
-  const contact = (await import(`../../messages/${locale}/contact.json`)).default
+  const contact = (await import(`../../messages/${locale}/contact.json`)).default;
+  const membership = (await import(`../../messages/${locale}/membership.json`)).default;
+  const insights = (await import(`../../messages/${locale}/insights.json`)).default;
 
   const messages = {
     ...common,
@@ -45,6 +47,8 @@ export default async function LocaleLayout({
     ...events,
     ...news,
     ...contact,
+    ...membership,
+    ...insights,
   };
 
   return (

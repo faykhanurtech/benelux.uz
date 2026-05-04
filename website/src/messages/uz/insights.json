@@ -1,0 +1,423 @@
+{
+  "country-profile": {
+    "tabs": {
+      "uzbekistan": "O'zbekiston",
+      "belgium": "Belgiya",
+      "netherlands": "Niderlandiya",
+      "luxembourg": "Lyuksemburg",
+      "benelux": "Benelux hududi",
+      "central_asia": "Markaziy Osiyo hududi"
+    },
+    "comingSoon": "Kontent tez orada qo'shiladi.",
+    "uzbekistan": {
+      "intro": "Bu yerda O'zbekistonning iqtisodiyoti, investitsiya muhiti va biznes muhitiga oid 2026 yil boshidagi eng so'nggi ma'lumotlarga asoslangan keng qamrovli sharh berilgan.",
+      "title": "O'zbekiston: iqtisodiyot va investitsiya sharhi",
+      "sections": [
+        {
+          "heading": "Umumiy manzara",
+          "paragraphs": [
+            "O'zbekiston — xorijiy to'g'ridan-to'g'ri investitsiyalarni rivojlanish maqsadlarini — qashshoqlikni yo'q qilish va 2030 yilga qadar o'rta daromadli mamlakat maqomiga erishishni — amalga oshirishda hal qiluvchi omil sifatida ko'radigan Markaziy Osiyodagi jadal rivojlanayotgan past-o'rta daromadli iqtisodiyot.",
+            "Mamlakat 2000 yildan 2023 yilgacha yiliga o'rtacha 6,4% YaIM o'sishini saqlab, ko'plab shunga o'xshash daromad darajasidagi mamlakatlardan oldinda bo'ldi. Oxirgi yillarda bu sur'at yanada tezlashdi."
+          ]
+        },
+        {
+          "heading": "Iqtisodiy ko'rsatkichlar (2025)",
+          "paragraphs": [
+            "2025 yilning dastlabki uch choragida real YaIM yillik asosda 7,6% ga o'sdi, bu kuchli investitsiyalar va uy xo'jaliklari iste'moli tufayli yuz berdi. YaIM o'sishi yil yakunida 7% dan oshishi va 2026 yilda taxminan 6% atrofida barqaror bo'lib qolishi kutilmoqda.",
+            "2025 yilda iqtisodiyot yanada diversifikatsiya qilindi. Qurilish ishlab chiqarishi 14,2%, bozor xizmatlari 14,7%, sanoat ishlab chiqarishi 6,8%, qishloq xo'jaligi esa 4,4% ga oshdi. Inflyatsiya to'qqiz yildagi eng past ko'rsatkichlardan biri bo'lgan 7,3% gacha sekinlashdi. Aholi real daromadlari 9,2% ga oshdi, ishsizlik esa 4,9% gacha kamaydi.",
+            "O'zbekiston eksporti 2025 yilda global savdo o'sishining sekinlashuviga qaramay 23% ga oshib, taxminan 33,8 milliard dollarga yetdi. Jahon banki ma'lumotlariga ko'ra, O'zbekiston 2026 yilda Yevropa va Markaziy Osiyo mintaqasida eng tez rivojlanayotgan uchta iqtisodiyot qatoriga kirishi prognoz qilinmoqda."
+          ]
+        },
+        {
+          "heading": "Xorijiy investitsiyalar",
+          "paragraphs": [
+            "2025 yilda xorijiy investitsiyalar oqimi 39,7 mlrd yevroga yetdi, umumiy investitsiyalar esa YaIMning 31,9% ni tashkil etdi. So'nggi to'qqiz yil ichida O'zbekiston xorijiy investitsiyalarning taxminan 120 mlrd yevrosini jalb qildi, 2017 yilda esa bu ko'rsatkich atigi 4,1 mlrd evroni tashkil etgan edi.",
+            "Yangi investitsiyalar asosan texnologiya transferi, eksportga yo'naltirilgan ishlab chiqarish, energiya samaradorligi va kadrlar tayyorlashga yo'naltirilmoqda."
+          ]
+        },
+        {
+          "heading": "Islohotlar yo'nalishi",
+          "paragraphs": [
+            "2016 yilda prezident Mirziyoyev hokimiyatga kelganidan beri O'zbekiston keng ko'lamli liberallashtirish siyosatini olib bormoqda. Asosiy yutuqlar qatoriga valyuta rejimini erkinlashtirish, zamonaviy investitsiya qonunchiligini qabul qilish, sud islohotlari va elektron davlat xizmatlarini rivojlantirish kiradi. «O'zbekiston — 2030 strategiyasi» va «2022–2026 yillarga mo'ljallangan rivojlanish dasturi» islohotlar yo'nalishini belgilab bermoqda.",
+            "Besh yil ichida O'zbekiston investitsiyalar sohasidagi huquqiy bazani butunlay yangiladi: Investitsiyalar va investitsiya faoliyati to'g'risidagi qonun (2019), Davlat-xususiy sheriklik to'g'risidagi qonun (2019) va Maxsus iqtisodiy zonalar to'g'risidagi qonun (2020) qabul qilindi."
+          ]
+        },
+        {
+          "heading": "Maxsus iqtisodiy zonalar va biznesni rivojlantirish",
+          "paragraphs": [
+            "Hukumat barcha mintaqalarda 750 dan ortiq kichik sanoat zonalari, 24 ta erkin iqtisodiy zona va boshqa maxsus biznes hududlarini tashkil etdi. «Yagona darcha» printsipi, onlayn ro'yxatdan o'tish va elektron hisobot tizimlarining joriy etilishi biznesni ro'yxatdan o'tkazish tartiblarini soddalashtirib, tezlashtirdi."
+          ]
+        },
+        {
+          "heading": "Asosiy tarmoqlar va tabiiy resurslar",
+          "paragraphs": [
+            "Kon qazib olish sanoati iqtisodiyotda muhim o'rin tutadi. O'zbekiston yiliga taxminan 80 tonna oltin qazib, dunyoda ettinchi o'rinda turadi va to'rtinchi eng katta oltin zahiralariga ega. Mamlakatda shuningdek tabiiy gaz, mis, qo'rg'oshin, rux, volfram va uran zahiralari ham mavjud.",
+            "Boshqa muhim tarmoqlarga to'qimachilik va paxta (o'zbek paxtasiga qo'yilgan xalqaro embargo 2022 yilda bekor qilindi), qishloq xo'jaligi, qurilish va jadal rivojlanayotgan xizmatlar sektori kiradi."
+          ]
+        },
+        {
+          "heading": "Xususiylashtirish va davlat korxonalari",
+          "paragraphs": [
+            "2023 yil oxiriga kelib davlat korxonalarining taxminan 45% i xususiylashtirildi, jumladan ikki tijorat banki, kimyo zavodlari, oziq-ovqat sanoati, ishlab chiqarish va xizmat ko'rsatish kompaniyalari. Hukumat endi kapital bozorlarida ommaviy taklif qilish orqali davlat korxonalarida sezilarli minoritar ulushlarni taklif qilish yo'lini tutmoqda.",
+            "Bank sektorida Asakabank, SQB va Aloqabank kabi uchta yirik davlat banklar 2025 yil oxiriga qadar xususiylashtirish jarayonini yakunlash uchun xalqaro maslahatchilar bilan faol hamkorlik qildi. 2025 yil mart holatiga ko'ra, O'zbekistonda 36 ta tijorat banki faoliyat yuritadi va S&P, Fitch hamda Moody's reyting agentliklari mamlakat bank sektorini barqaror deb baholaydi."
+          ]
+        },
+        {
+          "heading": "Muammolar va xatarlar",
+          "paragraphs": [
+            "To'g'ridan-to'g'ri xorijiy investitsiyalar energetika kabi kapital talab qiladigan tarmoqlarda to'plangan holda qolmoqda. Ularning ichki iqtisodiyotga ijobiy ta'sirini tarqatish norasmiy iqtisodiyotning keng tarqalganligi, tartibga solishdagi noaniqlik va kichik va o'rta biznesning cheklangan imkoniyatlari tufayli qiyinlashmoqda.",
+            "XVF oltin daromadlarining byudjetdan oshib ketishi bilan bog'liq protsiklik xarajatlar, shuningdek imtiyozli kreditlashni kengaytirishga bo'lgan bosim kabi xatarlarga e'tibor qaratadi — bu iqtisodiyotning qizib ketishiga olib kelishi mumkin. Tashqi xatarlar global istiqbolning noaniqligini, geosiyosiy keskinlikni va xom ashyo narxlarining o'zgaruvchanligini o'z ichiga oladi.",
+            "Bank sektori kuchsiz korporativ boshqaruv, aktivlarning tez o'sishi va katta hajmdagi imtiyozli kreditlar tufayli potentsial iqtisodiy zarbalarga nisbatan zaif bo'lib qolmoqda."
+          ]
+        },
+        {
+          "heading": "Xulosa",
+          "paragraphs": [
+            "O'zbekiston Markaziy Osiyodagi eng dinamik islohotlar manzarasidan biridir. 38 millionli yosh va o'sib borayotgan aholi, kuchli YaIM o'sishi, shiddatli xususiylashtirish dasturi va xorijiy kapital jalb qilishga qaratilgan davlat siyosati real imkoniyatlar yaratmoqda — ayniqsa energetika, konchilik, agrobiznes, to'qimachilik, logistika va raqamli xizmatlar sohasida. Biznes muhiti tezkorlik bilan yaxshilanmoqda, garchi davlat hukmronligi kuchli sektorlarda faoliyat yuritish va tartibga solishdagi noaniqlik hali ham mavjudligicha qolmoqda."
+          ]
+        }
+      ]
+    },
+    "belgium": {
+      "intro": "",
+      "title": "BELGIYA QIROLLIGI",
+      "facts": [
+        { "label": "Maydoni", "value": "30 528 kv. km" },
+        { "label": "Aholisi", "value": "taxminan 11,8 million kishi" },
+        { "label": "Poytaxti", "value": "Bryussel (Brussels / Bruxelles / Brüssel)" },
+        { "label": "Rasmiy tillar", "value": "Uchta rasmiy til: niderlandcha (flamand), fransuzcha, nemischa" },
+        { "label": "Din", "value": "An'anaviy ravishda katoliklar ko'pchiligi; davlat dunyoviy xarakterga ega" },
+        { "label": "Milliy bayram", "value": "21 iyul (Qirol Leopold I taxtga o'tirishi, 1831)" },
+        { "label": "Davlat boshqaruv tizimi", "value": "Federal konstitutsiyaviy parlamentar monarxiya; federal tuzilma 3 mintaqani (Flandriya, Valloniya, Bryussel-poytaxt) va 3 til hamjamiyatini o'z ichiga oladi" },
+        { "label": "Davlat boshlig'i", "value": "Qirol Filip (2013 yil 21 iyuldan)" },
+        { "label": "Qonun chiqaruvchi hokimiyat", "value": "Ikki palatali federal parlament: Vakillar palatasi (150 o'rin, quyi palata) va Senat (yuqori palata, cheklangan qonun chiqaruvchi vakolatlar)" },
+        { "label": "Ijro etuvchi hokimiyat", "value": "Bosh vazir Bart De Vever (N-VA; 2025 yil fevraldan lavozimda) boshchiligidagi federal hukumat, besh partiyali «Arizona koalitsiyasi»ni (N-VA, CD&V, Vooruit, MR, Les Engagés) boshqaradi" }
+      ],
+      "sections": [
+        {
+          "heading": "Ichki siyosiy vaziyat",
+          "paragraphs": [
+            "Belgiya siyosiy landshafti niderlandiyacha gaplashuvchi flamand shimoli va frankofonli vallon janubi o'rtasidagi chuqur lingvistik-jamoaviy bo'linish bilan struktural jihatdan belgilanadi, ikki tilli Bryussel poytaxt mintaqasi esa uchinchi mustaqil subyekt hisoblanadi. Milliy partiyalar umumiy jamoaviy uyushmalar sifatida taxminan 1970 yilda faoliyatini to'xtatdi; barcha yirik partiyalar bitta til hamjamiyati doirasida ish yuritadi. 2024 yil o'rtasida o'tkazilgan federal saylovlardan so'ng koalitsiya muzokarlari taxminan sakkiz oy davom etdi — 2025 yil boshida Belgiya tarixida birinchi marta flamand milliyatchisi boshchiligidagi De Vever hukumati tashkil etildi. Boshqaruv koalitsiyasining dasturi fiskal konsolidatsiyani, mehnat bozori islohotini, immigratsiya siyosatini kuchaytirishni va vakolatlarni mintaqaviy organlarga topshirishni o'z ichiga oladi. Flamand separatistik masalasi — koalitsiya muzokaralari davomida rasman chetga surilgan bo'lsa-da — Belgiya federal siyosatida uzoq muddatli struktural omil bo'lib qolmoqda. Valloniya Flandriyaga qaraganda yuqori ishsizlik va sekinroq iqtisodiy o'sish muammolariga duch kelishda davom etmoqda, bu esa mintaqalararo fiskal transferlar bo'yicha keskinlikni saqlab turibdi. Hukumat YeI tomonidan belgilangan haddan ortiq defitsit tartibi majburiyatlari ostida ish yuritmoqda, bu esa koalitsiyaning fiskal makon imkoniyatlarini cheklaydi."
+          ]
+        },
+        {
+          "heading": "Iqtisodiyot",
+          "paragraphs": [
+            "Belgiya dunyodagi eng savdo intensiv iqtisodiyotlardan biri bo'lgan yuqori rivojlangan, yuqori daromadli va ochiq iqtisodiyotga ega: eksport YaIMning taxminan 84% ini tashkil qiladi — OECD a'zolari orasidagi eng yuqori ko'rsatkichlardan biri. Mamlakatda muhim ichki tabiiy resurslar mavjud emas va u asosan xom ashyo hamda yarim tayyor mahsulotlarni import qilish, ularni qayta ishlash va tayyor mahsulotlarni reeksport qilish orqali faoliyat yuritadi. Xizmatlar YaIMning taxminan 77% ini, sanoat esa taxminan 18% ini tashkil qiladi. O'rtacha YaIM o'sishi so'nggi yillarda barqaror, ammo o'rtacha bo'lib kelmoqda. Davlat qarzi YaIMning 100% dan oshgan va fiskal konsolidatsiya bo'lmasa o'sishda davom etmoqda, bu mamlakatning eng muhim struktural makroiqtisodiy zaifligini ifodalaydi. Fiskal taqchillik pensiya, sog'liqni saqlash, mudofaa va foiz xarajatlarining o'sishi bilan yanada kengayishi prognoz qilinmoqda. Inflyatsiya energetika inqirozi pik darajasidan pasayib, YeI maqsadli ko'rsatkichiga yaqinlashmoqda."
+          ],
+          "list": [
+            "Farmatsevtika va biofarmatsevtika — Belgiya farmatsevtika mahsulotlari eksporti bo'yicha dunyodagi yetakchi eksportyorlar qatoriga kiradi va biofarmatsevtika bo'yicha dunyoda ikkinchi o'rinda turadi. Kimyoviy mahsulotlar, plastmassalar va farmatsevtika birgalikda Belgiya eksportining eng katta ulushini tashkil qiladi. Jon boshiga klinik sinovlar soni bo'yicha Belgiya dunyoda birinchi o'rinda turadi va Yevropada eng tezkor klinik sinov tasdiqlash jarayonini ta'minlaydi. Pfizer, Johnson & Janssen, UCB va GSK kabi yirik global korporatsiyalar Belgiyada muhim ishlab chiqarish quvvatlari va ilmiy-tadqiqot markazlarini saqlab turibdi.",
+            "Kimyo sanoati — Belgiya Antverpen-Bryugge porti atrofida joylashgan Yevropaning eng yirik integratsiyalashgan kimyoviy klasteriga ega. Jon boshiga kimyoviy mahsulotlar va plastmassalar sotilishi bo'yicha Belgiya dunyo etakchisi hisoblanadi. Dunyoning eng yirik kimyoviy kompaniyalarining taxminan 75% i Belgiyada ishlab chiqarish ob'ektlariga ega. Kimyo sanoati mamlakatning yetakchi eksport va innovatsiya sektoridir.",
+            "Olmoslar — Antverpen besh asrdan ortiq vaqt davomida olmoslar savdosining bebahs global markazi bo'lib kelmoqda. Har yili dunyo bo'ylab qazib olingan olmoslarning taxminan 80–85% va sayqallangan olmoslarning 50% Antverpen orqali o'tadi. Shahrda dunyodagi 29 ta olmos birjasidan to'rttasi va taxminan 1 500 ta olmos kompaniyasi joylashgan. Antverpen bir vaqtning o'zida dunyo bo'ylab olmoslar savdosi, qirqish va tarqatishning yetakchi markazi vazifasini bajaradi.",
+            "Logistika va port operatsiyalari — Antverpen-Bryugge porti yuk aylanmasi bo'yicha Yevropada ikkinchi o'rindagi port bo'lib, chetdan YeIga tovarlar olib kirishning asosiy darvozasi sifatida xizmat qiluvchi eng muhim global logistika tugunlaridan biridir. Belgiyaning yirik Yevropa savdo yo'llarining kesishmasida joylashishi va temir yo'llar, avtomobil yo'llari, kanallar va havo infratuzilmasining zich tarmog'i bilan birga, uni kontinentning struktural jihatdan muhim logistika tuguni sifatida belgilaydi.",
+            "Pivo va shokolad — Belgiya ikkala sektorda ham jahon miqyosida tan olingan maqomga ega. Ko'p asrlik monastir an'analari asosida tayyorlangan trapist pivolarini o'z ichiga olgan Belgiya pivosi YuNESKO tomonidan nomoddiy madaniy meros sifatida tan olingan. Lyuvenda joylashgan Anheuser-Busch InBev daromad bo'yicha dunyoning eng yirik pivo ishlab chiqaruvchisi hisoblanadi. Belgiya shokoladi va konfet mahsulotlari kuchli global brendga ega yirik eksport tovarlaridir.",
+            "Moliyaviy va institutsional xizmatlar — Bryussel Yevropa Ittifoqining de-fakto ma'muriy poytaxti va NATO shtab-kvartirasi vazifasini bajarib, xalqaro tashkilotlar, diplomatik missiyalar, lobbistik tuzilmalar va ularga bog'liq professional xizmatlarning katta konsentratsiyasini yaratadi. Moliyaviy xizmatlar sektori yaxshi rivojlangan va YeI tartibga solish doirasida faoliyat yuritadi."
+          ]
+        },
+        {
+          "heading": "Tashqi savdo",
+          "paragraphs": [
+            "Belgiya mutlaq qiymatlar bo'yicha dunyodagi yetakchi eksportyorlar qatorida barqaror mavqeni saqlab, qayta ishlash va reeksport markazi sifatidagi rolini namoyon qiladi. Asosiy eksport mahsulotlari — farmatsevtika va biofarmatsevtika, kimyoviy moddalar va plastmassalar, qayta ishlangan neft mahsulotlari, avtomobillar va ularning zapchastlari, mashinalar va jihozlar, olmoslar. Asosiy savdo hamkorlari — Germaniya, Niderlandiya, Fransiya, AQSh va Buyuk Britaniya. Umumiy savdoning taxminan 75–80% i YeI a'zo davlatlari bilan amalga oshiriladi. So'nggi yillarda Belgiya tovarlar savdosi bo'yicha sezilarli profitsitni qayd etdi, bu asosan farmatsevtika sektori hisobiga yuz berdi — ushbu sohada mamlakat dunyo miqyosida yuqori ijobiy savdo balansini saqlab turibdi."
+          ]
+        },
+        {
+          "heading": "Xalqaro tashkilotlar",
+          "paragraphs": [],
+          "list": [
+            "Birlashgan Millatlar Tashkiloti (BMT) — asoschisi",
+            "Shimoliy Atlantika shartnomasi tashkiloti (NATO) — asoschisi; NATO shtab-kvartirasi Bryusselda joylashgan",
+            "Yevropa Ittifoqi (YeI) — asoschisi; YeI institutlari Bryusselda joylashgan",
+            "Iqtisodiy hamkorlik va taraqqiyot tashkiloti (OECD)",
+            "Jahon savdo tashkiloti (JST)",
+            "Xalqaro valyuta fondi (XVF) va Jahon banki guruhi",
+            "Yevropa Kengashi",
+            "Benelux Ittifoqi",
+            "O'nlik guruh G10 (pul guruhi)",
+            "Shengen hududi va Yevrozona a'zosi"
+          ]
+        },
+        {
+          "heading": "Investitsiya muhiti",
+          "paragraphs": [
+            "Belgiya chet el investorlariga nisbatan huquqiy cheklovlarsiz ochiq iqtisodiyotni saqlab kelmoqda. Kompaniyalarga xorijiy egalik yoki nazorat qo'yish bo'yicha cheklovlar mavjud emas; xorijiy firmalar biznesni tashkil etish va faoliyat yuritishda mahalliy subyektlar bilan teng sharoitlarda ish yuritadi. Xorijiy korporatsiyalar Belgiyaning eng yirik kompaniyalarining taxminan uchdan birini nazorat qiladi. Belgiya YeI miqyosida to'g'ridan-to'g'ri xorijiy investitsiyalar loyihalari soni bo'yicha doimiy ravishda eng yaxshi o'nlik Yevropa yo'nalishlari qatoriga kiradi. AQSh to'g'ridan-to'g'ri xorijiy investitsiyalarning etakchi manbai hisoblanadi. Mintaqalar bo'yicha: Flandriya ko'pgina TXI loyihalarini jalb qiladi, Bryussel va Valloniya esa undan keyingi o'rinlarda turadi. TXI uchun yetakchi sektorlar — ishlab chiqarish va logistika, so'ngra biznes xizmatlari; ma'lumotlar infratuzilmasi, sog'liqni saqlash va raqamli xizmatlarga qiziqish ortmoqda. 2023 yil o'rtasida ma'lumotlar, sog'liqni saqlash, raqamli infratuzilma va transport kabi sohalardagi milliy xavfsizlikka potentsial tahdid tug'diruvchi investitsiyalarni qamrab oluvchi investitsiyalarni tekshirish rejimi kuchga kirdi — uni Interfederal skrining komissiyasi boshqaradi. Asosiy investitsiyalarni rag'batlantirish agentliklari mintaqaviy darajada faoliyat yuritadi: Flanders Investment and Trade (FIT), Wallonia Foreign Trade and Investment Agency (AWEX) va HUB Brussels. Federal soliq imtiyozlari 25% lik standart korporativ soliq stavkasini (avvalgi 35% dan sezilarli darajada pasaytirildi), patentlar va innovatsion daromadlardan olingan daromadlarning 85% soliqdan ozod qilinishini, shuningdek kapital moliyalashtirishni rag'batlantiradigan shartli foizlar chegirib tashlash sxemasini o'z ichiga oladi. Mintaqaviy hukumatlar qo'shimcha ravishda ilmiy-tadqiqot ishlari, bandlik, energiya samaradorligi va eksportga yo'naltirilgan maxsus subsidiyalarni boshqaradi — ular xorijiy va mahalliy investorlarga teng asoslarda taqdim etiladi. Belgiya Korrupsiyani idrok etish indeksi va Global innovatsiyalar indeksida qulay o'rinlarni egallaydi. Asosiy struktural investitsiya xatarlari qatoriga barqaror yuqori davlat qarzi va fiskal taqchillik, qo'shni mamlakatlarga qaraganda yuqori mehnat xarajatlari, bir necha hokimiyat darajalari bilan aloqada bo'lishni talab qiluvchi murakkab federal-mintaqaviy tartibga solish arxitekturasi, shuningdek energiya importiga deyarli to'liq bog'liqlik tufayli energiya narxlari o'zgaruvchanligi kiradi."
+          ]
+        },
+        {
+          "heading": "Biznes yuritish",
+          "paragraphs": [
+            "Belgiyada biznesni ro'yxatdan o'tkazish markazlashtirilgan kompaniyalarni ro'yxatdan o'tkazish portali orqali odatda bir hafta ichida yakunlanishi mumkin. Jarayon moliyaviy reja tayyorlashni, uchta rasmiy tildan birida notarial jihatdan tasdiqlangan ta'sis hujjatlarini taqdim etishni, Yuridik shaxslar reestri, QQS va ijtimoiy sug'urta tizimlarida ro'yxatdan o'tishni talab qiladi. Ro'yxatdan o'tish jarayonida mahalliy va xorijiy kompaniyalar o'rtasida hech qanday farq yo'q. Tartibga solish muhiti federal va mintaqaviy vakolatlar o'rtasida taqsimlangan: federal organlar soliq siyosati, mehnat qonunchiligi, ish haqi siyosati va energiya tartibga solishning aksariyat qismini boshqaradi; mintaqaviy organlar esa atrof-muhit tartibga solishni, investitsiya rag'batlarini va subsidiyalarni boshqaradi. Bu taqsimlash investorlardan boshqaruvning ikkala darajasi bilan aloqada bo'lishni talab qiladi. Belgiya GDPR, YeI sun'iy intellekt to'g'risidagi qonun (2025 yildan xavf darajasiga asoslangan jadval bo'yicha joriy etilmoqda) va YeI moliyaviy direktivalari bilan birga YeI tartibga solish doiralariga to'liq integratsiya qilingan. Moliyaviy resurslar va kreditlar xorijiy firmalar uchun kamsitishsiz bozor narxlari bo'yicha ajratiladi. Bank sektori barqaror; yirik xalqaro va mahalliy institutlar YeI prudensial nazorati ostida faoliyat yuritadi. Mahalliy sudlar xorijiy arbitraj qarorlarini tan oladi va ijro etadi. Biznes uzluksizligi to'g'risidagi qonun 11-bobdagi mexanizmlarga taqqoslanadigan sud restrukturizatsiya tartiblarini nazarda tutadi. Asosiy struktural biznes muhiti muammolari qatoriga qo'shni mamlakatlarga qaraganda yuqori mehnat xarajatlari, federal tuzilmadan kelib chiquvchi murakkab ko'p darajali tartibga solish talablari va import bog'liqligidan kelib chiqadigan yuqori energiya xarajatlari kiradi. Belgiyaning ko'p tilli va yuqori malakali ish kuchi Yevropa bozorlarida xizmat ko'rsatuvchi transmilliy korporatsiyalar uchun muhim operatsion ustunlik sifatida tan olinadi."
+          ]
+        },
+        {
+          "heading": "Strategik ahamiyat",
+          "paragraphs": [
+            "Belgiya Yevropa siyosiy va institutsional arxitekturasida markaziy o'rinni egallaydi — Bryusselda NATO va asosiy YeI institutlarining shtab-kvartirasi joylashgan. Mamlakatning tashqi siyosati multilateralizm, Yevropa integratsiyasi va transatlantik hamkorlik prinsipiga asoslanadi. YeI savdo va tartibga solish mexanizmlariga chuqur integratsiyalashgan kichik ochiq iqtisodiyot sifatida Belgiyaning tashqi iqtisodiy va siyosiy pozitsiyasi asosan YeI umumiy pozitsiyalari bilan shakllanadi, mahalliy federal murakkablik esa muhim strategik masalalarda milliy konsensus shakllantirish jarayonini struktural jihatdan uzaytiradi."
+          ]
+        }
+      ]
+    },
+    "netherlands": {
+      "intro": "",
+      "title": "NIDERLANDIYA QIROLLIGI",
+      "facts": [
+        { "label": "Maydoni", "value": "41 543 kv. km (materik qismi); xorijiy hududlar bilan birga taxminan 42 508 kv. km" },
+        { "label": "Aholisi", "value": "taxminan 18 million kishi" },
+        { "label": "Poytaxti", "value": "Amsterdam (konstitutsiyaviy poytaxt); Gaaga (hukumat, parlament va diplomatik missiyalarning qarorgohi)" },
+        { "label": "Rasmiy til", "value": "Niderlandcha; friz tili Frislandiya provinsiyasida rasmiy maqomga ega" },
+        { "label": "Din", "value": "Asosan dunyoviy jamiyat; tarixan protestant va katolik; hozirgi vaqtda aholining katta qismi dinsiz" },
+        { "label": "Milliy bayram", "value": "27 aprel (Qirol kuni; Qirol Villem-Aleksandrning tug'ilgan kuni)" },
+        { "label": "Davlat boshqaruv tizimi", "value": "Konstitutsiyaviy parlamentar monarxiya; 12 provinsiyada markazlashtirilmagan boshqaruv bilan unitar davlat; xorijiy tarkibiy mamlakatlar (Aruba, Kyurasao, Sint-Maarten) Charter kelishuvi asosida Qirollikning bir qismini tashkil qiladi" },
+        { "label": "Davlat boshlig'i", "value": "Qirol Villem-Aleksandr (2013 yil 30 apreldan)" },
+        { "label": "Qonun chiqaruvchi hokimiyat", "value": "Ikki palatali Bosh shtatlar (Staten-Generaal): Vakillar palatasi (Tweede Kamer; 150 o'rin, quyi palata) va Senat (Eerste Kamer; 75 o'rin, yuqori palata)" },
+        { "label": "Ijro etuvchi hokimiyat", "value": "Bosh vazir Rob Yetten (D66; 2026 yil 23 fevraldan lavozimda) boshchiligidagi ozchilik hukumati, D66, VVD va CDAdan iborat uch partiyali ozchilik koalitsiyasini boshqaradi" }
+      ],
+      "sections": [
+        {
+          "heading": "Ichki siyosiy vaziyat",
+          "paragraphs": [
+            "Niderlandiya 2023 yil oxiridan beri sezilarli siyosiy beqarorlikni boshdan kechirmoqda. 2023 yil noyabr umumiy saylovlarida Gert Vildersning o'ng radikal Erkinlik partiyasi (PVV) eng ko'p o'rinni qo'lga kiritdi; sakkiz oylik koalitsiya tuzish jarayoni 2024 yil iyulda PVV, VVD, NSC va Dehqonlar-Fuqarolar harakatidan (BBB) iborat Shuf kabinetini — Niderlandiya zamonaviy tarixidagi eng o'ng qanot hukumatni — tuzish bilan yakunlandi. 2025 yil iyunida PVV boshpana va immigratsiya siyosati bo'yicha murosasiz kelishmovchiliklar sababli chiqib ketishi natijasida koalitsiya yemirildi. Vaqtincha Shuf hukumati 2025 yil oktyabrda navbatdan tashqari saylovlar o'tkazilgunga qadar lavozimda qoldi; bu saylovlarda D66 va PVV har biri 26 o'rin bilan teng keldi. To'rt oylik koalitsiya tuzish jarayonidan so'ng 2026 yil fevralda D66, VVD va CDAdan iborat parlament ko'pchiligisiz Yetten kabineti tashkil etildi. Yangi hukumat dasturi uy-joy qurilishi, NATO maqsadlari sari mudofaa xarajatlarini oshirish, sog'liqni saqlash islohotlari, iqlim siyosati va migratsiyani boshqarishga qaratilgan. Struktural ichki siyosiy omillar qatoriga partiyalar landshaftining doimiy parchalanishi, barqaror ko'pchilik koalitsiyalarini tuzishdagi qiyinchiliklar va immigratsiya, uy-joy inqirozi, azot chiqindilarini tartibga solish hamda byudjet ustuvorliklari bo'yicha chuqurlashib borayotgan qutblanish kiradi."
+          ]
+        },
+        {
+          "heading": "Iqtisodiyot",
+          "paragraphs": [
+            "Niderlandiya dunyodagi eng ochiq va savdo intensiv iqtisodiyotlardan biriga ega bo'lib, nominal YaIM bo'yicha global reytingda 20 talikka kiradi va Yevropa Ittifoqida beshinchi o'rinda turadi. Xizmatlar YaIMning taxminan 77–80% ini, sanoat taxminan 18% ini, qishloq xo'jaligi esa YaIMning taxminan 1,6–2% ini tashkil qiladi, lekin eksportning mutanosib bo'lmagan darajada katta hajmini ta'minlaydi. So'nggi yillarda YaIM o'sishi avvalgi stagnatsiyaga yaqin davrdan so'ng real ish haqi va xususiy iste'molning o'sishi bilan qo'llab-quvvatlanadigan bosqichma-bosqich tiklanish bilan birga o'rtacha bo'lib kelmoqda. Davlat moliyasi YeIda eng sog'lomlar qatorida bo'lib, qarz evrozona o'rtachasidan ancha past. Ishsizlik Yevropa me'yorlari bo'yicha past, mehnat bozori struktural jihatdan taranglashib qolgan. Niderlandiya IMD Global raqobatbardoshlik indeksida 9-o'rinda va Global innovatsiyalar indeksida 8-o'rinda turadi."
+          ],
+          "list": [
+            "Yarim o'tkazgich uskunalari — Niderlandiya ASML ning vatani bo'lib, bu kompaniya eng ilg'or yarim o'tkazgichlarni ishlab chiqarish uchun zarur bo'lgan ekstremal ultrabinafsha (EUV) litografiya mashinalarining dunyodagi yagona ishlab chiqaruvchisi hisoblanadi. ASML bozor kapitallashuvi bo'yicha eng yirik niderlandiyalik kompaniya va dunyodagi eng strategik jihatdan muhim sanoat firmaslaridan biri. Eyndxoven mintaqasining (\"Breinport\" mintaqasi) yuqori texnologiyali ekotizimida NXP Semiconductors va aniqlik muhandisligi klasterining firmalar ham faoliyat yuritadi. Niderlandiya tomonidan 2023 yilda joriy etilgan ilg'or yarim o'tkazgich ishlab chiqarish uskunalariga eksport nazorati global texnologiya savdo siyosatida muhim omilga aylandi.",
+            "Qishloq xo'jaligi va oziq-ovqat — Kichik maydonga qaramay, Niderlandiya qiymat bo'yicha AQShdan keyin dunyoda qishloq xo'jaligi mahsulotlarining ikkinchi yirik eksportyori hisoblanadi. Mamlakat gullar va o'simliklar eksporti bo'yicha dunyoda birinchi o'rinda turadi; Aalsmeer shahrida joylashgan FloraHolland auktsioni kesilgan gullar uchun global narx belgilash va tarqatish markazi vazifasini bajaradi. Asosiy eksport mahsulotlari qatoriga bezak o'simliklar, sut mahsulotlari, sabzavotlar, kartoshka va qayta ishlangan oziq-ovqat kiradi. Vageningen universiteti va tadqiqot markazi qishloq xo'jaligi fanidagi eng yetakchi muassasalardan biri sifatida jahon miqyosida tan olingan.",
+            "Port va logistika — Rotterdam porti Yevropaning eng yirik dengiz porti va dunyodagi eng yiriklaridan biri bo'lib, yiliga taxminan 435 million tonna yuk qayta ishlaydi. YeIdagi barcha konteyner trafigining deyarli 30% Rotterdam orqali o'tadi. Port milliy YaIMning deyarli 3% ga teng to'g'ridan-to'g'ri iqtisodiy qiymat yaratadi. Shiphol aeroporti yuk va yo'lovchi hajmi bo'yicha Yevropada to'rtinchi o'rinda turadi. Rotterdam va Shiphol birgalikda Niderlandiyani Yevropa kontinentiga kiruvchi va undan chiquvchi tovarlar uchun asosiy logistika darvozasiga aylantiradi.",
+            "Kimyo sanoati va energetika — Niderlandiya tarixan Shimoliy dengiz tabiiy gaz qazib olishi va yirik global energetika kompaniyalarining mavjudligi bilan mustahkamlangan kimyoviy ishlab chiqarish va neftni qayta ishlashning Yevropa markazi hisoblanadi. Shell va boshqa yirik tovar savdo kompaniyalari tarixan Niderlandiyada joylashgan. Rotterdam Yevropaning eng yirik neft-kimyo klasterlaridan biriga ega.",
+            "Moliyaviy xizmatlar va fintech — Amsterdam Yevronet fond birjasiga uy-joy bo'lib, ko'plab global moliya institutlarining Yevropa shtab-kvartirasi sifatida xizmat qiluvchi yirik Yevropa moliyaviy markazidir. ING va ABN AMRO niderlandiyalik kelib chiqishli yirik bank guruhlari hisoblanadi. Niderlandiya YaIMga nisbatan dunyodagi eng yirik pensiya jamg'armalari tizimlaridan biriga ega. Amsterdam Adyen va Mollie kabi kompaniyalarning markazi bo'lib, Yevropaning etakchi fintech markazi sifatida ham tan olingan.",
+            "Texnologiyalar va raqamli infratuzilma — Amsterdam Internet Exchange (AMS-IX) trafik hajmi bo'yicha dunyodagi eng yirik internet almashinuv nuqtalaridan biri bo'lib, Niderlandiyani global internet infratuzilmasining muhim tuguniga aylantiradi. Google, Microsoft, IBM, Netflix va Uber kabi ko'plab yirik texnologik kompaniyalar mamlakatning ulanishi, ingliz tilini bilish darajasi va qulay tartibga solish muhiti bilan jalb bo'lib, Amsterdamda Yevropa shtab-kvartirasini ochgan."
+          ]
+        },
+        {
+          "heading": "Tashqi savdo",
+          "paragraphs": [
+            "Niderlandiya umumiy qiymat bo'yicha dunyodagi top beshta eksportyorlar qatorida barqaror o'rin egallaydi, garchi sezilarli ulush mahalliy ishlab chiqarilgan tovarlar emas, balki Rotterdam orqali o'tadigan reeksportni aks ettiradi. Yetakchi eksport mahsulotlari — mashinalar va uskunalar (yarim o'tkazgich ishlab chiqarish vositalari ham), sanoat tovarlari, mineral yoqilg'i va qayta ishlangan mahsulotlar, kimyoviy mahsulotlar, oziq-ovqat va qishloq xo'jaligi tovarlari. Faqat qishloq xo'jaligi eksporti yiliga 125 mlrd yevrodan oshadi. Germaniya asosiy savdo hamkori; boshqa yirik hamkorlar qatoriga Belgiya, Fransiya, Buyuk Britaniya va AQSh kiradi. Savdoning taxminan 70–75% i YeI a'zo davlatlari bilan amalga oshiriladi. Niderlandiya doimiy ravishda sezilarli joriy hisob profitsitini qayd etadi, bu savdo raqobatbardoshligi va keng ko'lamli reeksport faoliyatini aks ettiradi."
+          ]
+        },
+        {
+          "heading": "Xalqaro tashkilotlar",
+          "paragraphs": [],
+          "list": [
+            "Birlashgan Millatlar Tashkiloti (BMT) — asoschisi",
+            "Shimoliy Atlantika shartnomasi tashkiloti (NATO) — asoschisi; NATO sammiti 2025 yil iyunda Gaagada bo'lib o'tdi",
+            "Yevropa Ittifoqi (YeI) — asoschisi",
+            "Iqtisodiy hamkorlik va taraqqiyot tashkiloti (OECD) — asoschisi",
+            "Jahon savdo tashkiloti (JST)",
+            "Xalqaro valyuta fondi (XVF) va Jahon banki guruhi",
+            "Yevropa Kengashi",
+            "Benelux Ittifoqi",
+            "O'nlik guruh G10 (pul guruhi)",
+            "Shengen hududi va Yevrozona a'zosi",
+            "Xalqaro sud va Doimiy arbitraj sudi — ikkalasi ham Gaagada joylashgan"
+          ]
+        },
+        {
+          "heading": "Investitsiya muhiti",
+          "paragraphs": [
+            "Niderlandiya dunyodagi to'g'ridan-to'g'ri xorijiy investitsiyalarning eng yirik qabul qiluvchi va manbai mamlakatlari qatoriga kiradi. Kiruv va chiquvchi TXI hajmlari YaIMning mos ravishda taxminan 241% va 288% ni tashkil qiladi, bu mamlakatni chiquvchi TXI bo'yicha dunyoda ikkinchi va kiruv TXI bo'yicha to'rtinchi o'ringa qo'yadi. Mamlakatning jozibadorligi tarixan uning markaziy geografik joylashuvi, jahon darajasidagi logistika infratuzilmasi, ingliz tilini biladigan yuqori malakali ish kuchi, barqaror huquqiy tizim va biznes uchun qulay soliq va tartibga solish muhiti bilan shartlangan. AQSh ham Niderlandiyaning eng yirik xorijiy investori, ham eng katta ikki tomonlama savdo profitsitiga ega bo'lgan mamlakatdir. Hukumatning sanoat siyosati davlat-xususiy sektor tomonidan birgalikda moliyalashtiriladigan ilmiy-tadqiqot ishlari uchun to'qqizta ustuvor «Yetakchi sektor»ni belgilaydi. Milliy investitsiyalarni tekshirish rejimi — VIFO qonuni — 2023 yil o'rtasida kuchga kirdi; 2024 yil oxirida qamrov sun'iy intellekt va biotexnologiyaga kengaytirildi. Investitsiya muhitidagi asosiy qiyinchiliklar qatoriga doimiy uy-joy taqchilligi, elektr tarmog'ining haddan ortiq yuklanishi, yuqori ish beruvchi ijtimoiy sug'urta badallari, azot chiqindilarini tartibga solish va fiskal bo'shashish tendensiyasi kiradi."
+          ]
+        },
+        {
+          "heading": "Biznes yuritish",
+          "paragraphs": [
+            "Niderlandiya Yevropadagi eng biznes-do'st muhitlardan biri sifatida keng tan olinadi. Biznesni ro'yxatdan o'tkazish Niderlandiya Savdo-sanoat palatasi (KvK) orqali bir necha kun ichida yakunlanishi mumkin. Niderlandiya xorijiy investitsiyalar agentligi (NFIA) kiruvchi xorijiy investorlarga yer tanlashda yordam, tartibga solish muhitida yo'l-yo'riq ko'rsatish va soliq maslahatlarini o'z ichiga olgan maxsus qo'llab-quvvatlash xizmatlarini taqdim etadi. Niderlandiya soliq tizimi barcha malakali kompaniyalar uchun mavjud bo'lgan ilmiy-tadqiqot soliq krediti sxemasini (WBSO), Energiya investitsiyalari nafaqasini (EIA) va Ekologik investitsiyalar chegirib tashlashni (MIA) taklif qiladi. Korporativ daromad solig'i standart stavkasi chegara qiymatidan yuqori foydada 25,8% va pastda 19% ni tashkil qiladi. Ingliz tilini bilish bo'yicha Niderlandiya EF indeksida dunyoda birinchi o'rinda turadi. Asosiy struktural biznes muhiti muammolari qatoriga YeIdagi eng taranglashgan mehnat bozorlaridan biri, uy-joy taqchilligi, murakkab azot chiqindilarini tartibga solish va sanoat zonalarida elektr tarmog'i quvvati cheklovlari kiradi. Mamlakat Global innovatsiyalar indeksida 8-o'rinda va Iqtisodiy erkinlik indeksida 11-o'rinda turadi."
+          ]
+        },
+        {
+          "heading": "Strategik ahamiyat",
+          "paragraphs": [
+            "Niderlandiya Yevropaning eng yirik porti, muhim yarim o'tkazgich ishlab chiqarish uskunalarida deyarli monopoliyasi, qishloq xo'jaligi eksportida dunyo etakchiligi va kontinentning asosiy raqamli infratuzilma markazi maqomining birgalikdagi afzalliklari orqali global iqtisodiy arxitekturada struktural jihatdan muhim o'rinni egallaydi. Xalqaro sud, Doimiy arbitraj sudi va ko'plab xalqaro tribunallar va tashkilotlarning qarorgohi bo'lgan Gaaga Niderlandiyaga qoidalarga asoslangan xalqaro tartibda qo'shimcha ta'sir o'lchamini beradi. Niderlandiya tashqi siyosati an'anaviy ravishda kuchli multilateralizm va pro-Yevropa yo'nalishi bilan ajralib turgan; yangi Yetten hukumati Shuf kabineti davrasidan keyin ko'proq pro-YeI va iqlimga yo'naltirilgan tashqi siyosat yo'nalishiga qaytishni bildirdi."
+          ]
+        }
+      ]
+    },
+    "luxembourg": {
+      "intro": "Mamlakat haqida umumiy ma'lumot",
+      "title": "Lyuksemburg Buyuk Gersogligi",
+      "facts": [
+        { "label": "Maydoni", "value": "2 586 kv. km" },
+        { "label": "Aholisi", "value": "taxminan 700 000 kishi; shuni ta'kidlash lozimki, aholining taxminan 47% chet el fuqarolari bo'lib, Fransiya, Belgiya va Germaniyadan keluvchi chegaraoldi ishchilar umumiy ish kuchining taxminan 43% ni tashkil etadi" },
+        { "label": "Poytaxti", "value": "Lyuksemburg shahri" },
+        { "label": "Rasmiy tillari", "value": "Uchta rasmiy til: lyuksemburgcha (milliy til), fransuzcha, nemischa; fransuzcha qonunchilik va davlat boshqaruvi tili hisoblanadi" },
+        { "label": "Dini", "value": "Tarixan katoliklar ko'pchilik; din va davlatning ajralishi qonunda mustahkamlangan; yuqori immigratsiya tufayli jamiyat tobora dunyoviy va plyuralistik tus olmoqda" },
+        { "label": "Milliy bayram", "value": "23-iyun (Millat kuni; marhum Buyuk Gersog Jeanning tug'ilgan kuni, rasmiy bayram sifatida saqlab kelinmoqda)" },
+        { "label": "Boshqaruv shakli", "value": "Konstitutsiyaviy parlamentar monarxiya (Buyuk Gersoglik); bir palatali parlament; ochiq, ko'p tomonlama va YI-ga integratsiyalashgan davlat" },
+        { "label": "Davlat boshlig'i", "value": "Buyuk Gersog Anri (2000-yil 7-oktabrdan)" },
+        { "label": "Qonun chiqaruvchi organ", "value": "Deputatlar palatasi (Chambre des Députés; 60 o'rin; bir palatali)" },
+        { "label": "Ijro etuvchi hokimiyat", "value": "Bosh vazir Luc Frieden (Xristian xalq partiyasi, CSV; 2023-yil noyabrdan lavozimda) boshchiligidagi koalitsion hukumat; CSV va Demokratik partiya (DP) ikki partiyali koalitsiyasi; keyingi saylovlar 2028-yil oktyabr oyida rejalashtirilgan" }
+      ],
+      "sections": [
+        {
+          "heading": "Ichki siyosiy vaziyat.",
+          "paragraphs": [
+            "Lyuksemburg Yevropada eng barqaror siyosiy muhitlardan birini saqlab kelmoqda. 2023-yil oktyabr qonunchilik saylovlari CSV-DP koalitsiyasi uchun aniq ko'pchilik yaratdi va Bosh vazir Ksave Bettel rahbarligidagi DP-LSAP-Déi Gréng koalitsiyasining o'n yillik hukmronligiga chek qo'ydi. Frieden hukumatining ustuvorliklari: iqtisodiy raqobatbardoshlik, byudjet ehtiyotkorligi, uy-joy qulayligi, xarid qobiliyati, iqlim o'zgarishiga moslashuv va iqtisodiyotni moliya sektoridan tashqarida diversifikatsiya qilish. Tarkibiy siyosiy barqarorlik Buyuk Gersoglikning konsensusli siyosiy madaniyati, kuchli institutsional salohiyat, hukumatga yuqori jamoat ishonchi va asosiy tashqi va iqtisodiy siyosat yo'nalishlari bo'yicha keng partiyalararo kelishuv bilan ta'minlanadi. Asosiy ichki tarkibiy muammolar: pensiya tizimining uzoq muddatli barqarorligi — OECD va XVF tomonidan keng islohot talab qilinadi, — kichik hudud va aholi o'sishi tufayli uy-joy qulayligi, iqtisodiy kengayish bilan bog'liq energetika va infratuzilma cheklovlari, hamda asosan chegaraoldi ishchilarga tayanuvchi mehnat bozorida malaka nomutanosibligi. Lyuksemburgning o'ziga xos demografik tuzilishi — unda lyuksemburgliklari bo'lmaganlar aholining deyarli yarmini tashkil etadi — to'g'ridan-to'g'ri Yevropa tengdoshlariga o'xshamagan o'ziga xos boshqaruv va ijtimoiy integratsiya kontekstini shakllantiradi."
+          ]
+        },
+        {
+          "heading": "Iqtisodiyot.",
+          "paragraphs": [
+            "Lyuksemburg nominal aholi boshiga YaIM bo'yicha dunyo reytinglarida doimiy ravishda birinchi o'rinlarda turadi, bu ham yuqori unumdor moliya sektori, ham YaIMda hisoblanadigan katta chegaraoldi ish kuchining statistik ta'sirini aks ettiradi. Iqtisodiyot moliya xizmatlarida yuqori darajada to'plangan — YaIMning taxminan 25% va soliq daromadlarining 30% dan ko'prog'i — bu uni global moliya bozori sharoitlari va foiz stavkalari sikliga strukturaviy jihatdan sezgir qiladi. 2022 yildan 2024 yilgacha iqtisodiyot qiyin davrni boshdan kechirdi, jumladan qattiq pul-kredit siyosati sharoitida ko'chmas mulk bozori va moliya sektori aktivligining pasayishi bilan bog'liq texnik retsessiyani; 2025-yil o'rtasidan asta-sekin tiklanish kuzatilmoqda. Davlat moliyasi evrozonada eng barqarorlardan biri: davlat qarzi barqaror ravishda YaIMning 30% dan past. Hukumat uch tomonlama suveren kredit reytingiga ega. Avtomatik ish haqi indeksatsiyasi tizimi daromadlarni inflyatsiyadan himoya qiladi, ammo qo'shni mamlakatlarga nisbatan yuqori mehnat xarajatlari bosimini keltirib chiqaradi.",
+            "Asosiy tarmoqlar va global pozitsiyalar:"
+          ],
+          "list": [
+            "Investitsiya fondlari — Lyuksemburg AQSH dan keyin dunyodagi ikkinchi yirik investitsiya fondlari domitsili va Yevropadagi eng yirigi hisoblanadi. 2024-yil oxirida Lyuksemburgda ro'yxatdan o'tgan fondlar taxminan 5,5 trillion yevro aktivlarni boshqarmoqda. Lyuksemburg barcha global chegaraoldi fond aktivlarining taxminan yarmiga ega. UCITS fondlari 80 dan ortiq mamlakatda tarqatilmoqda. Dunyo bo'yicha eng yirik 50 ta aktiv boshqaruvchi kompaniya Lyuksemburgda fond tuzilmalarini yaratgan.",
+            "Bank va moliya xizmatlari — Lyuksemburg iqtisodiyot hajmiga nisbatan YItdagi eng yirik bank sektorlaridan biriga ega: taxminan 120 ta bank yirik global moliya institutlarini ifodalaydi. Mamlakat xususiy bank xizmatlari, obligatsiyalar chiqarish va moliyaviy holding tuzilmalari uchun asosiy markaz hisoblanadi. LGX biržasi yashil, ijtimoiy va barqaror obligatsiyalar bo'yicha global etakchidir.",
+            "Yo'ldosh aloqasi va kosmik soha — Lyuksemburgdagi SES dunyo etakchi yo'ldosh operatorlaridan biri. Lyuksemburg Yevropada birinchi, dunyoda ikkinchi bo'lib tijorat kosmik resurslarini qazib olish uchun huquqiy bazani yaratdi (SpaceResources.lu, 2017). Mamlakatda 80 dan ortiq kosmik kompaniya mavjud va Yevropa Kosmik Resurslar Innovatsiya Markazi (ESRIC) joylashgan.",
+            "Po'lat — ArcelorMittal o'z ildizini Lyuksemburgning Arbed kompaniyasidan oladi. Po'lat sanoati hozir ham mavjud bo'lib, tovar eksportida, ayniqsa AQSHga, sezilarli ulushni tashkil etadi.",
+            "AKT va raqamli infratuzilma — Lyuksemburg barqaror elektr ta'minoti, qulay tartibga solish, ko'p tilli ish kuchi va soliq muhiti tufayli yirik Yevropa ma'lumotlar markazi markaziga aylandi.",
+            "Logistika va logistika moliyasi — YI ichidagi markaziy joylashuv, Findel aeroportining yuk operatsiyalari va holding funksiyalari Lyuksemburgni pan-Yevropa logistika tuzilmalarining muhim tuguniga aylantiradi."
+          ]
+        },
+        {
+          "heading": "Tashqi savdo.",
+          "paragraphs": [
+            "Lyuksemburg eksporti asosan xizmatlardan iborat: moliya xizmatlari umumiy eksportning taxminan 45%, boshqa biznes xizmatlari esa taxminan 43% ni tashkil etadi. Tovar eksporti po'lat, kimyoviy mahsulotlar va kauchukda to'plangan. AQSh asosiy Yevropa tashqarisidagi bozor hisoblanadi. Asosiy savdo sheriklari Belgiya, Germaniya va Fransiya. Lyuksemburg moliya xizmatlari eksporti hisobiga barqaror joriy hisob profitsitini saqlab kelmoqda."
+          ]
+        },
+        {
+          "heading": "Xalqaro tashkilotlar.",
+          "paragraphs": [],
+          "list": [
+            "Birlashgan Millatlar Tashkiloti (BMT) — asos soluvchi davlat",
+            "Shimoliy Atlantika shartnomasi tashkiloti (NATO) — asos soluvchi davlat",
+            "Yevropa Ittifoqi (YI) — asos soluvchi davlat; Lyuksemburgda YI Sudi, Hisob palatasi va Yevropa Parlamenti Kotibiyati joylashgan",
+            "Iqtisodiy hamkorlik va taraqqiyot tashkiloti (OECD) — asos soluvchi davlat",
+            "Jahon savdo tashkiloti (JST)",
+            "Xalqaro valyuta fondi (XVF) va Jahon banki guruhi",
+            "Yevropa Kengashi",
+            "Benelux Ittifoqi",
+            "Shengen zonasi va Evrozona a'zosi",
+            "Yevropa investitsiya banki (YIB) — bosh ofisi Lyuksemburgda"
+          ]
+        },
+        {
+          "heading": "Investitsiya muhiti.",
+          "paragraphs": [
+            "Lyuksemburg xorijiy mulk egallashga hech qanday cheklov yo'q va xorijiy investorlarga nisbatan kamsituvchi siyosat olib borilmaydigan, dunyodagi eng ochiq investitsiya muhitlaridan birini saqlab kelmoqda. Umumiy to'g'ridan-to'g'ri xorijiy investitsiyalar (TXI) hajmi milliy YaIMdan bir necha barobar ko'p. Hukumat Luxembourg Trade & Invest va Luxembourg for Finance orqali TXI jalb qilishni faol targ'ib qiladi. 2023-yil sentyabrda TXI skrining mexanizmi kuchga kirdi. Lyuksemburg Korrupsiyani idrok etish indeksida dunyo bo'yicha beshinchi o'rinda. Asosiy investitsiya rag'batlantirish choralari: ILMT bo'yicha soliq imtiyozlari, tezlashtirilgan amortizatsiya va intellektual mulkni soliqqa tortishning imtiyozli rejimi."
+          ]
+        },
+        {
+          "heading": "Biznes yuritish.",
+          "paragraphs": [
+            "Lyuksemburg Yevropa bo'ylab eng qulay biznes yuritish muhitlaridan biri sifatida doimiy ravishda yuqori baholanadi. Kompaniyani ro'yxatdan o'tkazish tez va markazlashgan elektron portal orqali bir necha tilda amalga oshiriladi. Moliya sektori CSSF nazorati ostida — Yevropaning eng tajribali va operativ regulyatorlaridan biri. Ko'p tilli ish kuchi muhim operatsion ustunlik hisoblanadi. Mamlakat Global Innovatsiyalar Indeksida 20-o'rinda, IMD raqobatbardoshlik reytingida esa 23-o'rinda turadi."
+          ]
+        },
+        {
+          "heading": "Strategik ahamiyat.",
+          "paragraphs": [
+            "Lyuksemburgning strategik ahamiyati o'z hajmidan uch jihatda oshib ketadi. YI Sudi, Hisob palatasi va Yevropa Parlamenti Kotibiyati kabi asosiy YI institutlariga mezbonlik qiluvchi davlat sifatida u Yevropa Ittifoqining institutsional arxitekturasida markaziy o'rinni egallaydi. Dunyodagi ikkinchi yirik investitsiya fondlari domitsili sifatida Lyuksemburg institutsional kapital tuzilmalashtiriladi va global bozorlarga taqsimlanadigap asosiy kanal vazifasini o'taydi. Beneluxning asos soluvchi a'zosi va YI muhokamalarda integratsiya tarafdori sifatida Lyuksemburg o'z aholisi hajmiga nisbatan nomutanosib diplomatik ta'sir ko'rsatadi, ayniqsa moliyaviy tartibga solish, soliqqa tortish va Yevropa institutsional masalalarida."
+          ]
+        }
+      ]
+    },
+    "benelux": {
+      "intro": "Hudud haqida umumiy ma'lumot",
+      "title": "Benelux hududi",
+      "facts": [
+        { "label": "Tarkibi", "value": "Belgiya, Niderlandiya, Lyuksemburg" },
+        { "label": "Umumiy maydoni", "value": "taxminan 74 000 kv. km" },
+        { "label": "Umumiy aholisi", "value": "taxminan 30 million kishi" },
+        { "label": "Kotibiyat", "value": "Bryussel, Belgiya" },
+        { "label": "Huquqiy asos", "value": "Benelux Ittifoqi shartnomasi (2008), Benelux iqtisodiy ittifoqi shartnomasining (1958) va asl Benelux bojxona konventsiyasining (1944) vorisi" }
+      ],
+      "sections": [
+        {
+          "heading": "Institutsional tuzilma.",
+          "paragraphs": [
+            "Benelux Ittifoqi beshta asosiy organiga ega hukumatlararo tashkilotdir: Vazirlar qo'mitasi (aylanuvchan yillik raislik bilan oliy qaror qabul qiluvchi organ), Benelux Kengashi (yuqori mansabdor shaxslar), Benelux Parlamenti (parlamentlararo assambleya), Benelux Sudi (Lyuksemburgda joylashgan; umumiy huquqiy normalarning bir xil talqinini ta'minlaydi) va Bosh kotibiyat (Bryussel). Yagona Benelux Intellektual mulk idorasi (BOIP) butun hududni qamrab oladi. Uchala a'zo-davlat ham Yevropa Ittifoqi, NATO va OECDning asos soluvchi a'zolari hisoblanadi. Benelux Ittifoqi o'zini \"YI uchun tirik laboratoriya\" sifatida tavsiflaydi — keyinchalik YI miqyosida qo'llaniladigan chuqurroq integratsiya modellarini sinab ko'radigan maydon. Oliy ta'lim diplomlarini o'zaro avtomatik tan olish, chegaraoldi politsiya ma'lumotlar bazasiga kirish va quvib ta'qib qilish huquqlari hamda favqulodda xizmatlar bo'yicha qo'shma hamkorlik ushbu tizimning amaliy natijalari jumlasiga kiradi."
+          ]
+        },
+        {
+          "heading": "Tarixiy ahamiyati.",
+          "paragraphs": [
+            "Uchta hukumat tomonidan muhojirlikda 1944-yil 5-sentabrda Londonda imzolangan Benelux Bojxona konventsiyasi Yevropa integratsiyasining to'g'ridan-to'g'ri institutsional salaflari sifatida keng tan olingan. Bu urushdan keyingi davrning birinchi ko'p tomonlama bojxona ittifoqi bo'lib, keyinchalik Yevropa iqtisodiy hamjamiyati (1957) va nihoyat Yevropa Ittifoqi orqali kontinental miqyosda qabul qilingan tovarlar, kapital, xizmatlar va mehnatning erkin harakatlanishi shablonini yaratdi. Benelux kuni har yili 5-sentabrda nishonlanadi."
+          ]
+        },
+        {
+          "heading": "Iqtisodiy profil.",
+          "paragraphs": [
+            "Hudud YI YaIMining taxminan 7,9% ini ishlab chiqaradi, bunda faqat YI hududining 1,7% ini egallaydi va YI aholisining 5,6% ini joylashtiradi — bu yer maydoniga nisbatan dunyodagi eng yuqori unumdorlik ko'rsatkichlaridan biri. Umumiy nominal YaIM taxminan 2 trillion AQSh dollarini tashkil etadi (Belgiya taxminan 670 mlrd, Niderlandiya taxminan 1,2 trillion, Lyuksemburg taxminan 93 mlrd). Hududdagi aholi boshiga YaIM dunyoda eng yuqori ko'rsatkichlar orasida bo'lib, Lyuksemburg YIdagi eng yuqori nominal aholi boshiga YaIM ko'rsatkichiga katta farq bilan ega. Uchta iqtisodiyot bir-birini takrorlamay, balki to'ldiradi: Belgiya va Niderlandiya hududning sanoat, qishloq xo'jaligi va logistika markazlari vazifasini o'taydi, Lyuksemburg esa moliya va institutsional markazligi bilan ajralib turadi."
+          ]
+        },
+        {
+          "heading": "Global iqtisodiy pozitsiyalar.",
+          "paragraphs": [
+            "Benelux o'z geografik hajmiga nisbatan global miqyosda nomutanosib pozitsiyalarni jamlagan. Rotterdam porti yuk hajmi bo'yicha Yevropaning eng yirik dengiz porti bo'lib, barcha YI konteyner trafikining taxminan 30% ini qayta ishlaydi. Antverpen-Bryugge porti Yevropaning ikkinchi yirik dengiz porti va dunyoning etakchi olmos savdosi va qayta ishlash markazi bo'lib, undan dunyo bo'yicha qo'pol olmaslarning taxminan 80–85% o'tadi. Amsterdam-Rotterdam-Antverpen (ARA) koridori birgalikda Yevropaning eng yirik neft qayta ishlash va distribyutsiya klasterini tashkil etadi. Eindhovenda (Niderlandiya) joylashgan ASML dunyoda ekstremal ultrabinafsha litografiya mashinalarining yagona ishlab chiqaruvchisi bo'lib, bu global miqyosda ilg'or yarim o'tkazgich ishlab chiqarishdagi hal qiluvchi bo'g'indir. Lyuksemburg AQSHdan keyin dunyodagi ikkinchi yirik investitsiya fondlari domitsili hisoblanadi. Belgiya biofarmatsevtika eksporti bo'yicha dunyo etakchilari qatorida va aholi boshiga kimyo va plastmassa ishlab chiqarish bo'yicha dunyo lideri. Niderlandiya qiymat bo'yicha qishloq xo'jaligi eksportida dunyo bo'yicha ikkinchi o'rinda. Schiphol aeroporti (Amsterdam) yuk va yo'lovchi hajmi bo'yicha Yevropaning to'rtta eng yirik aeroportidan biri. Hududning kombinatsiyalangan havo-dengiz-temir yo'l-avtomobil logistika infratuzilmasi uni Yevropa materigiga kiruvchi va undan chiquvchi tovar oqimlari uchun asosiy kirish va chiqish nuqtasiga aylantiradi."
+          ]
+        },
+        {
+          "heading": "Institutsional geografiya.",
+          "paragraphs": [
+            "Benelux hududidagi yirik xalqaro institutlarning to'planishi taqqoslanadigan maydonli hududlar uchun global miqyosda tengsizdir. Bryussel Yevropa Ittifoqi (Yevropa komissiyasi, Yevropa kengashi, YI Kengashi), NATO va yuzlab xalqaro tashkilotlar, diplomatik missiyalar va lobbistik tuzilmalar bosh ofislariga mezbonlik qiladi. Gaaga Xalqaro sud, Doimiy arbitraj sudi, Xalqaro jinoiy sud va ko'plab xalqaro tribunallarga ega. Lyuksemburg shahri YI Sudi, Yevropa hisob palatasi va Yevropa parlamenti kotibiyatini joylashtiradi. Bu institutsional zichlik Beneluxga global boshqaruvda odatda aholisi yoki hududi bilan belgilanadigan darajadan ancha yuqori tarkibiy rol beradi."
+          ]
+        },
+        {
+          "heading": "Savdo va investitsiyalar.",
+          "paragraphs": [
+            "Benelux dunyoning eng ochiq savdo mintaqalaridan biri bo'lib, uchala a'zo-davlatda ham YaIMdagi eksport ulushi YI o'rtacha ko'rsatkichidan ancha yuqori. Hudud ham yirik ishlab chiqaruvchi, ham ulkan re-eksport markazi vazifasini bajaradi: Rotterdam va Antverpen orqali keladigan tovarlar Yevropa bo'ylab va undan tashqarida qayta ishlanadi va qayta taqsimlanadi. Barcha YI chegaraoldi ishchilarining taxminan 37% Benelux mamlakatlarida band — bu hududning chuqur mehnat bozori integratsiyasi va chegaraoldi ish kuchi oqimlarining aksidir. AQSh Belgiya va Niderlandiya ikkalasiga ham YI tashqarisidan eng yirik to'g'ridan-to'g'ri xorijiy investitsiyalar manbai. ARA neft narxlash kompleksi Yevropa energetika bozori uchun global etalon ko'rsatkichi sifatida xizmat qiladi."
+          ]
+        },
+        {
+          "heading": "Asosiy tarkibiy xususiyatlar.",
+          "paragraphs": [
+            "Hududning kuchli tomonlari to'rtta o'zaro kuchaytiradigan ustunda: istisno logistika va transport infratuzilmasi; yuqori malakali, ko'p tilli va xalqaro miqyosda harakatchan ish kuchi; yagona bozorga to'siqlarsiz kirish imkonini beruvchi YI tartibga solish va institutsional tizimlariga integratsiya; va moliya xizmatlari, texnologiyalar, farmatsevtika, kimyo va logistika sohalarida global transmilliy korporatsiyalar bosh ofislarini jalb qilgan tarixan biznesga qulay tartibga solish va soliq muhiti. Benelux ichidagi chegaraoldi mehnat oqimlari dunyodagi eng zichlari orasida — Lyuksemburg ish kuchining taxminan 43% i har kuni Belgiya, Fransiya va Germaniyadan kelib ishlaydi."
+          ]
+        },
+        {
+          "heading": "Strategik ahamiyat.",
+          "paragraphs": [
+            "Benelux hududi Yevropa va global ishlarda savdo, moliya, boshqaruv, texnologiya va xavfsizlikni bir vaqtda qamrab oladigan tarkibiy jihatdan mustahkamlangan pozitsiyani egallaydi. Yevropa integratsiyasi uchun sinovdan o'tish maydonchasi sifatidagi kelib chiqishi, YI asosiy institutlari va NATO bosh qarorgohi o'rnidagi hozirgi roli va kontinentning asosiy logistika darvozasi vazifasi birgalikda uni o'z hajmiga nisbatan dunyodagi eng strategik jihatdan to'plangan geografik mintaqalardan biriga aylantiradi. YI doirasida qonunchilik va siyosat masalalarida muvofiqlashtirilgan Benelux pozitsiyalari nomutanosib katta og'irlikka ega bo'lib, birgalikdagi Benelux deklaratsiyalari uchala mamlakat alohida hajmiga nomutanosib e'tiborni doimiy ravishda jalb qiladi."
+          ]
+        }
+      ]
+    },
+    "central_asia": {
+      "intro": "Markaziy Osiyo: O'zbekistondagi Benelux Savdo palatasi uchun strategik pozitsiyalash",
+      "title": "Markaziy Osiyo hududi",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "Qozog'iston, Qirg'iziston, Tojikiston, Turkmaniston va O'zbekistonni o'z ichiga olgan Markaziy Osiyo Yevropa va Osiyo kesishmasida strategik jihatdan muhim va iqtisodiy jihatdan dinamik mintaqa sifatida o'z mavqeini tobora mustahkamlamoqda. Taxminan 82 million nafar aholi va barqaror demografik o'sish bilan mintaqa kengayib borayotgan iste'mol bozorlarini, raqobatbardosh mehnat kuchini va Benelux korxonalarining xalqarolashuv ustuvorliklariga yaqin uzoq muddatli talab omillarini taqdim etadi.",
+            "So'nggi yigirma yil davomida Markaziy Osiyo barqaror yuqori makroiqtisodiy ko'rsatkichlarni namoyish etdi: o'rtacha o'sish sur'atlari global ko'rsatkichlardan sezilarli darajada oshib ketdi va 2024 yilda mintaqaning yalpi ichki mahsuloti taxminan 519 milliard AQSh dollariga yetdi. Bu yo'nalish mintaqaning resurs salohiyatini aks ettirishi bilan birga, iqtisodiy diversifikatsiya, tartibga solishni modernizatsiya qilish va xalqaro hamkorlikka ko'proq ochiqlikka qarab bosqichma-bosqich maqsadli o'tishni ham ifodalaydi. Bu muhitda Qozog'iston va O'zbekiston islohot yo'naltirilgan etakchi iqtisodiyotlar sifatida ajralib turadi — tobora bashorat qilinarli biznes muhitini taklif etib, Yevropa kapitali uchun asosiy kirish nuqtalari bo'lib xizmat qilmoqda.",
+            "Mintaqaning strategik qiymati istisno tabiiy resurs bazasi bilan yanada mustahkamlanadi: uglevodorodlar, uran, oltin va litiy, noyob yer elementlari va mis kabi keng spektrli kritik xom ashyo. Global energetika o'tishi va ta'minot zanjirlarini diversifikatsiya qilish kontekstida Markaziy Osiyo Yevropa uchun ishonchli va tobora muhim hamkor sifatida ko'tarilmoqda. Bu bevosita Benelux mamlakatlarining sanoat va texnologik kuchliklariga mos keladi — ayniqsa barqaror energetika, ilg'or materiallar, logistika va tsirkular iqtisodiyot yechimlari sohasida.",
+            "Shu bilan birga, Markaziy Osiyo ulanishlik sohasida tarkibiy o'zgarishlarni boshdan kechirmoqda. Trans-Kaspiy xalqaro transport yo'li (O'rta yo'lak) va Xitoyni Markaziy va Janubiy Osiyo bilan bog'lovchi yangi temir yo'l liniyalari kabi yirik infratuzilma tashabbuslari mintaqani muhim tranzit va logistika markaziga aylantirib bo'lmoqda. Benelux manfaatdor tomonlari — ayniqsa portlar, logistika va ta'minot zanjirini boshqarish sohasidagilar — uchun bu rivojlanish yangi evrosiyo savdo koridorlari bo'ylab strategik mavjudligini ta'minlash bilan birga tajriba qo'shish uchun aniq imkoniyatlar taqdim etadi.",
+            "Markaziy Osiyoning tashqi iqtisodiy hamkorigi sezilarli darajada kengaydi: Xitoy, Yevropa Ittifoqi va boshqa global aktörlar savdo, investitsiya va institutsional hamkorlik orqali o'z mavjudligini faol chuqurlashtirmoqda. YIning \"Global Shlyuz\" tashabbusi va Qozog'iston va O'zbekiston kabi mamlakatlar bilan o'sib borayotgan ikki tomonlama doiraviy kelishuvlar manfaatlar to'g'ri kelishini yaqqol ko'rsatadi. Shu muhitda O'zbekistondagi Benelux Savdo palatasi tuzilgan hamkorlikni osonlashtiruvchi sifatida noyob pozitsiyani egallaydi — Yevropa strategik ustuvorliklarini amaliy, loyiha darajasidagi hamkorlikka aylantiradi.",
+            "Investitsion nuqtai nazardan mintaqa yuqori o'sish sohalari va davom etayotgan islohot jarayonlarining kombinatsiyasini taklif etadi. Institutsional doiralar rivojlanishda davom etayotgan bo'lsa-da, Markaziy Osiyodagi hukumatlar investitsiya iqlimini yaxshilash, infratuzilmani rivojlantirish va to'g'ridan-to'g'ri xorijiy investitsiyalarni jalb qilishga qaratilgan siyosatlarni faol joriy qilmoqda. Bu erta va yaxshi tuzilgan hamkorlik uchun imkoniyat oynasini yaratadi — ayniqsa uzoq muddatli istiqbolda rivojlanayotgan bozor muhitlarida ishlashga qodir kompaniyalar uchun.",
+            "Ushbu rivojlanayotgan ekotizimda O'zbekistondagi Benelux Savdo palatasi Yevropa va Markaziy Osiyo manfaatdor tomonlarini bog'laydigan muhim platforma vazifasini bajaradi. Institutsional aloqalar, diplomatik muvofiqlashtirish va a'zolarning o'sib borayotgan tarmog'idan foydalanib, Palata bozorga chiqishni osonlashtirish, strategik hamkorliklarni qo'llab-quvvatlash va energetika, kritik xom ashyo, qishloq xo'jaligi, infratuzilma va innovatsiyalar kabi asosiy sohalarda imkoniyatlarga muvofiqlashtirilgan kirishni ta'minlash uchun qulay pozitsiyada turadi.",
+            "Kelajakka nazar tashlasak, Markaziy Osiyoning trajektoriyasi mintaqaning resurs boyligini diversifikatsiyalangan iqtisodiy o'sishga aylantirish, mintaqaviy hamkorlikni mustahkamlash va murakkab geosiyosiy muhitda samarali harakat qilish qobiliyati bilan belgilanadi. Benelux biznes jamiyati uchun bu nafaqat imkoniyatlar bozori, balki strategik ahamiyatga ega bo'lgan mintaqa bo'lib, unda Palata kabi institutsional platformalar yordamida erta jalb bo'lish uzoq muddatli raqobat ustunligini ta'minlashi mumkin."
+          ]
+        }
+      ]
+    }
+  },
+  "press-releases": {
+    "items": [
+      {
+        "label": "MATBUOT RELIZI",
+        "organization": "O'zbekistondagi Benelux Savdo palatasi",
+        "title": "O'zbekiston–Niderlandiya qishloq xo'jaligi simpoziumi ikki tomonlama hamkorlikning yangi bosqichini belgilamoqda",
+        "date": "Toshkent, 2026-yil 13-aprel",
+        "image": "/press/1.png",
+        "paragraphs": [
+          "O'zbekistondagi Benelux Savdo palatasi bugun Toshkent davlat agrar universitetida o'tkazilgan O'zbekiston–Niderlandiya qishloq xo'jaligi simpoziumi hamtashkilotchi sherigi sifatida ishtirok etdi. Tadbir O'zbekiston va Niderlandiya Qirolligi o'rtasida qishloq xo'jaligi sohasidagi hamkorlikni rivojlantirishda muhim bosqich bo'lib, ushbu sohada ikki tomonlama munosabatlarning chuqurlashayotganini aks ettirdi.",
+          "Simpozium ikki mamlakat o'rtasidagi so'nggi yuqori darajadagi uchrashuvlarda erishilgan kelishuvlarning amaliy davomi bo'lib, o'zaro ishonch va umumiy iqtisodiy manfaatlarga asoslangan strategik hamkorlikni mustahkamlashga hissa qo'shdi.",
+          "Tadbir Lianna Kersbergen boshchiligidagi yuqori darajali niderlandiyalik delegatsiyani, shuningdek vazirliklar va idoralar, ilmiy-tadqiqot muassasalari, oliy o'quv yurtlari, yetakchi kompaniyalar, xalqaro tashkilotlar va ikki mamlakatning biznes hamjamiyatlari vakillarini birlashtirdi.",
+          "Muhokamalar asosiy ustuvorliklarni: qishloq xo'jaligini modernizatsiya qilish, unumdorlikni oshirish, resurs tejamkor texnologiyalarni joriy etish, fan va amaliyot integratsiyasini mustahkamlash hamda yangi investitsiya loyihalarini ishlab chiqishni o'z ichiga oldi. Simpozium tajriba almashish, ilg'or yechimlar bo'yicha muloqot va hamkorlikning yangi yo'nalishlarini aniqlash uchun amaliy platforma bo'lib xizmat qildi.",
+          "Ishtirokchilar O'zbekiston–Niderlandiya hamkorligining uzoq muddatli strategik ahamiyatini ta'kidladi va uning Markaziy Osiyoda agrar innovatsiyalarni rivojlantirishdagi rolini qayd etdi. Niderlandiya yuqori samarali va innovatsiyaga asoslangan qishloq xo'jaligida dunyo yetakchisi sifatida e'tirof etildi, O'zbekiston esa ilg'or amaliyotlarni samarali lokal qilish uchun muhim agrar salohiyat va mustahkam asosga ega ekanligi ta'kidlandi.",
+          "Shu munosabat bilan keyingi hamkorlikning ustuvor yo'nalishlari sifatida fitosanitariya xavfsizligi, urug'chilik tizimlari, issiqxona xo'jaligini modernizatsiya qilish, bog'dorchilik va mevachillik, ilg'or agrotexnologiyalarni joriy etish hamda agrar ta'lim va ilm-fandagi hamkorlik belgilandi.",
+          "Palata O'zbekistonda qishloq xo'jaligini modernizatsiya qilish, qo'shilgan qiymatni oshirish, eksport salohiyatini kengaytirish va zamonaviy texnologiyalarni joriy etishga qaratilgan davom etayotgan islohotlar niderlandiyalik sheriklar bilan xalqaro hamkorlikni kuchaytirish uchun qulay sharoit yaratayotganini ta'kidladi.",
+          "Ikki tomonlama munosabatlardagi ijobiy dinamika ham qayd etildi: savdo aylanmasining barqaror o'sishi ikki mamlakat o'rtasidagi iqtisodiy aloqalarning kengayib borayotganini aks ettirmoqda.",
+          "Simpozium doirasida bir qator kelishuv va memorandumlar imzolanishi, shuningdek aniq qo'shma loyihalar ilgari surilishi kutilmoqda. Tadbirda bo'lib o'tgan B2B uchrashuvlar, taqdimotlar va muzokaralar to'g'ridan-to'g'ri investitsiyalarni jalb qilish, hamkorliklarni rivojlantirish va innovatsion texnologiyalarni amaliy joriy etish uchun mustahkam zamin yaratdi.",
+          "Ushbu tashabbuslar qishloq xo'jaligi unumdorligini oshirish, suv va yer resurslaridan samarali foydalanishni ta'minlash, eksport hajmlarini kengaytirish va oziq-ovqat xavfsizligini mustahkamlashga hissa qo'shishi kutilmoqda.",
+          "O'zbekistondagi Benelux Savdo palatasi tuzilgan muloqot, hamkorliklarni rivojlantirish va o'zbek va benelux manfaatdor tomonlari o'rtasida qo'shma tashabbuslarni targ'ib qilish orqali ushbu hamkorlikni rivojlantirishni qo'llab-quvvatlashda davom etadi.",
+          "Simpozium O'zbekiston va Niderlandiya o'rtasida ishonchli va uzoq muddatli hamkorlikni mustahkamlash, shuningdek agrar sektorda innovatsiyaga asoslangan o'sish uchun mustahkam zamin yaratishda muhim qadam sifatida baholanmoqda."
+        ]
+      }
+    ]
+  }
+}
